@@ -105,7 +105,7 @@ class BulkImportTopologyWithRelationsService:
 
 if __name__ == "__main__":
     project_id = 60
-    device_details_location = "https://raw.githubusercontent.com/jaganmithran99/Neo4j_Aura_POC/main/device_details_csv.csv"
-    relationship_location = "https://raw.githubusercontent.com/jaganmithran99/Neo4j_Aura_POC/main/relationship_details_csv.csv"
+    device_details_location = "https://raw.githubusercontent.com/jaganmithran99/Neo4j_Aura_POC/main/artifacts/device_details_csv.csv"
+    relationship_location = "https://raw.githubusercontent.com/jaganmithran99/Neo4j_Aura_POC/main/artifacts/relationship_details_csv.csv"
     obj = BulkImportTopologyWithRelationsService(project_id=project_id)
     response = obj.bulk_import(device_file_path=device_details_location, rel_file_path=relationship_location)
