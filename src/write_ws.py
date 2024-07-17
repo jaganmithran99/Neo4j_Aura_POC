@@ -105,7 +105,7 @@ class ImportTopologyWithRelationsService:
             "type": "Type",
             "description": "Description",
             "ipAddress": "IP Address",
-            "macAddress": "MA\nC Address",
+            "macAddress": "MAC Address",
             "serialNumber": "Serial Number",
             "modelNuber": "Model Number",
             "deviceStatus": "Status",
