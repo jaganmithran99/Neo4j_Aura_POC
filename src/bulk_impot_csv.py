@@ -1,4 +1,5 @@
 import time
+import uuid
 
 from neo4j import GraphDatabase
 
@@ -49,8 +50,8 @@ class BulkImportTopologyWithRelationsService:
         tx.run(
             "LOAD CSV WITH HEADERS FROM $file AS row "
             f"MERGE (n:{self._node_label} {{{self._generate_field_mappings()}}}) "
-            "ON CREATE SET n += row",
-            file=f"{file_path}"
+            "ON CREATE SET n += row, n.internalAssetId = internalAssetId",
+            file=f"{file_path}", internalAssetId=str(uuid.uuid4())
         )
 
     def _import_relationship(self, tx, file_path):
