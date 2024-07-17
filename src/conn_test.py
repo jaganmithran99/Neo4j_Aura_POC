@@ -1,9 +1,9 @@
 from neo4j import GraphDatabase
 from neo4j.exceptions import ServiceUnavailable, AuthError
 
-uri = "neo4j+ssc://758e9445.databases.neo4j.io"
+uri = "uri"  # replace with correct value
 username = "neo4j"
-password = "WdI0iz8218Vd-0IN4PRRMGhp5dGOvbGvNKdxCmXAvT4"
+password = "password"
 
 
 def check_connection(uri, username, password):

@@ -22,9 +22,9 @@ class RetrieveNodeAndRelations(object):
 
     @staticmethod
     def _establish_connection():
-        neo4j_uname = "neo4j"
-        neo4j_pwd = "WdI0iz8218Vd-0IN4PRRMGhp5dGOvbGvNKdxCmXAvT4"
-        neo4j_uri = "neo4j+ssc://758e9445.databases.neo4j.io"
+        neo4j_uname = "neo4j"  # replace with correct value
+        neo4j_pwd = "password"
+        neo4j_uri = "uri"
 
         if neo4j_uname and neo4j_pwd and neo4j_uri:
             start = time.time()

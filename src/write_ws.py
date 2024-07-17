@@ -12,7 +12,7 @@ class ImportTopologyWithRelationsService:
         self._device_details_data: List[dict] = device_details_data
         self._relationship_data: List[dict] = relationship_data
         self._node_label = "CI"
-        self._unique_properties = ["smartopsAssetId", "assetId"]
+        self._unique_properties = ["internalAssetId", "assetId"]
         self._node_indices = ["name"]
         self._rel_indices = ["type", "assetId"]
         self._driver = self._establish_connection()
@@ -20,9 +20,9 @@ class ImportTopologyWithRelationsService:
     @staticmethod
     def _establish_connection():
 
-        neo4j_uname = "neo4j"
-        neo4j_pwd = "WdI0iz8218Vd-0IN4PRRMGhp5dGOvbGvNKdxCmXAvT4"
-        neo4j_uri = "neo4j+s://758e9445.databases.neo4j.io"
+        neo4j_uname = "neo4j"  # replace with correct value
+        neo4j_pwd = "password"
+        neo4j_uri = "uri"
 
         if neo4j_uname and neo4j_pwd and neo4j_uri:
             start = time.time()
@@ -128,7 +128,7 @@ class ImportTopologyWithRelationsService:
             for aiops_key, ip_key in mappings.items():
                 if ip_key in item:
                     converted_item[aiops_key] = item[ip_key]
-            converted_item["smartopsAssetId"] = str(uuid.uuid4())
+            converted_item["internalAssetId"] = str(uuid.uuid4())
             converted_list.append(converted_item)
 
         self._device_details_data = converted_list

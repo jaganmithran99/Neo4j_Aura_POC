@@ -8,14 +8,14 @@ class BulkImportTopologyWithRelationsService:
     def __init__(self, *, project_id: int):
         self._project_id: int = int(project_id)
         self._node_label = "BI"
-        self._unique_properties = ["smartopsAssetId", "assetId"]
+        self._unique_properties = ["internalAssetId", "assetId"]
         self._driver = self._establish_connection()
 
     @staticmethod
     def _establish_connection():
-        neo4j_uname = "neo4j"
-        neo4j_pwd = "WdI0iz8218Vd-0IN4PRRMGhp5dGOvbGvNKdxCmXAvT4"
-        neo4j_uri = "neo4j+ssc://758e9445.databases.neo4j.io"
+        neo4j_uname = "neo4j"  # replace with correct value
+        neo4j_pwd = "password"
+        neo4j_uri = "uri"
 
         if neo4j_uname and neo4j_pwd and neo4j_uri:
             start = time.time()
@@ -58,9 +58,8 @@ class BulkImportTopologyWithRelationsService:
             "LOAD CSV WITH HEADERS FROM $file AS row "
             f"MATCH (source:{self._node_label} {{assetId: row.`Source Asset ID`}}) "
             f"MATCH (target:{self._node_label} {{assetId: row.`Target Asset ID`}}) "
-            "MERGE (source)-[r:`Relationship Type Name`]->(target) "
-            "SET r = row "
-            "REMOVE r.`Source Asset ID`, r.`Target Asset ID`",
+            "CALL apoc.create.relationship(source, row.`Relationship Type Name`, apoc.map.removeKeys(row, ['Source Asset ID', 'Target Asset ID', 'Relationship Type Name']), target) YIELD rel "
+            "RETURN rel",
             file=f"{file_path}"
         )
 
