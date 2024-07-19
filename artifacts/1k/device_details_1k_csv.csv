@@ -1,0 +1,1001 @@
+Asset ID,Asset Name,Type,Description,IP Address,MAC Address,Serial Number,Model Number,Status,Decommissioned,Business Criticality,Impact Radius,Resource Group,Vendor,Manufacturer,Device Contact,Country,Site,Region,Business Time Zone,Tags
+351,Device1,Firewall,Description of Device1,130.222.248.170,39:df:79:be:6b:6d,SNOF3YPW,ModelHI4T,Active,No,Low,Local,Group2,HP,Dell,Contact2,UK,Branch Office,East,GMT-5,Tag1
+418,Device2,Server,Description of Device2,54.199.221.179,c5:00:a0:10:ab:8b,SNJMYRU2,ModelFNH2,Active,Yes,Low,Local,Group1,HP,HP,Contact1,Australia,Datacenter,North,GMT-8,Tag2
+931,Device3,Printer,Description of Device3,188.85.130.93,57:50:3e:78:4b:b3,SNUSEGBB,ModelBOEX,Active,No,Low,Global,Group2,Juniper,Dell,Contact5,USA,HQ,North,GMT-8,Tag3
+987,Device4,Router,Description of Device4,124.240.224.66,47:ba:72:45:d1:38,SNBVSK71,ModelULW8,Active,No,Low,Global,Group3,Cisco,Juniper,Contact5,UK,HQ,North,GMT-5,Tag2
+89,Device5,Router,Description of Device5,195.223.92.30,98:37:02:f7:43:67,SNIUZTHI,ModelC62E,Inactive,No,Medium,Local,Group1,IBM,IBM,Contact1,Canada,Warehouse,West,GMT+5,Tag1
+304,Device6,Printer,Description of Device6,59.251.58.223,0b:85:f5:4c:6b:19,SNCSS5PV,ModelD0HR,Inactive,Yes,Medium,Local,Group1,IBM,Juniper,Contact5,Canada,Datacenter,South,GMT+5,Tag3
+126,Device7,Switch,Description of Device7,216.36.39.204,c7:db:ba:00:9a:ad,SN4XW7JU,ModelULX5,Inactive,Yes,Low,Local,Group4,Juniper,Juniper,Contact4,Australia,Warehouse,North,GMT-5,Tag2
+644,Device8,Printer,Description of Device8,165.209.143.105,fe:15:56:c5:d4:f5,SNFTZPWN,ModelYWOT,Active,Yes,High,Global,Group3,IBM,Cisco,Contact1,USA,Datacenter,South,GMT+5,Tag2
+608,Device9,Firewall,Description of Device9,202.132.78.29,f2:02:07:ed:bf:5c,SN2BCTW9,ModelI5YK,Active,Yes,High,Local,Group1,Dell,Juniper,Contact4,UK,HQ,West,GMT-5,Tag3
+832,Device10,Server,Description of Device10,1.9.199.195,c4:31:4e:f2:ae:96,SNRFV72R,ModelLV3B,Inactive,Yes,High,Global,Group3,IBM,Juniper,Contact5,Canada,Warehouse,South,GMT-5,Tag1
+95,Device11,Router,Description of Device11,202.108.176.210,78:fe:d1:9f:78:2c,SNUQ7OKE,ModelQECZ,Active,Yes,Low,Local,Group2,IBM,IBM,Contact5,Australia,Warehouse,North,GMT-8,Tag1
+143,Device12,Switch,Description of Device12,39.203.83.69,c7:57:85:e8:e0:8b,SNFWOHQE,ModelS9G1,Active,Yes,High,Local,Group3,IBM,Cisco,Contact2,UK,Branch Office,East,GMT+5,Tag2
+801,Device13,Server,Description of Device13,171.254.31.183,5e:f8:7b:e3:23:98,SNSTPFPV,Model0106,Inactive,No,Medium,Local,Group5,Juniper,IBM,Contact2,Australia,Warehouse,East,GMT-5,Tag1
+501,Device14,Firewall,Description of Device14,148.60.204.187,45:8d:f8:92:4f:5e,SNFK3GT0,Model75CM,Inactive,No,Low,Local,Group2,Juniper,Cisco,Contact3,Germany,HQ,West,GMT-5,Tag3
+727,Device15,Switch,Description of Device15,201.26.171.125,6c:bd:3c:38:27:7d,SNTVKOIZ,Model9EGI,Active,No,Low,Local,Group1,Cisco,HP,Contact3,Germany,Datacenter,South,GMT-8,Tag1
+25,Device16,Server,Description of Device16,176.200.175.71,6e:7e:b5:17:54:12,SN20U678,Model7FBZ,Inactive,Yes,Low,Global,Group4,Cisco,Juniper,Contact5,Australia,Warehouse,North,GMT+5,Tag3
+902,Device17,Printer,Description of Device17,123.83.150.205,c3:6e:f4:87:da:a4,SNYZBTP4,Model4N4V,Active,No,High,Local,Group3,Juniper,Juniper,Contact5,Australia,Branch Office,South,GMT-8,Tag1
+155,Device18,Printer,Description of Device18,101.184.166.15,bf:f5:d8:50:21:21,SNR03NZN,ModelA16A,Inactive,Yes,Medium,Local,Group3,Dell,Dell,Contact3,USA,Warehouse,West,GMT-8,Tag1
+116,Device19,Printer,Description of Device19,254.201.199.150,28:da:dc:80:14:34,SNXB6QR6,ModelSBUB,Inactive,No,Low,Global,Group5,Dell,Juniper,Contact4,USA,HQ,North,GMT-8,Tag1
+170,Device20,Router,Description of Device20,47.5.113.155,5c:e1:61:69:aa:e4,SN1MXN1P,Model50E2,Inactive,No,Low,Local,Group5,IBM,Juniper,Contact5,Australia,Branch Office,West,GMT-5,Tag2
+212,Device21,Router,Description of Device21,72.59.207.188,09:f0:2a:a7:5a:b8,SNXC4R3Q,Model1XNO,Active,Yes,High,Global,Group1,Dell,HP,Contact5,UK,Warehouse,East,GMT+1,Tag2
+848,Device22,Switch,Description of Device22,227.185.155.153,a8:ee:65:ca:76:da,SNGNH990,ModelEJBI,Active,No,High,Global,Group1,IBM,Cisco,Contact4,Germany,HQ,West,GMT-5,Tag1
+435,Device23,Router,Description of Device23,52.50.103.173,ae:dc:cd:20:f7:13,SNKDB23C,ModelX11Q,Inactive,Yes,Medium,Global,Group3,Cisco,Dell,Contact1,Canada,Datacenter,South,GMT+5,Tag2
+479,Device24,Firewall,Description of Device24,21.245.151.32,c1:82:10:e0:f4:95,SNIYNSBE,ModelXTEV,Inactive,Yes,Low,Global,Group2,Cisco,Dell,Contact1,Australia,Datacenter,East,GMT-5,Tag2
+220,Device25,Router,Description of Device25,247.89.69.126,8f:1c:8a:00:de:3d,SN1JOKIE,Model83NI,Inactive,No,Medium,Global,Group1,Juniper,Juniper,Contact2,Canada,HQ,West,GMT+5,Tag1
+57,Device26,Firewall,Description of Device26,30.239.39.251,35:ea:6c:69:f3:a3,SN8GOI5C,ModelWKZE,Inactive,No,High,Local,Group4,HP,HP,Contact1,Germany,HQ,East,GMT+5,Tag3
+490,Device27,Printer,Description of Device27,51.131.166.251,f9:d8:9e:f8:65:73,SNTHQDRW,Model1P8O,Inactive,Yes,High,Local,Group3,Dell,IBM,Contact3,USA,HQ,East,GMT+1,Tag2
+845,Device28,Router,Description of Device28,9.228.70.207,f8:f0:89:c4:f0:d9,SN9TW3LO,ModelKJID,Inactive,Yes,Low,Local,Group4,HP,Cisco,Contact5,UK,Warehouse,North,GMT+5,Tag2
+106,Device29,Firewall,Description of Device29,115.114.36.54,77:fa:54:c8:be:8c,SND8SBXY,ModelW1I1,Inactive,Yes,Low,Local,Group5,IBM,Cisco,Contact5,USA,Warehouse,East,GMT+1,Tag2
+805,Device30,Server,Description of Device30,165.68.131.101,41:ca:30:d2:95:64,SN358I9X,Model9XY9,Active,Yes,Medium,Global,Group4,IBM,Juniper,Contact4,USA,Warehouse,North,GMT+5,Tag3
+444,Device31,Server,Description of Device31,112.137.188.23,21:c3:7d:7a:58:9b,SN1EVKW1,Model8AON,Active,No,Low,Local,Group5,IBM,Cisco,Contact3,USA,HQ,South,GMT-5,Tag2
+745,Device32,Server,Description of Device32,12.245.193.195,5c:76:47:97:3c:7f,SNNBRV21,Model641Q,Inactive,No,Low,Local,Group4,HP,Dell,Contact4,UK,HQ,South,GMT-8,Tag3
+658,Device33,Printer,Description of Device33,226.138.82.122,ac:11:15:aa:12:f4,SN70DVDK,ModelEGQM,Active,No,Low,Global,Group5,Juniper,Dell,Contact5,Germany,Datacenter,West,GMT-8,Tag1
+777,Device34,Firewall,Description of Device34,29.226.45.114,a7:73:00:7b:35:31,SN2P23I3,Model43HA,Inactive,No,High,Local,Group3,HP,Cisco,Contact3,Canada,Datacenter,West,GMT-8,Tag3
+659,Device35,Printer,Description of Device35,12.55.190.192,6e:b5:df:f9:86:08,SN9VL1FI,ModelOSZM,Active,Yes,Medium,Local,Group1,Dell,HP,Contact5,USA,Datacenter,East,GMT+1,Tag1
+787,Device36,Firewall,Description of Device36,179.170.50.253,d7:ae:50:9b:41:9b,SNL20QET,Model0AJP,Active,Yes,High,Global,Group5,Dell,Juniper,Contact1,UK,Datacenter,North,GMT+1,Tag3
+25,Device37,Server,Description of Device37,51.80.143.37,1b:8e:cf:80:37:96,SNWKUFHZ,ModelHU64,Active,Yes,Medium,Global,Group3,IBM,Cisco,Contact4,USA,HQ,West,GMT+5,Tag3
+97,Device38,Router,Description of Device38,112.54.207.70,46:52:ef:82:81:8a,SN01BYD3,ModelQ96C,Inactive,Yes,Medium,Local,Group3,Cisco,IBM,Contact4,USA,Branch Office,West,GMT-8,Tag2
+54,Device39,Printer,Description of Device39,194.25.219.180,62:3e:78:95:c7:01,SNN369YO,ModelXERV,Inactive,Yes,Medium,Local,Group1,Cisco,Dell,Contact3,Germany,HQ,North,GMT+5,Tag1
+821,Device40,Printer,Description of Device40,187.23.147.84,88:fc:67:6e:39:52,SN7HOYPL,Model54W7,Inactive,No,Medium,Local,Group4,Cisco,HP,Contact3,Canada,Warehouse,North,GMT-8,Tag2
+655,Device41,Printer,Description of Device41,22.176.211.252,91:57:7a:ac:95:9c,SN8FVENT,ModelIE99,Inactive,No,Medium,Local,Group3,Cisco,IBM,Contact5,UK,Branch Office,South,GMT-5,Tag1
+653,Device42,Router,Description of Device42,115.214.165.83,ef:a7:d4:a4:4d:75,SNJ0AVK8,Model7WYS,Active,Yes,Low,Global,Group1,IBM,Cisco,Contact2,Germany,Warehouse,East,GMT+5,Tag2
+229,Device43,Server,Description of Device43,150.23.168.215,44:29:bb:10:21:a8,SNJXQA1O,ModelN6BU,Active,No,Medium,Global,Group5,Juniper,HP,Contact4,UK,Warehouse,South,GMT+5,Tag1
+688,Device44,Firewall,Description of Device44,191.219.24.67,a6:8f:f2:2d:d8:42,SNTCNG45,ModelUZII,Inactive,Yes,High,Global,Group3,HP,Cisco,Contact2,UK,Datacenter,South,GMT+5,Tag2
+361,Device45,Switch,Description of Device45,127.179.146.220,4e:56:d9:da:9c:e7,SNPWRMHV,ModelPOQU,Active,No,Low,Global,Group5,IBM,Dell,Contact5,USA,HQ,South,GMT-5,Tag2
+850,Device46,Printer,Description of Device46,115.11.206.155,03:fd:5b:c4:53:0c,SNGP0FEW,ModelHHVR,Active,Yes,Low,Local,Group3,Juniper,Cisco,Contact3,Canada,Branch Office,West,GMT+5,Tag1
+332,Device47,Router,Description of Device47,251.25.241.5,4d:ed:ca:fd:a4:56,SNKGF4EG,ModelZZ7G,Active,No,Low,Local,Group4,Cisco,Juniper,Contact3,USA,Warehouse,West,GMT-8,Tag2
+503,Device48,Server,Description of Device48,206.241.56.127,05:57:f2:c9:0f:4f,SNLNM1UK,Model959P,Inactive,Yes,High,Global,Group4,IBM,HP,Contact1,USA,Branch Office,South,GMT+1,Tag2
+777,Device49,Printer,Description of Device49,170.52.53.231,d4:e9:42:b5:8b:ab,SNCJUDRN,Model405Q,Active,Yes,High,Global,Group4,HP,HP,Contact2,Germany,Warehouse,East,GMT-8,Tag2
+81,Device50,Server,Description of Device50,27.136.159.21,5e:dd:a8:21:81:d1,SNK8NUC9,ModelMISC,Inactive,Yes,Low,Local,Group1,Cisco,Juniper,Contact1,Canada,Branch Office,East,GMT-8,Tag3
+101,Device51,Server,Description of Device51,8.113.137.173,b4:fb:d2:b6:0b:7e,SNL0B6WK,ModelRFHB,Active,No,High,Local,Group3,HP,Dell,Contact4,USA,Branch Office,West,GMT-5,Tag3
+273,Device52,Router,Description of Device52,147.74.154.12,18:4f:2f:b8:61:bd,SNDM3KZM,ModelCUWD,Active,No,Medium,Global,Group2,HP,IBM,Contact4,Australia,Datacenter,West,GMT-5,Tag1
+123,Device53,Firewall,Description of Device53,203.253.189.128,2c:83:cd:7a:51:28,SNQMPQA3,ModelIM8M,Active,No,Medium,Local,Group2,IBM,Juniper,Contact1,UK,Warehouse,East,GMT+5,Tag1
+143,Device54,Printer,Description of Device54,249.49.84.127,8b:ad:fe:36:4a:e0,SNHIQVAI,Model6XBG,Inactive,No,Medium,Local,Group2,IBM,HP,Contact4,USA,Branch Office,East,GMT+1,Tag3
+437,Device55,Switch,Description of Device55,51.2.149.130,af:53:cc:45:60:b9,SNK1F4A3,ModelGKXS,Inactive,No,Low,Local,Group5,HP,Dell,Contact4,Australia,Warehouse,South,GMT-8,Tag2
+404,Device56,Printer,Description of Device56,157.98.6.209,60:07:3e:8d:0d:d8,SNF15NM7,Model12JY,Active,No,High,Global,Group3,Cisco,Juniper,Contact5,Australia,HQ,West,GMT+5,Tag1
+819,Device57,Firewall,Description of Device57,157.40.104.12,17:88:6a:03:56:61,SNFUY1IC,ModelJNI5,Active,Yes,Low,Local,Group4,IBM,Juniper,Contact5,Canada,Branch Office,West,GMT-5,Tag2
+933,Device58,Switch,Description of Device58,78.45.227.59,19:58:00:e8:97:02,SNZCDGZ8,ModelNATP,Active,Yes,Low,Local,Group2,IBM,HP,Contact3,USA,Branch Office,South,GMT+5,Tag1
+193,Device59,Switch,Description of Device59,243.151.188.235,5f:ae:25:a0:29:89,SN2DLYM3,Model5129,Active,Yes,Medium,Local,Group2,HP,IBM,Contact5,Germany,Branch Office,North,GMT-8,Tag2
+325,Device60,Router,Description of Device60,125.159.226.30,02:a3:13:0f:d9:ae,SNO6LU01,Model594W,Inactive,No,High,Global,Group1,Juniper,Juniper,Contact5,Canada,Datacenter,North,GMT+1,Tag3
+407,Device61,Switch,Description of Device61,118.3.253.163,b1:c4:8c:50:08:1e,SNX903SP,ModelPXX7,Active,Yes,Medium,Local,Group2,HP,Cisco,Contact2,Canada,Branch Office,North,GMT+5,Tag2
+511,Device62,Server,Description of Device62,3.154.231.0,ac:4d:0c:86:3a:c4,SNI5JJV6,ModelAIIO,Inactive,No,Medium,Local,Group3,Juniper,IBM,Contact1,Canada,Branch Office,North,GMT+1,Tag3
+128,Device63,Switch,Description of Device63,228.147.14.70,2c:83:8b:a4:7c:e0,SNHOFAMJ,Model5KJ2,Inactive,No,High,Local,Group3,Dell,IBM,Contact2,Australia,Branch Office,South,GMT-8,Tag3
+498,Device64,Server,Description of Device64,153.222.225.251,34:27:b7:21:e1:92,SNIMPBJL,Model4ZMY,Active,Yes,Low,Local,Group3,HP,Cisco,Contact5,USA,Branch Office,South,GMT+1,Tag3
+925,Device65,Firewall,Description of Device65,169.106.147.127,8d:37:23:0a:7c:cd,SNYZV3LB,ModelAZ7N,Inactive,Yes,Low,Local,Group5,HP,Juniper,Contact4,Canada,HQ,North,GMT-5,Tag1
+732,Device66,Firewall,Description of Device66,148.233.81.126,d8:e6:5e:b3:aa:38,SNIYX5WP,ModelO68H,Active,No,Medium,Local,Group5,Juniper,Cisco,Contact2,Australia,Branch Office,West,GMT-8,Tag1
+631,Device67,Switch,Description of Device67,42.148.149.213,d5:2f:f6:e2:b7:21,SNH7RD0R,Model4OTQ,Active,Yes,Medium,Global,Group2,HP,HP,Contact1,Australia,HQ,East,GMT-5,Tag1
+486,Device68,Firewall,Description of Device68,25.18.43.148,eb:c9:20:03:fb:da,SNL5ZNRN,Model6G12,Active,Yes,High,Local,Group5,Dell,HP,Contact5,USA,Warehouse,East,GMT-5,Tag1
+978,Device69,Router,Description of Device69,153.21.101.184,6f:94:b2:01:e5:a2,SNCQUCCV,ModelIRAM,Active,Yes,Medium,Global,Group2,Juniper,HP,Contact2,Australia,HQ,West,GMT-5,Tag3
+63,Device70,Router,Description of Device70,103.132.27.32,47:cf:0f:1e:6a:ca,SN4FD7KG,ModelN3H0,Active,No,High,Local,Group2,Cisco,Cisco,Contact2,Canada,HQ,North,GMT+1,Tag1
+155,Device71,Switch,Description of Device71,210.241.112.62,48:cc:a3:e7:a8:1c,SNRR1NR2,ModelXS66,Inactive,Yes,Medium,Global,Group1,Cisco,IBM,Contact1,Canada,Warehouse,South,GMT-8,Tag1
+41,Device72,Firewall,Description of Device72,60.50.199.76,b7:ab:f4:c7:c6:8f,SNYK7XSG,Model1M2V,Inactive,Yes,Medium,Local,Group1,Cisco,IBM,Contact5,Germany,HQ,East,GMT-5,Tag3
+833,Device73,Switch,Description of Device73,168.207.56.159,d8:2a:60:ca:5e:23,SNAX7ZM1,ModelZKB6,Inactive,Yes,Medium,Global,Group4,IBM,HP,Contact2,Australia,HQ,South,GMT+5,Tag1
+299,Device74,Switch,Description of Device74,244.84.87.48,1b:0e:d7:8d:fe:f4,SNBGJVE5,Model1WHN,Active,No,High,Global,Group5,Cisco,Cisco,Contact1,Canada,Warehouse,East,GMT-8,Tag3
+590,Device75,Switch,Description of Device75,106.205.72.241,8a:18:5f:25:9b:61,SN5VRY7P,ModelXQAB,Inactive,Yes,High,Global,Group1,Dell,Juniper,Contact4,Germany,Datacenter,South,GMT+5,Tag1
+480,Device76,Firewall,Description of Device76,8.89.26.17,3e:4e:46:2c:df:fc,SNMPJ8R7,Model6RIK,Inactive,No,Low,Global,Group2,IBM,Juniper,Contact2,Australia,Branch Office,North,GMT+1,Tag1
+602,Device77,Firewall,Description of Device77,233.146.95.8,6c:22:64:76:c8:96,SNI3A7IW,ModelAT2E,Active,No,Low,Global,Group4,IBM,Cisco,Contact1,Canada,Warehouse,South,GMT+5,Tag3
+268,Device78,Firewall,Description of Device78,253.218.254.169,d6:79:bf:6e:24:27,SNS8GDH0,ModelGL37,Inactive,No,High,Global,Group4,IBM,HP,Contact4,Australia,Branch Office,East,GMT-5,Tag2
+591,Device79,Firewall,Description of Device79,183.179.179.15,fd:7c:a4:cb:41:2c,SN64QMAA,ModelSNDT,Inactive,Yes,High,Global,Group2,Juniper,HP,Contact4,USA,Branch Office,South,GMT+1,Tag2
+160,Device80,Router,Description of Device80,72.253.220.101,5f:a5:18:91:77:b1,SN2I39BF,Model7WFJ,Active,Yes,Medium,Local,Group3,IBM,IBM,Contact4,UK,HQ,South,GMT+5,Tag2
+714,Device81,Printer,Description of Device81,0.152.62.111,0c:f5:0c:f7:f1:d9,SNI9VV7P,ModelDDLF,Active,No,High,Local,Group2,Dell,Juniper,Contact2,UK,Warehouse,West,GMT-8,Tag1
+651,Device82,Router,Description of Device82,77.79.96.163,bf:31:b7:1f:f8:47,SNM2DBNS,ModelYUII,Active,Yes,High,Local,Group3,Cisco,Juniper,Contact3,Australia,Branch Office,North,GMT+5,Tag3
+157,Device83,Firewall,Description of Device83,178.83.178.181,9c:13:79:e5:ce:a8,SN7QGB6M,ModelL0RL,Active,Yes,Low,Global,Group3,Juniper,Cisco,Contact3,Canada,HQ,East,GMT-5,Tag1
+756,Device84,Switch,Description of Device84,248.121.41.137,32:b3:18:41:d9:62,SNLDK5VM,ModelWT3N,Inactive,No,Low,Local,Group5,Dell,Dell,Contact5,USA,Datacenter,North,GMT-5,Tag1
+950,Device85,Printer,Description of Device85,105.251.137.3,3c:4f:34:15:62:7a,SNGCOJMZ,ModelFV08,Active,Yes,High,Global,Group3,Dell,Juniper,Contact1,Australia,Datacenter,North,GMT-8,Tag3
+715,Device86,Firewall,Description of Device86,100.110.22.79,68:50:44:42:37:6a,SNKJWZHL,ModelTRHH,Inactive,Yes,High,Global,Group3,Cisco,Juniper,Contact5,UK,HQ,North,GMT+1,Tag3
+933,Device87,Switch,Description of Device87,129.12.10.235,db:72:36:de:25:77,SNY3XJTZ,ModelIUWA,Inactive,No,High,Global,Group5,HP,Cisco,Contact2,Australia,Datacenter,West,GMT-5,Tag3
+169,Device88,Firewall,Description of Device88,142.120.52.128,b6:da:31:80:2f:28,SNVXOLQ8,ModelJ6O5,Active,Yes,Low,Local,Group2,Juniper,HP,Contact1,USA,HQ,West,GMT-8,Tag3
+32,Device89,Router,Description of Device89,92.101.105.129,06:90:09:e6:d6:ef,SNMPCSEC,Model7QJL,Active,No,Medium,Global,Group3,Cisco,Dell,Contact5,Germany,Branch Office,East,GMT-5,Tag3
+633,Device90,Server,Description of Device90,208.208.135.187,36:92:d0:10:c9:80,SNOTHQF0,ModelQUJA,Active,Yes,High,Global,Group4,Juniper,Dell,Contact4,USA,Datacenter,North,GMT+1,Tag1
+829,Device91,Router,Description of Device91,54.53.88.84,ad:d4:3d:c3:d5:ea,SN1VLHJW,Model0PDZ,Inactive,No,Low,Local,Group4,Dell,Dell,Contact4,Canada,Branch Office,West,GMT+5,Tag1
+507,Device92,Firewall,Description of Device92,148.181.115.41,61:9f:13:55:5f:7f,SNGW84F0,Model5MI8,Inactive,No,Low,Global,Group4,Cisco,Dell,Contact5,Australia,Datacenter,West,GMT+1,Tag1
+267,Device93,Router,Description of Device93,89.220.164.159,89:ef:32:6e:eb:09,SNB4EEK5,ModelIA32,Inactive,No,High,Global,Group4,HP,Dell,Contact3,Australia,Branch Office,North,GMT+1,Tag3
+772,Device94,Server,Description of Device94,230.129.117.60,46:41:b8:6e:cd:0f,SNOH23LW,Model28FC,Active,No,Low,Global,Group2,HP,Dell,Contact4,Germany,Datacenter,South,GMT-8,Tag2
+108,Device95,Printer,Description of Device95,98.29.2.144,38:90:92:6a:5d:fa,SNNRA0AM,ModelKAAJ,Inactive,No,High,Local,Group2,HP,IBM,Contact2,Canada,Branch Office,East,GMT-5,Tag3
+136,Device96,Switch,Description of Device96,170.36.186.79,82:08:19:01:71:3f,SNKDUZTQ,ModelMFNY,Active,Yes,High,Global,Group2,Dell,HP,Contact3,Canada,Branch Office,North,GMT+5,Tag1
+822,Device97,Server,Description of Device97,55.27.173.172,22:5d:d4:8f:69:4f,SN5NE5K7,Model3B0H,Active,No,Medium,Local,Group5,Cisco,Juniper,Contact3,UK,Datacenter,North,GMT+5,Tag3
+437,Device98,Router,Description of Device98,83.161.171.244,a9:1f:f6:fd:64:80,SN3A8U8V,Model0W4L,Active,Yes,Medium,Global,Group1,Dell,HP,Contact2,Germany,Warehouse,North,GMT-8,Tag1
+925,Device99,Printer,Description of Device99,118.183.199.22,b5:e9:ef:f1:bd:17,SNL6PU36,Model5ZST,Active,Yes,Medium,Global,Group1,Dell,Juniper,Contact1,Germany,Datacenter,East,GMT+1,Tag3
+5,Device100,Router,Description of Device100,143.46.57.70,8f:70:b6:6e:20:97,SNZ3O2JU,Model58BT,Active,Yes,Medium,Local,Group4,HP,HP,Contact3,Australia,HQ,North,GMT+1,Tag3
+870,Device101,Server,Description of Device101,249.85.164.86,dd:13:9f:46:7c:6a,SNE9JMB4,ModelCXNL,Inactive,No,Medium,Local,Group1,IBM,IBM,Contact1,Australia,Warehouse,West,GMT+5,Tag2
+366,Device102,Switch,Description of Device102,232.146.160.123,b9:30:db:79:0d:83,SNYG228E,Model3A4X,Inactive,Yes,High,Local,Group2,IBM,Cisco,Contact5,Australia,Branch Office,North,GMT+1,Tag1
+414,Device103,Printer,Description of Device103,90.208.194.73,06:6b:2c:c7:f8:fe,SN87MYNM,ModelJTJQ,Active,No,Low,Local,Group1,HP,Cisco,Contact4,Australia,Branch Office,South,GMT-8,Tag2
+970,Device104,Printer,Description of Device104,145.52.250.46,73:e7:d7:0b:04:a9,SNBILOGB,ModelCBLQ,Active,Yes,Low,Local,Group5,Cisco,IBM,Contact5,Australia,HQ,West,GMT-8,Tag2
+984,Device105,Server,Description of Device105,214.110.142.209,a7:ee:0b:44:50:e9,SNBWZAKX,ModelUWFB,Inactive,Yes,Low,Local,Group5,Dell,HP,Contact3,UK,Branch Office,East,GMT-8,Tag2
+654,Device106,Router,Description of Device106,157.41.238.125,9a:38:d5:d3:d0:42,SNO2HVYY,ModelR5YM,Active,No,High,Local,Group5,HP,HP,Contact4,Australia,Branch Office,West,GMT+1,Tag3
+506,Device107,Server,Description of Device107,200.255.135.254,fb:29:de:5a:6b:84,SNV39XF6,Model6IT3,Active,Yes,Medium,Local,Group4,Dell,IBM,Contact3,USA,Branch Office,South,GMT+5,Tag2
+116,Device108,Printer,Description of Device108,211.139.126.196,67:39:0b:ef:ef:1d,SN5PJJQC,ModelE6SC,Active,No,Low,Local,Group1,Dell,Cisco,Contact5,UK,Datacenter,North,GMT-8,Tag3
+669,Device109,Firewall,Description of Device109,56.246.69.158,1e:2f:ef:e7:29:61,SNFSKL4P,ModelB24V,Active,No,High,Global,Group5,Juniper,IBM,Contact2,Australia,Warehouse,East,GMT+1,Tag1
+374,Device110,Firewall,Description of Device110,11.59.18.246,90:f3:48:81:f4:b6,SN02SEMZ,ModelL72S,Active,Yes,Medium,Global,Group2,IBM,Juniper,Contact2,UK,Datacenter,South,GMT-5,Tag1
+369,Device111,Router,Description of Device111,81.74.133.156,76:d1:04:ac:71:a3,SNKGIPDS,ModelJ06B,Active,Yes,High,Global,Group5,Dell,IBM,Contact1,Germany,HQ,West,GMT-5,Tag2
+269,Device112,Server,Description of Device112,144.153.46.140,25:59:80:da:9e:f4,SNPYIF7D,ModelKBSY,Active,Yes,High,Global,Group1,Dell,HP,Contact1,Canada,HQ,West,GMT-8,Tag1
+686,Device113,Router,Description of Device113,6.125.246.52,e0:f6:df:06:2f:19,SNU5Z6H9,ModelN347,Inactive,Yes,Medium,Global,Group5,HP,Juniper,Contact5,Germany,Datacenter,West,GMT-8,Tag3
+236,Device114,Firewall,Description of Device114,155.42.115.254,e3:e8:53:8e:c0:e3,SNB0ASGO,ModelUBAV,Active,Yes,Medium,Global,Group1,Dell,Juniper,Contact5,Canada,HQ,North,GMT+1,Tag1
+249,Device115,Firewall,Description of Device115,105.182.146.62,21:c7:7b:cd:cd:2d,SNCBPFNG,ModelCQVE,Inactive,Yes,Medium,Local,Group4,Dell,Dell,Contact4,Germany,HQ,West,GMT+5,Tag3
+325,Device116,Server,Description of Device116,243.209.239.107,73:93:8f:84:da:8c,SNUMGOWH,ModelXB6K,Active,Yes,High,Global,Group3,Dell,HP,Contact2,UK,Warehouse,West,GMT-5,Tag3
+937,Device117,Server,Description of Device117,235.63.112.19,10:8d:3f:00:57:a5,SNIX6HNJ,ModelO7Z1,Active,No,High,Global,Group2,Dell,Juniper,Contact3,Germany,Branch Office,West,GMT-5,Tag1
+544,Device118,Switch,Description of Device118,29.90.11.202,82:06:71:59:01:af,SN1LSC0I,ModelD0UO,Active,No,Medium,Local,Group4,Dell,Juniper,Contact2,USA,Warehouse,South,GMT+5,Tag2
+262,Device119,Firewall,Description of Device119,69.89.192.29,2f:96:5c:7c:00:3e,SNI2R1FW,ModelIQ8O,Active,No,Low,Local,Group4,HP,HP,Contact3,Australia,Warehouse,East,GMT-8,Tag1
+217,Device120,Switch,Description of Device120,230.92.66.186,66:fc:83:92:ed:66,SN4GYRTF,ModelCQDG,Active,No,High,Local,Group5,Dell,Juniper,Contact3,Germany,HQ,West,GMT+5,Tag1
+950,Device121,Switch,Description of Device121,210.24.15.194,47:9b:7e:79:9f:29,SNZCUAK9,ModelDLKF,Active,Yes,Low,Local,Group5,Juniper,Dell,Contact5,UK,Warehouse,East,GMT-5,Tag2
+559,Device122,Server,Description of Device122,247.165.225.130,7a:4d:ac:88:a1:fd,SNSMPA5D,ModelURE2,Inactive,No,Medium,Local,Group1,Dell,Juniper,Contact3,Germany,HQ,South,GMT+1,Tag2
+365,Device123,Switch,Description of Device123,116.169.7.45,70:45:cb:6b:cc:c8,SNH9IFM8,ModelJW31,Active,Yes,Low,Global,Group2,Dell,IBM,Contact3,Germany,HQ,South,GMT+1,Tag3
+871,Device124,Switch,Description of Device124,113.108.214.48,4c:db:a1:4c:fb:cd,SNADRVK9,ModelNT6H,Inactive,No,Medium,Local,Group5,HP,Cisco,Contact1,Canada,Warehouse,North,GMT+5,Tag2
+341,Device125,Router,Description of Device125,123.214.165.121,f0:b5:b4:e2:e4:b6,SNG7OJFT,Model2OTN,Active,No,Medium,Global,Group4,IBM,Cisco,Contact2,Australia,Datacenter,North,GMT-5,Tag1
+555,Device126,Server,Description of Device126,207.144.102.128,4b:68:a8:d5:6c:49,SNMLLT9D,ModelT2K0,Inactive,No,Medium,Local,Group2,Cisco,Juniper,Contact1,Canada,HQ,West,GMT-5,Tag1
+846,Device127,Router,Description of Device127,97.98.110.132,10:09:d8:c8:4f:f4,SNJVXSSB,ModelQRET,Inactive,Yes,Medium,Local,Group4,Juniper,Dell,Contact3,Canada,Branch Office,North,GMT-5,Tag1
+733,Device128,Firewall,Description of Device128,48.189.184.194,e7:7f:1a:6a:d7:2b,SNNDWR81,ModelJ7CG,Active,Yes,Low,Local,Group4,Dell,Cisco,Contact1,Canada,Datacenter,South,GMT+1,Tag3
+725,Device129,Router,Description of Device129,56.120.95.80,7b:ed:b5:f0:45:d6,SN3K6OW0,ModelZFVG,Inactive,Yes,High,Local,Group4,IBM,Dell,Contact1,Canada,Warehouse,East,GMT-8,Tag3
+975,Device130,Switch,Description of Device130,140.176.76.135,5d:58:26:58:5c:e6,SNG2V0KT,ModelRZ54,Active,Yes,Low,Local,Group5,HP,Juniper,Contact4,USA,Branch Office,South,GMT+1,Tag2
+203,Device131,Firewall,Description of Device131,47.16.3.119,c4:86:aa:fc:d3:1d,SNRWM3ZN,ModelT85V,Inactive,Yes,Low,Global,Group3,Dell,IBM,Contact3,Canada,Branch Office,East,GMT+1,Tag1
+539,Device132,Server,Description of Device132,58.48.62.136,97:7a:85:47:41:fd,SNBXI50M,ModelMMK6,Inactive,No,Medium,Local,Group4,HP,IBM,Contact1,USA,Warehouse,South,GMT-8,Tag1
+834,Device133,Server,Description of Device133,74.212.240.141,89:98:dc:97:54:a3,SN02IS2V,ModelB7JH,Active,Yes,Medium,Local,Group1,Cisco,IBM,Contact3,Germany,Datacenter,West,GMT+1,Tag3
+640,Device134,Router,Description of Device134,174.92.246.154,79:76:18:85:ff:a6,SNGRRMM1,Model6M90,Inactive,Yes,High,Local,Group2,IBM,Cisco,Contact4,UK,Datacenter,West,GMT-8,Tag3
+376,Device135,Server,Description of Device135,14.111.121.6,3e:41:1e:31:0a:e6,SNRHO41U,Model6LIG,Active,No,Medium,Global,Group4,Cisco,IBM,Contact4,Australia,HQ,West,GMT-5,Tag1
+120,Device136,Server,Description of Device136,33.169.214.20,32:58:bf:ca:37:aa,SNP52WVZ,ModelKQKS,Active,Yes,High,Local,Group1,Cisco,IBM,Contact5,Canada,HQ,North,GMT-8,Tag3
+630,Device137,Router,Description of Device137,55.209.89.83,82:cb:50:be:66:2b,SNGA1U0S,ModelQDFM,Inactive,Yes,Medium,Local,Group1,Cisco,HP,Contact2,Germany,Branch Office,East,GMT-5,Tag1
+801,Device138,Router,Description of Device138,230.88.171.76,6c:b7:66:f9:29:13,SN154KD4,ModelB3ZN,Active,Yes,Low,Global,Group3,Juniper,IBM,Contact3,USA,Datacenter,West,GMT+1,Tag2
+965,Device139,Router,Description of Device139,69.9.245.174,3d:46:c7:5a:67:c1,SNCU0ZXJ,ModelBH09,Inactive,Yes,High,Local,Group1,Dell,Dell,Contact5,Australia,Warehouse,East,GMT-5,Tag3
+713,Device140,Server,Description of Device140,34.159.19.233,e2:43:ba:2a:c0:03,SNHOY9GG,ModelJPR6,Active,No,Low,Global,Group3,IBM,Cisco,Contact1,Germany,HQ,North,GMT+5,Tag1
+470,Device141,Server,Description of Device141,8.25.4.50,64:92:40:28:c7:a7,SNQ5YZ80,ModelV6PQ,Inactive,No,Medium,Local,Group1,Cisco,Cisco,Contact3,Germany,Datacenter,West,GMT+5,Tag2
+148,Device142,Server,Description of Device142,139.5.179.136,1c:e8:70:ae:aa:ad,SNPFUYOD,ModelBR52,Active,No,High,Global,Group2,HP,IBM,Contact3,UK,Datacenter,North,GMT-8,Tag1
+658,Device143,Router,Description of Device143,68.180.219.191,df:f7:96:42:e6:c3,SN02G0JD,ModelTRYR,Active,No,High,Global,Group4,Juniper,Dell,Contact1,USA,Datacenter,West,GMT-8,Tag3
+241,Device144,Printer,Description of Device144,124.152.197.194,e2:c9:ed:0b:57:eb,SNHKA1BZ,ModelB1U5,Active,No,Low,Local,Group4,Cisco,IBM,Contact3,USA,Warehouse,South,GMT+1,Tag3
+587,Device145,Router,Description of Device145,192.188.34.156,61:f8:88:a8:24:3d,SNVDZHPN,ModelSGRJ,Inactive,Yes,Low,Global,Group5,Dell,HP,Contact4,UK,Branch Office,East,GMT+1,Tag2
+314,Device146,Router,Description of Device146,122.167.179.71,3b:42:c3:1f:08:8a,SNYGJ6DU,ModelLJGG,Active,No,Medium,Global,Group5,IBM,Dell,Contact3,UK,Warehouse,West,GMT+5,Tag1
+475,Device147,Printer,Description of Device147,132.197.201.160,73:00:19:ac:1e:9e,SNDBRBVD,Model1SLK,Active,No,Low,Global,Group1,Dell,HP,Contact4,UK,HQ,South,GMT-8,Tag1
+786,Device148,Server,Description of Device148,125.243.249.49,e5:f6:8e:7d:b6:1c,SNFRCMHV,ModelKJLN,Inactive,Yes,High,Global,Group1,Cisco,Cisco,Contact2,Canada,Datacenter,South,GMT+5,Tag2
+842,Device149,Router,Description of Device149,9.6.24.214,43:e4:2d:8b:88:b9,SNES2OIY,Model0MKA,Inactive,No,Medium,Global,Group2,Dell,Cisco,Contact5,USA,Warehouse,East,GMT-5,Tag1
+505,Device150,Switch,Description of Device150,72.109.249.125,a3:fd:a9:50:21:26,SNHNSSUV,ModelBN69,Active,Yes,High,Local,Group3,Juniper,Dell,Contact1,USA,HQ,East,GMT-8,Tag2
+83,Device151,Switch,Description of Device151,166.62.34.218,3e:83:a1:e2:0e:52,SNQHS6JR,ModelPK6N,Inactive,Yes,Medium,Local,Group1,Dell,Cisco,Contact2,USA,Branch Office,South,GMT-5,Tag2
+566,Device152,Firewall,Description of Device152,6.160.159.103,d7:f8:49:2f:04:6e,SNBYD43Q,Model9WTF,Active,No,High,Local,Group3,HP,Dell,Contact4,USA,Datacenter,South,GMT+5,Tag1
+423,Device153,Printer,Description of Device153,167.231.161.179,5a:8f:09:4d:cb:c4,SN5LTYED,ModelXOJS,Active,No,Medium,Local,Group5,Juniper,IBM,Contact5,Australia,HQ,North,GMT-5,Tag2
+375,Device154,Printer,Description of Device154,74.95.241.66,7f:20:8e:38:c5:f0,SNJKSLMI,ModelYA61,Inactive,Yes,Medium,Local,Group3,Juniper,Dell,Contact4,Australia,Branch Office,East,GMT+5,Tag2
+660,Device155,Switch,Description of Device155,134.231.84.241,ae:38:29:0c:f1:fd,SNSOQHRM,Model6VXT,Inactive,Yes,High,Local,Group2,HP,Cisco,Contact3,UK,Datacenter,West,GMT-5,Tag3
+884,Device156,Firewall,Description of Device156,32.182.218.44,f7:6e:a4:51:4c:40,SN1O7S28,ModelUW2L,Active,Yes,Low,Global,Group5,HP,Dell,Contact4,Australia,HQ,South,GMT+1,Tag2
+533,Device157,Printer,Description of Device157,102.23.139.131,68:5f:10:3e:b9:f5,SNEU76BF,ModelL5OQ,Inactive,Yes,Medium,Local,Group4,HP,Dell,Contact4,Canada,Branch Office,East,GMT+5,Tag2
+93,Device158,Switch,Description of Device158,221.47.38.27,69:53:23:0c:78:4d,SNFAUMAC,Model5780,Inactive,No,High,Local,Group2,HP,Cisco,Contact2,UK,Warehouse,South,GMT-8,Tag2
+307,Device159,Printer,Description of Device159,240.148.32.241,d9:68:ac:27:39:3b,SNUEGKU2,ModelPO5P,Inactive,Yes,High,Local,Group3,Juniper,Dell,Contact4,Germany,HQ,East,GMT+1,Tag1
+859,Device160,Server,Description of Device160,39.4.199.81,30:66:cc:16:3f:dd,SNUDZV2I,ModelRLLU,Active,Yes,Medium,Local,Group3,IBM,HP,Contact4,Australia,Warehouse,North,GMT-8,Tag2
+64,Device161,Printer,Description of Device161,61.133.125.124,f1:58:38:99:90:1d,SN3F5QVA,ModelQ26V,Inactive,Yes,High,Local,Group4,HP,IBM,Contact4,Germany,Datacenter,East,GMT-5,Tag1
+230,Device162,Switch,Description of Device162,94.244.69.186,2a:42:bc:9f:67:7c,SN8GA3NS,ModelIAMF,Active,Yes,Medium,Local,Group2,HP,Dell,Contact3,USA,Branch Office,North,GMT-5,Tag1
+121,Device163,Printer,Description of Device163,219.172.89.135,98:12:0d:7b:79:73,SNYBVZRA,ModelHI64,Inactive,Yes,Medium,Global,Group1,Juniper,Cisco,Contact4,USA,Datacenter,North,GMT+5,Tag3
+508,Device164,Firewall,Description of Device164,219.42.82.144,2f:d3:64:a2:9f:dd,SNAMSHWS,ModelSHGV,Active,Yes,Medium,Global,Group4,Cisco,HP,Contact3,UK,Branch Office,South,GMT+5,Tag2
+888,Device165,Server,Description of Device165,66.82.241.213,46:73:a1:8d:07:8b,SNRINEQL,ModelBMZX,Inactive,No,Low,Global,Group2,IBM,IBM,Contact3,Canada,Datacenter,West,GMT+5,Tag3
+601,Device166,Switch,Description of Device166,21.160.78.38,d3:16:de:0f:f1:d0,SNN73OB1,ModelWCQG,Active,No,High,Local,Group2,IBM,Juniper,Contact5,Australia,Warehouse,West,GMT+5,Tag2
+254,Device167,Switch,Description of Device167,176.111.125.48,b7:aa:eb:00:4c:8f,SN4SVMJB,ModelSQSF,Inactive,Yes,Medium,Local,Group2,IBM,HP,Contact2,USA,HQ,East,GMT-8,Tag1
+876,Device168,Switch,Description of Device168,218.148.202.0,79:b6:a2:d4:16:6f,SNI0ZQ4Z,ModelYDYY,Active,Yes,Low,Global,Group4,Dell,Juniper,Contact1,Canada,Branch Office,North,GMT-5,Tag3
+334,Device169,Router,Description of Device169,211.214.246.251,96:22:8c:d1:eb:70,SNGK825I,Model1KLY,Inactive,No,Low,Global,Group3,Dell,Dell,Contact1,Germany,Warehouse,East,GMT+1,Tag1
+782,Device170,Switch,Description of Device170,75.50.255.53,9e:f9:fa:b2:18:a8,SNOE8JF5,ModelDO03,Active,No,High,Global,Group2,Juniper,HP,Contact2,Australia,Branch Office,South,GMT-8,Tag3
+920,Device171,Server,Description of Device171,200.102.238.169,53:93:60:c4:50:7a,SNSR5R8E,ModelB567,Inactive,No,Low,Global,Group4,Juniper,Cisco,Contact2,USA,HQ,South,GMT+1,Tag2
+261,Device172,Server,Description of Device172,193.215.102.107,39:d2:a2:47:9e:ff,SN0XU1WB,Model3BQM,Active,Yes,Medium,Global,Group4,Dell,IBM,Contact5,USA,Datacenter,South,GMT-8,Tag2
+137,Device173,Router,Description of Device173,218.17.83.165,b8:63:a9:0c:6b:d9,SN3MAJ45,ModelBNT7,Active,No,Low,Local,Group2,Dell,Juniper,Contact2,Germany,HQ,South,GMT-8,Tag2
+164,Device174,Firewall,Description of Device174,217.253.26.228,82:1c:82:fc:de:9f,SNZ9VDJ7,ModelQXZI,Inactive,No,Medium,Global,Group5,Dell,IBM,Contact5,Germany,Warehouse,East,GMT+5,Tag3
+384,Device175,Printer,Description of Device175,146.148.115.255,3d:25:22:f2:6c:a4,SNAVYJGK,ModelB7OB,Inactive,No,Medium,Local,Group4,Cisco,HP,Contact1,USA,Datacenter,South,GMT-8,Tag2
+167,Device176,Router,Description of Device176,204.133.15.204,9e:8d:95:52:58:6f,SNDMEFM0,ModelFDPM,Active,No,Low,Local,Group3,Cisco,HP,Contact4,Canada,Branch Office,West,GMT-5,Tag2
+685,Device177,Server,Description of Device177,7.87.90.92,47:df:e6:b6:0b:26,SNDOOF32,ModelMNUX,Active,No,High,Local,Group4,IBM,IBM,Contact5,UK,Branch Office,South,GMT-8,Tag3
+62,Device178,Router,Description of Device178,70.230.218.42,2a:db:f9:22:eb:b7,SNTLEWD2,ModelJNNL,Inactive,No,Medium,Local,Group3,IBM,HP,Contact3,UK,Datacenter,West,GMT+5,Tag1
+197,Device179,Printer,Description of Device179,45.35.150.233,07:3b:35:73:e7:f2,SNIFS0L4,Model85R2,Inactive,No,Low,Local,Group2,IBM,Juniper,Contact5,Canada,HQ,East,GMT+5,Tag1
+212,Device180,Firewall,Description of Device180,233.169.189.41,71:ba:a0:a5:60:ca,SN305S46,ModelRR95,Inactive,Yes,High,Local,Group1,Cisco,Cisco,Contact5,UK,Datacenter,West,GMT-5,Tag3
+560,Device181,Switch,Description of Device181,198.59.125.147,9f:6b:fc:56:24:de,SNPRV4QS,ModelPALK,Inactive,No,Medium,Global,Group5,Dell,HP,Contact4,Canada,Datacenter,East,GMT+5,Tag3
+884,Device182,Server,Description of Device182,166.241.34.33,7a:2f:fc:7e:1a:6a,SNFRSI4V,ModelB30T,Inactive,Yes,High,Local,Group4,Dell,IBM,Contact1,Germany,Warehouse,West,GMT+1,Tag2
+143,Device183,Firewall,Description of Device183,50.190.10.4,c8:cb:91:50:d4:ef,SNHN8OGT,ModelRRZM,Active,No,High,Global,Group3,Cisco,HP,Contact3,UK,Datacenter,West,GMT-5,Tag2
+837,Device184,Server,Description of Device184,249.38.26.8,9b:4f:c0:7b:b3:30,SNQMZSE0,ModelGG5P,Active,Yes,Medium,Local,Group5,Cisco,Dell,Contact5,Germany,Branch Office,North,GMT-8,Tag2
+365,Device185,Firewall,Description of Device185,229.152.209.182,26:c0:a1:85:b9:99,SNY00TJC,Model07RG,Inactive,No,Low,Global,Group3,IBM,Cisco,Contact4,USA,Warehouse,East,GMT+1,Tag1
+128,Device186,Switch,Description of Device186,139.49.21.50,74:83:71:69:b2:49,SNR5RFXJ,ModelJHL5,Inactive,Yes,High,Global,Group5,HP,HP,Contact4,Canada,Branch Office,North,GMT+5,Tag2
+655,Device187,Printer,Description of Device187,194.42.58.31,4b:b5:87:2d:7c:c7,SN54ROFB,Model1INO,Active,Yes,High,Global,Group3,HP,HP,Contact4,USA,Warehouse,South,GMT-5,Tag1
+408,Device188,Server,Description of Device188,9.124.107.154,78:49:4f:4e:e0:9e,SNNXDYYS,ModelN4NR,Active,Yes,Low,Global,Group1,HP,IBM,Contact2,Canada,HQ,North,GMT-5,Tag3
+730,Device189,Switch,Description of Device189,58.78.35.72,44:25:a0:d7:2f:e5,SN5G5MJE,Model7EOI,Inactive,No,Low,Local,Group5,Dell,Juniper,Contact4,Germany,Warehouse,East,GMT+1,Tag2
+383,Device190,Switch,Description of Device190,98.53.56.144,56:a0:2c:4e:98:37,SNEK3U97,ModelLW57,Inactive,Yes,Medium,Global,Group5,HP,Juniper,Contact3,Australia,HQ,South,GMT+5,Tag2
+61,Device191,Router,Description of Device191,152.95.149.83,fa:70:d1:40:96:cd,SNVDHNOR,ModelL9NU,Active,No,High,Global,Group5,HP,Dell,Contact1,Germany,Datacenter,East,GMT-5,Tag2
+496,Device192,Router,Description of Device192,61.224.224.23,bc:72:5a:1f:b7:59,SNMBVVNA,Model1X3M,Inactive,Yes,Medium,Global,Group2,HP,Dell,Contact5,Canada,Warehouse,West,GMT-8,Tag3
+839,Device193,Switch,Description of Device193,50.113.131.86,e3:c1:fe:65:21:d5,SNN2SOPV,ModelHI33,Inactive,Yes,Medium,Local,Group2,Dell,IBM,Contact4,Germany,Datacenter,South,GMT+1,Tag3
+538,Device194,Server,Description of Device194,144.85.246.207,78:7e:30:a7:7f:dd,SN0I7BQS,Model4G4Q,Inactive,No,High,Local,Group1,Cisco,HP,Contact1,Australia,HQ,North,GMT+1,Tag2
+11,Device195,Firewall,Description of Device195,159.22.165.63,f6:71:d7:7c:9b:74,SNLX37RC,Model870G,Inactive,No,Low,Local,Group2,IBM,Dell,Contact5,Canada,Datacenter,North,GMT-8,Tag1
+118,Device196,Switch,Description of Device196,158.241.164.106,9d:bc:b4:f7:67:91,SNRMWAQ7,ModelRJ5T,Active,Yes,Medium,Local,Group1,Cisco,IBM,Contact3,Canada,Branch Office,South,GMT+5,Tag3
+776,Device197,Firewall,Description of Device197,30.174.201.12,9e:ea:fe:c6:93:70,SN8AYXO7,ModelDIKK,Inactive,No,High,Global,Group1,Dell,HP,Contact1,Canada,Warehouse,East,GMT+5,Tag1
+949,Device198,Printer,Description of Device198,24.116.242.62,8d:a0:70:16:00:e3,SN5NI1NQ,ModelIXBW,Active,No,Low,Global,Group1,Juniper,Juniper,Contact4,UK,Warehouse,South,GMT+5,Tag1
+482,Device199,Router,Description of Device199,95.110.111.156,ad:10:ff:33:99:c7,SNXYXM9K,ModelW47K,Active,Yes,Low,Global,Group5,Dell,Cisco,Contact1,Australia,HQ,East,GMT-5,Tag2
+99,Device200,Printer,Description of Device200,33.209.98.199,2d:85:4a:6b:37:61,SNHX2GDC,ModelJ9NL,Active,No,High,Local,Group3,IBM,Juniper,Contact4,UK,Warehouse,South,GMT-8,Tag2
+901,Device201,Router,Description of Device201,179.209.233.11,d8:79:b2:2b:99:ba,SNCR51L9,ModelSMK2,Inactive,Yes,High,Local,Group3,Cisco,Cisco,Contact5,Australia,Datacenter,South,GMT+1,Tag2
+769,Device202,Server,Description of Device202,75.246.217.181,ae:9b:f0:b6:07:df,SNNBRD80,ModelITMS,Active,Yes,Low,Global,Group2,Juniper,Cisco,Contact4,UK,Warehouse,South,GMT-8,Tag1
+234,Device203,Switch,Description of Device203,47.139.36.245,90:03:9a:d2:a6:16,SNMRNY3X,Model2TKU,Active,No,High,Local,Group4,Juniper,Cisco,Contact1,Germany,Warehouse,West,GMT-8,Tag3
+927,Device204,Switch,Description of Device204,155.171.71.123,fc:6b:64:e1:a2:da,SN515MBN,ModelQMC2,Inactive,Yes,Medium,Global,Group2,Cisco,Dell,Contact1,Germany,Warehouse,West,GMT-5,Tag1
+501,Device205,Switch,Description of Device205,20.112.121.204,d2:04:f2:71:10:66,SNSNSLUM,Model7110,Inactive,Yes,Low,Local,Group5,HP,HP,Contact4,Canada,Warehouse,North,GMT+1,Tag1
+768,Device206,Firewall,Description of Device206,171.135.215.63,1f:25:d7:fb:0f:3a,SNW04AIZ,Model8DCM,Active,No,High,Local,Group4,Juniper,IBM,Contact4,Canada,HQ,North,GMT-8,Tag2
+35,Device207,Firewall,Description of Device207,133.229.53.12,b3:0a:36:7c:f1:df,SN9IY70T,ModelKF1A,Active,No,Low,Global,Group1,Cisco,Cisco,Contact3,USA,Warehouse,West,GMT+1,Tag2
+342,Device208,Switch,Description of Device208,246.112.161.162,04:2c:f0:6b:df:e6,SNVQR6B2,ModelMTUH,Active,No,Medium,Local,Group2,Juniper,IBM,Contact5,Australia,Branch Office,West,GMT+5,Tag3
+415,Device209,Firewall,Description of Device209,189.224.245.114,53:07:70:94:46:1f,SN8YHXD1,ModelI9MZ,Active,Yes,Low,Local,Group3,Cisco,Dell,Contact3,Germany,HQ,North,GMT-5,Tag3
+43,Device210,Switch,Description of Device210,201.9.245.34,bb:90:ab:17:55:a5,SNDMNLE9,ModelSL8I,Inactive,No,Low,Local,Group1,IBM,Juniper,Contact4,USA,Warehouse,West,GMT+5,Tag1
+697,Device211,Printer,Description of Device211,156.23.81.6,e2:6b:3d:1b:29:82,SNTCL79U,ModelNONQ,Inactive,Yes,High,Global,Group4,IBM,HP,Contact1,Australia,Branch Office,West,GMT+5,Tag1
+279,Device212,Server,Description of Device212,187.75.139.168,0b:57:86:6f:3c:29,SNLX6QJV,ModelX0AK,Inactive,No,High,Local,Group2,Dell,Dell,Contact2,UK,HQ,West,GMT+1,Tag3
+10,Device213,Firewall,Description of Device213,8.120.24.200,2f:9a:2c:fa:bb:7b,SNX0LB0O,ModelV6EB,Active,Yes,Low,Global,Group2,Cisco,Juniper,Contact3,UK,Warehouse,East,GMT-8,Tag1
+5,Device214,Server,Description of Device214,199.49.98.110,0f:bf:d9:23:8f:48,SN32Y8NP,ModelX5XX,Inactive,No,Medium,Global,Group2,IBM,IBM,Contact3,Germany,Branch Office,East,GMT+5,Tag2
+913,Device215,Firewall,Description of Device215,60.111.85.226,dd:32:82:5c:4f:57,SN0H4C2N,ModelIKEK,Active,Yes,Medium,Global,Group3,Juniper,HP,Contact5,Germany,Branch Office,North,GMT+1,Tag1
+763,Device216,Switch,Description of Device216,186.232.243.72,17:2e:6e:ea:ae:c9,SNPPAE1W,ModelENEH,Active,Yes,Medium,Global,Group2,IBM,Dell,Contact4,USA,HQ,East,GMT+5,Tag2
+207,Device217,Server,Description of Device217,192.196.239.179,4c:4a:81:4d:e5:ed,SNFWVNF5,ModelKMBC,Inactive,Yes,Medium,Local,Group4,Juniper,IBM,Contact4,Canada,Warehouse,South,GMT+1,Tag2
+361,Device218,Firewall,Description of Device218,196.45.159.74,87:d3:f4:f1:89:20,SNYMKG6Y,ModelWF0B,Inactive,Yes,Low,Global,Group2,Cisco,IBM,Contact2,Australia,Datacenter,North,GMT-5,Tag1
+269,Device219,Switch,Description of Device219,165.94.22.112,43:03:f7:7b:72:64,SNPQWV3R,Model3P84,Active,No,Low,Local,Group4,IBM,Dell,Contact3,UK,Warehouse,North,GMT-5,Tag2
+163,Device220,Server,Description of Device220,98.149.158.208,e9:19:68:63:9a:df,SNWUEYF1,ModelT7NO,Inactive,Yes,High,Global,Group5,IBM,IBM,Contact2,USA,Branch Office,North,GMT-8,Tag2
+544,Device221,Printer,Description of Device221,218.109.253.161,b1:10:5e:c9:f3:c7,SNJJEFOG,ModelSKXB,Inactive,No,High,Global,Group1,IBM,Juniper,Contact2,Australia,Branch Office,West,GMT+5,Tag2
+722,Device222,Switch,Description of Device222,52.8.240.23,0a:26:fe:8f:57:e9,SNUEYCRT,Model9DZ3,Active,No,Low,Local,Group3,Juniper,Cisco,Contact3,UK,Warehouse,North,GMT+5,Tag1
+856,Device223,Firewall,Description of Device223,166.100.138.200,4b:e4:a7:5f:f9:45,SNS6XE26,ModelS26Q,Inactive,No,Medium,Local,Group3,Dell,Cisco,Contact2,Germany,Branch Office,North,GMT+5,Tag2
+74,Device224,Printer,Description of Device224,208.1.12.136,04:08:25:35:46:56,SNR3GJLV,Model5URF,Inactive,Yes,Medium,Local,Group1,Dell,Juniper,Contact4,USA,HQ,West,GMT-5,Tag2
+193,Device225,Firewall,Description of Device225,214.30.109.186,29:3c:45:7d:a9:01,SNGDH389,ModelE9TB,Inactive,No,High,Global,Group1,HP,Dell,Contact1,USA,Warehouse,North,GMT-8,Tag2
+948,Device226,Firewall,Description of Device226,80.2.19.150,88:b9:dd:27:df:4f,SNOQIABD,ModelPB9A,Inactive,Yes,Low,Global,Group2,Dell,Cisco,Contact1,Canada,Datacenter,East,GMT+1,Tag1
+642,Device227,Firewall,Description of Device227,6.176.199.188,3a:8a:d2:88:e8:46,SNOD2UYQ,Model0IK9,Active,Yes,Low,Global,Group3,Dell,Juniper,Contact4,Australia,Branch Office,South,GMT+1,Tag3
+711,Device228,Router,Description of Device228,114.220.127.59,a2:41:95:d6:90:0d,SNJBE6OO,ModelQV6W,Active,Yes,Medium,Global,Group3,Dell,Cisco,Contact5,Australia,Warehouse,East,GMT+1,Tag3
+996,Device229,Switch,Description of Device229,86.92.77.128,76:55:50:52:de:ee,SNFUL6QF,ModelI8NG,Active,No,Medium,Global,Group1,Dell,IBM,Contact1,Australia,Branch Office,South,GMT-8,Tag2
+312,Device230,Switch,Description of Device230,33.160.81.200,da:83:bc:f6:5d:9e,SNF91RRM,ModelKBRP,Inactive,Yes,High,Local,Group4,IBM,HP,Contact4,UK,Datacenter,West,GMT+1,Tag2
+176,Device231,Router,Description of Device231,151.168.60.38,34:21:67:7d:14:d0,SN2FX4QH,ModelWYCD,Inactive,No,Medium,Global,Group5,Cisco,IBM,Contact1,USA,HQ,North,GMT-5,Tag1
+373,Device232,Server,Description of Device232,208.171.255.209,4c:0f:7e:46:99:ae,SNJLKJH2,Model3609,Active,No,High,Global,Group1,HP,Cisco,Contact1,Canada,HQ,South,GMT-8,Tag3
+387,Device233,Firewall,Description of Device233,16.103.94.138,d9:d1:df:06:7f:1f,SNLI81C0,ModelQICL,Inactive,Yes,Low,Local,Group1,Cisco,Dell,Contact4,Australia,Datacenter,East,GMT+5,Tag2
+72,Device234,Router,Description of Device234,125.172.155.79,0f:69:ad:23:c7:c2,SNUDWHHV,ModelXSSU,Inactive,Yes,High,Global,Group5,HP,Dell,Contact1,Canada,Datacenter,West,GMT+1,Tag2
+675,Device235,Server,Description of Device235,183.40.231.248,93:71:f2:ec:60:9b,SNCTOQ6R,Model5OCZ,Active,Yes,High,Local,Group1,Juniper,IBM,Contact5,Australia,Datacenter,North,GMT-8,Tag1
+19,Device236,Firewall,Description of Device236,55.206.200.119,ec:84:fe:b4:ba:dd,SNTR1CRJ,Model3BRN,Active,Yes,High,Global,Group5,HP,HP,Contact3,Canada,Branch Office,East,GMT+1,Tag3
+402,Device237,Server,Description of Device237,220.38.229.213,b4:24:16:8b:93:c3,SNW633Q9,ModelD5X4,Inactive,No,Low,Global,Group1,Juniper,Dell,Contact3,Germany,HQ,North,GMT+5,Tag3
+957,Device238,Firewall,Description of Device238,17.207.82.134,19:a6:c8:95:49:ad,SNXMDMFK,ModelUUAX,Active,Yes,Low,Global,Group5,HP,Cisco,Contact4,UK,HQ,East,GMT-5,Tag2
+504,Device239,Firewall,Description of Device239,192.210.110.151,f4:90:db:e5:91:45,SN67Q9BV,Model9649,Active,No,Low,Local,Group3,Dell,Juniper,Contact2,USA,Branch Office,North,GMT+5,Tag3
+97,Device240,Switch,Description of Device240,169.156.16.135,81:af:e3:74:ae:dc,SN4Q3NR0,ModelQHES,Active,No,Medium,Global,Group5,HP,Dell,Contact3,Australia,Warehouse,East,GMT+5,Tag1
+440,Device241,Printer,Description of Device241,20.17.99.24,58:8d:5f:40:ba:db,SN11BEL7,ModelAZMZ,Active,Yes,Medium,Local,Group1,Dell,Dell,Contact4,USA,HQ,North,GMT-8,Tag2
+196,Device242,Server,Description of Device242,229.236.177.47,5b:4e:61:75:ec:ec,SNU8B80V,ModelN7T5,Inactive,No,High,Local,Group3,Cisco,Cisco,Contact4,USA,HQ,West,GMT+5,Tag1
+862,Device243,Router,Description of Device243,78.81.236.244,23:3b:0b:fe:07:ed,SNFV87GQ,ModelU9F1,Active,Yes,High,Local,Group2,HP,Juniper,Contact5,Canada,Warehouse,East,GMT+5,Tag1
+960,Device244,Firewall,Description of Device244,143.110.202.81,f4:01:e6:7a:5b:01,SNO9SJIP,ModelKUAP,Active,Yes,Low,Local,Group1,Juniper,HP,Contact1,Australia,Datacenter,South,GMT-8,Tag2
+88,Device245,Router,Description of Device245,213.81.51.237,b2:ba:ea:e1:c4:d1,SNZ4DDX5,ModelPTI0,Active,Yes,Low,Local,Group3,Cisco,Juniper,Contact1,USA,HQ,West,GMT-8,Tag1
+340,Device246,Router,Description of Device246,27.14.141.119,c0:24:29:bf:8e:4f,SNSAJ54Z,Model2EY4,Inactive,Yes,High,Local,Group3,Juniper,HP,Contact3,USA,Branch Office,West,GMT-5,Tag1
+795,Device247,Printer,Description of Device247,253.25.80.250,1f:be:f0:58:7e:e2,SN504H7T,ModelN3UN,Active,Yes,Medium,Global,Group2,HP,HP,Contact4,UK,Datacenter,South,GMT-8,Tag3
+172,Device248,Printer,Description of Device248,196.248.2.228,54:81:68:ba:07:d9,SNXO57EK,ModelLT5V,Active,Yes,High,Local,Group5,HP,Cisco,Contact2,Germany,Datacenter,North,GMT-8,Tag3
+977,Device249,Switch,Description of Device249,99.134.189.136,f6:b5:b1:02:1c:04,SNUXD889,ModelSAMN,Inactive,No,High,Global,Group5,Dell,HP,Contact5,USA,HQ,South,GMT-8,Tag2
+131,Device250,Firewall,Description of Device250,52.227.183.87,7a:8e:55:2f:e1:2e,SN4J4YVU,ModelRS0H,Inactive,Yes,High,Global,Group1,Cisco,Juniper,Contact5,Australia,Warehouse,North,GMT+1,Tag1
+869,Device251,Printer,Description of Device251,128.171.11.67,f2:3d:d8:e8:e4:97,SNYYJY62,ModelITAQ,Inactive,Yes,Medium,Global,Group3,IBM,Juniper,Contact3,USA,Datacenter,West,GMT+1,Tag2
+472,Device252,Server,Description of Device252,6.107.33.246,22:a3:12:24:d9:f0,SNOZQMEB,ModelIMW3,Active,No,Low,Local,Group4,HP,IBM,Contact5,UK,HQ,East,GMT+1,Tag2
+833,Device253,Router,Description of Device253,171.22.171.44,ba:07:63:bb:76:8d,SNXBMQON,ModelG6KT,Active,Yes,High,Global,Group2,HP,Cisco,Contact4,Australia,HQ,East,GMT+5,Tag3
+227,Device254,Server,Description of Device254,147.169.153.128,84:fd:bf:ff:11:69,SNXUK2TQ,ModelQ0X6,Active,No,High,Local,Group3,HP,IBM,Contact1,USA,Datacenter,South,GMT-5,Tag2
+983,Device255,Server,Description of Device255,250.142.230.63,26:07:41:50:00:87,SN1UKRNF,Model2QZ2,Active,Yes,Medium,Global,Group2,Dell,HP,Contact2,Germany,Branch Office,North,GMT-5,Tag2
+12,Device256,Router,Description of Device256,21.231.8.20,bd:09:85:c2:5b:db,SN3WP4TP,ModelRA42,Active,No,Medium,Local,Group3,Juniper,Juniper,Contact3,Germany,HQ,East,GMT-5,Tag3
+393,Device257,Switch,Description of Device257,15.222.140.243,3b:28:76:b3:ec:03,SN3GUZ0W,ModelRKL2,Inactive,No,High,Global,Group1,Dell,Cisco,Contact3,Canada,HQ,West,GMT+1,Tag2
+371,Device258,Server,Description of Device258,99.139.48.48,c6:d5:5c:07:6a:ed,SNZ3ZLAW,ModelWR2Y,Active,No,Medium,Global,Group4,IBM,IBM,Contact1,Australia,HQ,West,GMT+5,Tag1
+652,Device259,Server,Description of Device259,12.27.177.141,02:5c:88:27:ac:7b,SNLNMPTH,ModelXXK5,Active,Yes,Medium,Global,Group4,Juniper,Cisco,Contact5,USA,Datacenter,East,GMT-5,Tag1
+716,Device260,Router,Description of Device260,165.38.33.95,af:10:42:e4:90:9d,SN3KKDVS,Model4XRR,Active,No,Medium,Local,Group5,IBM,HP,Contact2,Germany,Branch Office,West,GMT-5,Tag3
+330,Device261,Switch,Description of Device261,131.66.26.20,05:3d:24:83:63:75,SNQKKGGJ,ModelYY7E,Inactive,No,Medium,Local,Group5,HP,IBM,Contact3,Germany,Datacenter,East,GMT-5,Tag1
+971,Device262,Router,Description of Device262,66.164.47.190,13:00:a6:b7:c3:47,SNMMBYOH,Model4H65,Active,No,Low,Local,Group5,HP,Juniper,Contact4,UK,Warehouse,West,GMT-5,Tag3
+30,Device263,Server,Description of Device263,56.142.12.48,c4:33:cb:1f:2e:65,SNU0ZMF1,ModelX2MD,Inactive,Yes,High,Global,Group5,Cisco,Juniper,Contact1,Canada,Branch Office,West,GMT-5,Tag1
+129,Device264,Firewall,Description of Device264,217.80.232.39,c3:84:1f:ea:79:f9,SNHRL195,ModelCIA1,Active,No,Medium,Local,Group5,HP,Dell,Contact5,Canada,Branch Office,West,GMT+5,Tag1
+270,Device265,Firewall,Description of Device265,196.4.73.171,7b:14:1c:86:2c:f4,SN6DDL96,ModelQOGH,Inactive,No,Low,Local,Group2,HP,IBM,Contact3,Canada,Warehouse,South,GMT+5,Tag1
+824,Device266,Printer,Description of Device266,85.69.131.61,95:32:f5:91:65:7a,SNBSGM7N,ModelPGZK,Active,No,Medium,Global,Group3,Dell,Juniper,Contact4,Canada,Branch Office,South,GMT+1,Tag1
+93,Device267,Server,Description of Device267,156.71.117.168,2a:f5:57:25:01:73,SNNHOVJI,ModelZMV0,Active,No,Medium,Global,Group2,Dell,IBM,Contact4,Canada,Warehouse,North,GMT+1,Tag1
+96,Device268,Firewall,Description of Device268,65.23.10.93,52:3a:81:d7:b3:e7,SNNZF0L2,ModelI4GO,Active,No,Medium,Local,Group3,HP,Cisco,Contact4,UK,Datacenter,North,GMT-8,Tag2
+873,Device269,Server,Description of Device269,77.61.97.197,b9:a1:42:cd:f5:55,SNS7HL5A,ModelKGPK,Inactive,Yes,Low,Local,Group3,Dell,IBM,Contact2,Canada,Datacenter,North,GMT+1,Tag1
+661,Device270,Firewall,Description of Device270,43.177.14.172,e7:65:63:8f:f7:85,SNGE966M,Model48KE,Active,No,High,Global,Group4,IBM,Juniper,Contact2,Canada,Warehouse,South,GMT-8,Tag1
+786,Device271,Server,Description of Device271,69.248.123.107,1d:cf:9c:74:f2:c7,SNOB45G1,ModelNT7P,Inactive,No,Medium,Global,Group5,IBM,IBM,Contact4,Germany,HQ,North,GMT-8,Tag1
+427,Device272,Switch,Description of Device272,25.95.162.44,2f:6d:8c:b3:7a:e3,SNUH9D1N,ModelCOAL,Inactive,No,Low,Local,Group2,HP,Dell,Contact4,Australia,Datacenter,South,GMT-8,Tag2
+674,Device273,Switch,Description of Device273,57.128.135.85,d6:62:40:aa:4c:95,SNXOXNEF,ModelQATM,Active,No,High,Local,Group5,HP,IBM,Contact4,Australia,Branch Office,North,GMT+1,Tag1
+694,Device274,Printer,Description of Device274,150.244.75.15,a3:23:be:aa:a9:9b,SN8MRQIH,ModelQJSC,Active,Yes,Low,Global,Group2,Juniper,Cisco,Contact1,USA,Warehouse,North,GMT+1,Tag2
+21,Device275,Server,Description of Device275,255.91.154.57,82:1d:37:fb:72:52,SNS2KAOP,ModelPJHQ,Active,Yes,Low,Local,Group2,Cisco,Cisco,Contact5,Canada,Datacenter,West,GMT+5,Tag3
+497,Device276,Printer,Description of Device276,203.42.173.26,b1:25:8c:55:78:b1,SNH17AKY,ModelPI0S,Active,No,Low,Global,Group4,IBM,IBM,Contact5,UK,Branch Office,North,GMT-8,Tag1
+136,Device277,Switch,Description of Device277,242.49.123.206,12:b7:fe:e8:c3:c4,SN6OBLOB,Model5KOQ,Active,No,High,Global,Group1,Dell,IBM,Contact3,USA,Datacenter,North,GMT+5,Tag2
+485,Device278,Server,Description of Device278,13.104.52.23,0d:16:29:7b:c6:1e,SNFGPE2D,ModelGDEG,Inactive,Yes,High,Local,Group5,Dell,Cisco,Contact3,Canada,Branch Office,South,GMT-8,Tag3
+139,Device279,Router,Description of Device279,202.156.8.125,eb:a2:dc:e3:b2:46,SNCNQ5ZQ,Model7DGF,Inactive,No,High,Global,Group2,Juniper,IBM,Contact3,Australia,Branch Office,South,GMT+1,Tag2
+419,Device280,Switch,Description of Device280,205.114.63.12,c9:6e:12:8e:84:76,SNIDR6WF,ModelVLWY,Inactive,Yes,High,Local,Group1,Cisco,HP,Contact1,Germany,Branch Office,North,GMT+1,Tag2
+863,Device281,Router,Description of Device281,37.43.67.4,69:15:0b:e2:3f:ac,SNOBE39V,ModelVWIE,Active,No,Medium,Global,Group3,IBM,HP,Contact4,Germany,Warehouse,West,GMT-8,Tag1
+872,Device282,Router,Description of Device282,120.43.26.83,66:bd:26:69:db:66,SNGQER13,ModelV4QF,Inactive,No,Medium,Local,Group1,Dell,HP,Contact4,Canada,Datacenter,East,GMT+5,Tag1
+374,Device283,Printer,Description of Device283,203.1.115.131,6b:3b:1c:1e:2d:34,SNBV147Q,ModelBGXW,Active,No,Low,Local,Group1,IBM,HP,Contact1,USA,HQ,East,GMT-5,Tag1
+660,Device284,Printer,Description of Device284,52.228.173.43,46:39:8c:7f:8d:1f,SNN1QAND,ModelG3PZ,Active,No,Low,Global,Group1,Cisco,HP,Contact4,Germany,Datacenter,West,GMT-5,Tag2
+707,Device285,Router,Description of Device285,230.5.228.219,20:91:d6:48:db:45,SNNN96TR,ModelMHKB,Inactive,Yes,Low,Local,Group1,Juniper,Juniper,Contact1,UK,Warehouse,South,GMT-5,Tag1
+316,Device286,Firewall,Description of Device286,232.1.13.246,f5:e1:c2:3e:3f:5a,SN7J7BFH,Model5HUV,Inactive,No,High,Local,Group5,HP,Juniper,Contact3,USA,Branch Office,West,GMT-8,Tag2
+779,Device287,Server,Description of Device287,115.40.239.35,c0:a7:c2:e1:ed:fb,SNIY77ZI,ModelE571,Inactive,No,Low,Global,Group3,Dell,Dell,Contact4,UK,Datacenter,West,GMT+1,Tag1
+54,Device288,Router,Description of Device288,183.119.108.162,e0:c5:68:41:37:f6,SNNXTBG8,ModelM0O6,Inactive,No,Medium,Global,Group1,IBM,IBM,Contact5,USA,Datacenter,East,GMT-5,Tag2
+260,Device289,Printer,Description of Device289,59.174.212.116,6f:8a:37:c1:92:92,SNX6MO5Q,Model7L1N,Inactive,Yes,Low,Local,Group4,Juniper,Cisco,Contact4,USA,HQ,West,GMT+5,Tag2
+265,Device290,Printer,Description of Device290,67.212.220.28,53:53:97:6d:e2:91,SN013KUI,ModelA6RV,Active,No,High,Local,Group4,Juniper,IBM,Contact5,USA,Branch Office,West,GMT-5,Tag1
+515,Device291,Printer,Description of Device291,151.165.16.255,ae:e8:a5:e9:22:f1,SNCPR48T,ModelSNLG,Inactive,No,Low,Global,Group4,IBM,HP,Contact4,UK,HQ,West,GMT+1,Tag1
+934,Device292,Server,Description of Device292,126.152.7.63,cb:13:a7:28:78:07,SNAHH6SF,ModelILHD,Inactive,Yes,High,Global,Group5,Juniper,Juniper,Contact3,Australia,HQ,North,GMT-5,Tag1
+33,Device293,Switch,Description of Device293,45.107.101.27,ea:8e:97:92:41:5a,SN5UG7UK,ModelTGXN,Active,No,Medium,Local,Group2,Cisco,HP,Contact5,Germany,Warehouse,West,GMT+5,Tag1
+590,Device294,Server,Description of Device294,57.255.130.254,21:8f:9a:2a:77:7a,SNSQNUQL,ModelR2H5,Inactive,No,High,Global,Group2,Cisco,Cisco,Contact5,UK,Warehouse,South,GMT-8,Tag1
+624,Device295,Firewall,Description of Device295,122.188.77.199,02:64:51:2e:78:aa,SNBNP5RH,Model34CG,Active,No,High,Global,Group3,Juniper,IBM,Contact5,Canada,Branch Office,West,GMT+5,Tag1
+746,Device296,Switch,Description of Device296,42.11.203.20,5a:3b:c5:6a:60:98,SNBWG15S,ModelRIH8,Inactive,Yes,High,Global,Group5,Juniper,HP,Contact5,UK,Warehouse,West,GMT-8,Tag3
+56,Device297,Server,Description of Device297,4.180.104.8,4b:da:74:a2:60:85,SNX1PIRO,Model09LK,Inactive,No,Medium,Local,Group3,IBM,Cisco,Contact4,Australia,HQ,North,GMT+5,Tag3
+817,Device298,Firewall,Description of Device298,27.189.188.41,e2:1f:f3:6b:0e:dc,SNVHWA4D,ModelFJ89,Active,No,High,Global,Group4,IBM,HP,Contact1,Germany,HQ,North,GMT-5,Tag2
+467,Device299,Firewall,Description of Device299,158.4.43.238,db:7b:4a:e6:49:cb,SNTV3MY7,ModelK6CV,Inactive,Yes,Medium,Global,Group1,Cisco,Juniper,Contact3,USA,HQ,North,GMT+5,Tag2
+389,Device300,Switch,Description of Device300,95.91.24.6,d5:3a:08:2d:21:f5,SN9VX56C,ModelL54N,Inactive,Yes,Medium,Local,Group4,IBM,HP,Contact3,USA,HQ,West,GMT-8,Tag3
+364,Device301,Router,Description of Device301,43.203.85.77,16:e4:9d:b8:b9:92,SN90G027,Model34P2,Inactive,Yes,Low,Global,Group2,Juniper,Juniper,Contact3,UK,Warehouse,North,GMT-5,Tag1
+324,Device302,Server,Description of Device302,152.53.221.25,52:b6:58:3f:7b:f4,SNAHUC1H,ModelWRWJ,Inactive,No,Medium,Local,Group5,HP,IBM,Contact3,Canada,Branch Office,East,GMT-5,Tag3
+46,Device303,Printer,Description of Device303,147.101.193.235,4e:a1:eb:fc:93:2a,SNOHQ9JH,ModelWWHJ,Inactive,No,High,Local,Group2,Juniper,HP,Contact2,USA,HQ,North,GMT-8,Tag3
+204,Device304,Switch,Description of Device304,170.45.250.111,eb:d3:b3:c0:0c:b8,SNMPTML5,ModelRSCD,Active,No,Medium,Global,Group5,IBM,Cisco,Contact4,Australia,Branch Office,North,GMT+1,Tag2
+958,Device305,Server,Description of Device305,77.85.140.111,b4:14:bd:1a:03:78,SNUVCQO0,ModelC9AN,Inactive,No,Medium,Local,Group1,Juniper,Juniper,Contact3,Australia,Warehouse,North,GMT+1,Tag1
+802,Device306,Firewall,Description of Device306,224.115.36.235,5d:9d:68:86:70:cc,SNP079OM,Model007O,Active,Yes,Low,Global,Group2,Cisco,Juniper,Contact1,Canada,Datacenter,South,GMT-5,Tag3
+622,Device307,Firewall,Description of Device307,241.92.132.62,80:59:3a:f7:be:df,SN1N6KKF,ModelC3Y2,Inactive,Yes,Low,Local,Group3,Juniper,Cisco,Contact1,Australia,Branch Office,North,GMT+1,Tag1
+842,Device308,Switch,Description of Device308,80.94.97.226,19:50:32:4b:6d:9c,SN2GQ9UP,Model2BM9,Inactive,Yes,Low,Global,Group4,Cisco,HP,Contact2,Germany,Datacenter,South,GMT-8,Tag3
+876,Device309,Printer,Description of Device309,27.60.99.159,48:0f:33:26:1b:ce,SNG0T6OE,ModelLD40,Active,Yes,Low,Global,Group4,HP,Juniper,Contact5,Germany,HQ,South,GMT+1,Tag3
+697,Device310,Printer,Description of Device310,212.92.30.240,75:f6:d3:94:5a:1c,SN4I5IWW,Model1ZQH,Active,Yes,High,Global,Group2,IBM,Juniper,Contact3,UK,Datacenter,South,GMT-8,Tag1
+653,Device311,Switch,Description of Device311,176.140.180.173,43:7b:9a:37:05:df,SN3NZ468,Model3IRA,Active,Yes,Low,Local,Group3,Juniper,Juniper,Contact1,Germany,Warehouse,West,GMT-5,Tag2
+866,Device312,Firewall,Description of Device312,219.227.65.205,c0:74:09:20:1d:fc,SNSJLDU8,ModelUVOU,Active,Yes,Medium,Local,Group1,Cisco,Cisco,Contact2,Australia,Datacenter,North,GMT-5,Tag3
+891,Device313,Server,Description of Device313,236.43.115.179,0f:d2:04:a1:7b:11,SN2JQBEO,ModelKRRS,Inactive,Yes,Low,Global,Group5,Cisco,Juniper,Contact3,Australia,Branch Office,West,GMT+5,Tag3
+1,Device314,Switch,Description of Device314,77.92.83.140,62:0b:ba:60:38:3b,SN624KRF,Model6RYL,Active,Yes,High,Local,Group5,Dell,HP,Contact2,Australia,Warehouse,East,GMT+5,Tag3
+481,Device315,Firewall,Description of Device315,43.144.241.230,2a:0c:94:1c:66:34,SNXSRCTP,ModelLDFK,Active,Yes,Low,Local,Group2,Cisco,IBM,Contact2,UK,Warehouse,East,GMT-5,Tag3
+131,Device316,Server,Description of Device316,209.218.253.147,73:c7:19:32:f0:62,SN9RVJUY,Model5VFC,Inactive,Yes,Medium,Local,Group4,HP,IBM,Contact2,Canada,Datacenter,East,GMT+5,Tag1
+786,Device317,Firewall,Description of Device317,64.56.213.162,f9:cb:75:a4:a9:56,SN8RDR33,ModelLTKW,Active,Yes,High,Local,Group5,IBM,HP,Contact5,Germany,HQ,North,GMT-8,Tag1
+586,Device318,Server,Description of Device318,198.218.230.47,c2:7e:6d:a5:66:08,SN3MUU7T,ModelE2L3,Inactive,No,Low,Local,Group2,HP,Dell,Contact3,Germany,Datacenter,East,GMT-8,Tag2
+719,Device319,Router,Description of Device319,210.180.167.40,8d:40:16:e5:62:cd,SN7TIG1D,ModelVEPP,Active,No,Medium,Global,Group4,IBM,HP,Contact2,UK,Datacenter,East,GMT-8,Tag3
+703,Device320,Printer,Description of Device320,31.11.148.175,41:8d:95:36:cc:dc,SNK5BT8S,Model2V5E,Inactive,No,High,Local,Group5,Juniper,Dell,Contact5,Australia,Datacenter,East,GMT-8,Tag3
+489,Device321,Router,Description of Device321,107.184.23.13,5b:72:67:de:0a:a6,SN7DMZ1S,ModelZE8Y,Active,Yes,Medium,Global,Group3,Cisco,IBM,Contact1,UK,HQ,North,GMT-8,Tag3
+910,Device322,Switch,Description of Device322,233.156.25.143,ee:be:c6:74:2b:fe,SNMOY16E,Model3Y8G,Inactive,No,Low,Local,Group4,HP,Dell,Contact2,Germany,Datacenter,South,GMT+1,Tag2
+740,Device323,Printer,Description of Device323,160.45.253.246,72:68:c0:9d:d6:00,SNVAZZW5,Model11AI,Active,No,Medium,Local,Group1,Cisco,IBM,Contact1,USA,HQ,East,GMT+1,Tag3
+426,Device324,Printer,Description of Device324,182.44.96.199,ef:ec:6a:1d:3b:9b,SNVTJ6WP,Model3HVM,Inactive,No,Low,Local,Group5,IBM,Juniper,Contact2,Germany,Datacenter,West,GMT-8,Tag3
+613,Device325,Firewall,Description of Device325,86.244.223.147,98:58:82:9c:e8:39,SNIAALMA,ModelCH9P,Inactive,Yes,High,Local,Group3,Cisco,Cisco,Contact3,Australia,Datacenter,North,GMT-5,Tag1
+739,Device326,Firewall,Description of Device326,100.154.179.229,9f:7e:f8:16:f3:23,SN08218D,Model44VN,Inactive,Yes,Medium,Local,Group1,Juniper,IBM,Contact4,Australia,HQ,East,GMT-8,Tag1
+25,Device327,Router,Description of Device327,89.199.204.118,07:39:69:97:f6:32,SNLXWTRD,ModelK8PR,Inactive,Yes,High,Local,Group2,Dell,Cisco,Contact5,Canada,Datacenter,East,GMT+5,Tag1
+554,Device328,Firewall,Description of Device328,97.9.162.103,dd:d7:fc:0e:42:58,SNI4WPLN,ModelAGKI,Active,No,Low,Local,Group5,HP,Cisco,Contact1,Canada,HQ,North,GMT-5,Tag1
+721,Device329,Printer,Description of Device329,12.114.7.253,05:5c:af:e9:93:56,SNYFJLS0,Model8491,Active,Yes,Medium,Global,Group3,Dell,IBM,Contact3,Canada,Warehouse,East,GMT+1,Tag2
+953,Device330,Server,Description of Device330,228.73.40.27,8a:ad:04:43:ab:5a,SNMPUGQ0,Model6PEW,Active,No,High,Local,Group5,Juniper,IBM,Contact5,Canada,HQ,East,GMT-8,Tag1
+723,Device331,Firewall,Description of Device331,17.200.173.52,5d:84:3e:86:00:21,SN3017US,ModelC7SH,Inactive,Yes,High,Local,Group3,HP,Cisco,Contact2,Australia,Branch Office,North,GMT+5,Tag3
+591,Device332,Printer,Description of Device332,38.140.129.145,e6:bf:bc:38:e9:a0,SNGVMEWB,ModelGWCW,Inactive,Yes,High,Global,Group2,Juniper,Dell,Contact5,Germany,Warehouse,East,GMT-8,Tag1
+676,Device333,Router,Description of Device333,95.34.1.76,90:3d:23:e9:85:84,SN0JHXZT,ModelIMQK,Active,Yes,High,Global,Group4,HP,Juniper,Contact3,UK,HQ,South,GMT-8,Tag3
+316,Device334,Router,Description of Device334,234.232.163.195,e3:1a:dd:90:28:42,SNLFYOJO,ModelQZ75,Inactive,No,Medium,Local,Group3,IBM,Dell,Contact2,USA,HQ,South,GMT-8,Tag1
+198,Device335,Router,Description of Device335,35.66.87.215,85:be:8e:d0:d8:88,SNE340SV,ModelCTKO,Inactive,No,Medium,Global,Group3,Juniper,Juniper,Contact1,Germany,Warehouse,North,GMT-5,Tag2
+662,Device336,Printer,Description of Device336,4.36.168.152,ee:d8:5a:c7:f9:9c,SNWA69MQ,ModelAMXW,Inactive,Yes,High,Global,Group2,Dell,Dell,Contact1,UK,Warehouse,East,GMT-8,Tag3
+651,Device337,Server,Description of Device337,62.27.123.54,ea:a4:48:02:91:7e,SNR64JZ5,ModelIK0I,Inactive,Yes,Low,Local,Group1,Dell,Cisco,Contact3,Germany,Branch Office,South,GMT+1,Tag1
+182,Device338,Router,Description of Device338,97.218.131.61,9c:bc:47:18:27:10,SNZ2AKXH,ModelYCVL,Inactive,No,Low,Local,Group3,Dell,Dell,Contact4,USA,Datacenter,West,GMT+5,Tag3
+422,Device339,Router,Description of Device339,2.219.144.67,47:43:24:9d:78:a3,SNU2IHQX,ModelLMM0,Active,Yes,Medium,Local,Group3,Cisco,Dell,Contact3,UK,Warehouse,North,GMT+1,Tag3
+686,Device340,Firewall,Description of Device340,148.7.234.110,bf:9b:83:91:dd:58,SN5ROP1U,ModelTLPW,Active,Yes,High,Global,Group5,Juniper,Cisco,Contact3,USA,Branch Office,East,GMT-8,Tag3
+618,Device341,Printer,Description of Device341,107.137.125.105,f7:e0:9a:67:c6:bf,SNLVA0QQ,ModelA259,Inactive,Yes,High,Global,Group2,Dell,IBM,Contact5,Canada,Datacenter,East,GMT+5,Tag1
+81,Device342,Printer,Description of Device342,59.150.76.76,ba:25:0b:d7:5f:34,SNBGNH42,Model2Z5H,Inactive,No,Low,Global,Group1,HP,Cisco,Contact2,Australia,Warehouse,North,GMT-8,Tag2
+296,Device343,Printer,Description of Device343,224.53.152.154,e0:41:64:66:1e:ed,SNPVDIV8,Model9U16,Active,Yes,High,Local,Group4,IBM,Dell,Contact3,USA,Datacenter,North,GMT-8,Tag2
+561,Device344,Server,Description of Device344,163.100.80.31,7d:3e:d7:da:87:c5,SNU69U78,Model56XB,Active,No,High,Local,Group2,Cisco,Dell,Contact1,Germany,HQ,East,GMT-5,Tag2
+870,Device345,Switch,Description of Device345,208.8.107.192,da:bc:5b:35:35:32,SNOR6KWE,ModelVHCD,Active,Yes,Medium,Global,Group4,Juniper,Juniper,Contact2,USA,Warehouse,West,GMT-8,Tag2
+68,Device346,Server,Description of Device346,30.249.31.152,d2:19:84:0f:3b:77,SNODCCTY,Model9X66,Inactive,No,Low,Local,Group2,Dell,HP,Contact5,Germany,Branch Office,South,GMT-5,Tag3
+283,Device347,Printer,Description of Device347,103.61.135.142,39:32:b9:65:70:33,SNMHJEVT,Model1XSX,Inactive,No,Medium,Global,Group1,HP,Juniper,Contact4,Germany,Warehouse,North,GMT-5,Tag2
+475,Device348,Switch,Description of Device348,193.122.131.83,62:5c:dc:25:1d:20,SNGMOWJ0,ModelVCE8,Inactive,Yes,High,Global,Group3,Cisco,Juniper,Contact4,UK,Datacenter,South,GMT+5,Tag2
+767,Device349,Printer,Description of Device349,118.231.248.104,c5:3a:2b:dd:87:b2,SNIIHZ2N,ModelAB7Z,Inactive,No,High,Global,Group3,Juniper,Cisco,Contact1,Australia,Branch Office,South,GMT-8,Tag3
+780,Device350,Firewall,Description of Device350,251.144.36.113,d8:88:ac:22:85:c4,SNH581PE,ModelEM5B,Inactive,No,Medium,Global,Group4,Dell,Cisco,Contact4,Canada,Branch Office,North,GMT+5,Tag2
+573,Device351,Router,Description of Device351,229.146.126.112,7a:a0:d6:8d:39:73,SN7ZKXGH,ModelXBUH,Inactive,Yes,High,Global,Group4,IBM,Juniper,Contact1,UK,HQ,North,GMT-5,Tag2
+172,Device352,Switch,Description of Device352,84.108.8.247,26:1b:37:3d:75:d3,SNTFW5E2,Model07JS,Inactive,Yes,Low,Local,Group1,Juniper,Cisco,Contact4,USA,HQ,South,GMT+1,Tag3
+26,Device353,Firewall,Description of Device353,242.255.219.95,77:88:b5:4d:72:a0,SN8R3NBK,Model5ESS,Inactive,Yes,Medium,Local,Group2,HP,IBM,Contact5,Australia,Branch Office,West,GMT-5,Tag2
+680,Device354,Server,Description of Device354,45.21.214.155,d8:df:73:79:f5:8f,SN8PNT4F,ModelDJYZ,Active,No,High,Local,Group4,IBM,Dell,Contact3,Germany,Branch Office,West,GMT+1,Tag3
+279,Device355,Printer,Description of Device355,178.45.35.139,84:d6:28:76:43:6e,SNPAAFJI,ModelLGNX,Inactive,Yes,Low,Global,Group2,Cisco,Cisco,Contact4,USA,HQ,South,GMT+1,Tag2
+603,Device356,Printer,Description of Device356,34.193.64.197,13:5f:d2:74:c2:b6,SN0Z4EMZ,ModelITWR,Active,Yes,High,Global,Group2,Cisco,Cisco,Contact1,Canada,Datacenter,North,GMT+5,Tag3
+394,Device357,Router,Description of Device357,185.32.108.120,24:52:98:6e:e6:ce,SNYZAH8A,ModelTR5W,Inactive,No,Medium,Global,Group2,IBM,Cisco,Contact2,Canada,Warehouse,East,GMT-5,Tag3
+730,Device358,Router,Description of Device358,94.232.72.254,18:e6:ff:4d:68:3a,SNCFM22D,Model5K7I,Inactive,Yes,Low,Global,Group3,Cisco,Dell,Contact4,Australia,Datacenter,West,GMT-5,Tag3
+903,Device359,Switch,Description of Device359,250.19.19.150,52:01:df:83:62:17,SNQNSKKV,ModelZ6FW,Active,Yes,High,Local,Group2,HP,Cisco,Contact3,Germany,Datacenter,West,GMT+1,Tag1
+648,Device360,Firewall,Description of Device360,209.84.81.253,02:c0:11:a7:be:5e,SNCVD4KE,ModelGK31,Active,No,Medium,Local,Group1,IBM,IBM,Contact1,Canada,Branch Office,East,GMT+1,Tag2
+341,Device361,Printer,Description of Device361,217.56.127.143,9b:fa:cd:5e:37:64,SNYBJSIF,ModelKKZ2,Active,Yes,Low,Global,Group1,Juniper,HP,Contact2,USA,Branch Office,West,GMT-5,Tag3
+41,Device362,Server,Description of Device362,51.111.84.57,93:c7:56:12:4d:7c,SNH3YA9W,Model6XKH,Active,No,Low,Local,Group4,Cisco,IBM,Contact2,UK,Branch Office,North,GMT-5,Tag2
+359,Device363,Server,Description of Device363,102.96.239.86,79:d8:3a:23:2b:88,SN5K2CGN,ModelJO8K,Active,Yes,High,Global,Group1,Juniper,Cisco,Contact3,UK,Warehouse,South,GMT+5,Tag3
+473,Device364,Firewall,Description of Device364,20.142.4.247,d3:f5:ba:ce:a2:5f,SN1X6483,ModelIN5I,Inactive,Yes,Low,Global,Group3,HP,Juniper,Contact3,Australia,Warehouse,North,GMT-8,Tag3
+956,Device365,Server,Description of Device365,50.173.112.18,ce:91:59:7c:ac:58,SNZ1UQMW,Model2N66,Inactive,No,Medium,Global,Group5,Juniper,Cisco,Contact1,Germany,Datacenter,South,GMT-5,Tag2
+610,Device366,Printer,Description of Device366,3.72.93.0,39:67:b4:20:27:4b,SNTTV13C,ModelOX8O,Active,No,High,Local,Group2,HP,Juniper,Contact2,UK,HQ,West,GMT-5,Tag1
+872,Device367,Server,Description of Device367,131.252.254.209,c8:b1:22:0a:84:e3,SN0RRXH3,ModelMAWJ,Active,No,High,Local,Group2,IBM,HP,Contact1,USA,HQ,North,GMT+1,Tag3
+576,Device368,Server,Description of Device368,207.118.108.148,59:99:79:82:64:61,SN2MXMEF,ModelGPE0,Active,No,Medium,Local,Group4,IBM,Cisco,Contact3,USA,Datacenter,West,GMT-5,Tag1
+818,Device369,Firewall,Description of Device369,108.244.103.134,36:9b:e6:14:50:16,SNN7EO4L,ModelSSHD,Active,No,High,Local,Group4,Juniper,Dell,Contact3,Canada,HQ,North,GMT+5,Tag1
+596,Device370,Router,Description of Device370,23.43.221.68,b8:31:52:22:d4:2c,SNW26NV2,Model408K,Inactive,Yes,Low,Local,Group5,IBM,Dell,Contact3,USA,Branch Office,South,GMT+1,Tag2
+437,Device371,Router,Description of Device371,21.112.68.5,11:8a:3b:3c:e2:f4,SNI137UU,ModelJQ6U,Active,No,High,Global,Group5,Cisco,HP,Contact5,Australia,Branch Office,South,GMT-8,Tag2
+882,Device372,Server,Description of Device372,44.113.194.11,2f:f2:27:06:08:5b,SNCD1QDB,ModelW6IC,Inactive,Yes,Low,Local,Group1,HP,Dell,Contact5,Australia,Warehouse,South,GMT+5,Tag3
+421,Device373,Router,Description of Device373,189.88.0.8,d9:5d:54:7a:e3:6e,SNWLI17Y,Model172G,Active,Yes,Low,Global,Group1,HP,Cisco,Contact4,USA,HQ,West,GMT+5,Tag1
+215,Device374,Firewall,Description of Device374,41.4.53.173,12:0d:18:90:db:06,SNL06SQ6,ModelME9F,Active,No,High,Local,Group5,Juniper,Cisco,Contact5,USA,HQ,West,GMT-5,Tag1
+344,Device375,Switch,Description of Device375,41.223.250.134,3f:87:31:08:ee:19,SNV8GIIC,ModelUXMQ,Inactive,Yes,Medium,Global,Group4,Cisco,Juniper,Contact3,Australia,Branch Office,West,GMT+1,Tag1
+920,Device376,Firewall,Description of Device376,43.174.145.93,33:70:fa:ff:d4:a9,SNVGQ02Q,ModelQ4AR,Inactive,Yes,High,Local,Group5,Juniper,Dell,Contact3,Australia,HQ,North,GMT+1,Tag2
+655,Device377,Server,Description of Device377,158.17.2.15,19:58:e7:94:1e:4a,SNME6IPC,ModelNTVN,Inactive,No,Medium,Global,Group3,IBM,Juniper,Contact1,UK,Warehouse,South,GMT-8,Tag3
+612,Device378,Server,Description of Device378,174.179.254.170,d2:42:86:ec:6c:3d,SNL4T1MR,ModelTBYH,Active,Yes,Medium,Local,Group2,Juniper,HP,Contact1,UK,HQ,West,GMT+5,Tag3
+829,Device379,Printer,Description of Device379,62.192.17.22,62:e3:17:f7:a3:31,SNJGBK8U,ModelGQ8H,Inactive,No,Medium,Local,Group3,Juniper,Dell,Contact5,Germany,HQ,South,GMT-5,Tag2
+143,Device380,Printer,Description of Device380,70.187.26.89,9d:db:b9:d2:8b:4c,SNI5I632,ModelMKT5,Inactive,Yes,Low,Global,Group3,HP,Juniper,Contact5,UK,HQ,South,GMT-8,Tag3
+912,Device381,Firewall,Description of Device381,90.36.191.183,be:24:5d:37:2e:f5,SN1YEXOK,ModelTQM8,Inactive,No,Low,Local,Group1,HP,IBM,Contact5,USA,HQ,North,GMT-5,Tag1
+755,Device382,Switch,Description of Device382,221.85.107.161,d4:08:5e:ac:b6:0c,SN95PDEG,Model7QQO,Active,Yes,Medium,Local,Group3,Dell,IBM,Contact4,UK,HQ,South,GMT+1,Tag1
+442,Device383,Printer,Description of Device383,135.247.84.123,9a:8e:6e:01:b9:1b,SN6YPDDO,ModelP9BH,Active,Yes,Low,Global,Group4,HP,Dell,Contact4,Canada,Branch Office,East,GMT+1,Tag1
+625,Device384,Printer,Description of Device384,149.44.175.153,39:95:be:6b:3f:df,SNVK79PX,ModelR4JN,Inactive,No,High,Global,Group5,Juniper,HP,Contact4,Germany,Branch Office,East,GMT-8,Tag3
+367,Device385,Switch,Description of Device385,148.99.69.138,60:f0:08:cc:6c:e0,SNR9S4UT,ModelSL05,Inactive,Yes,High,Local,Group3,HP,Dell,Contact5,UK,HQ,West,GMT+1,Tag1
+656,Device386,Server,Description of Device386,245.140.72.235,6c:33:5f:8f:34:7a,SNSA8NTZ,ModelLOQW,Inactive,Yes,Medium,Global,Group1,Dell,Cisco,Contact4,Canada,Warehouse,West,GMT+1,Tag3
+143,Device387,Server,Description of Device387,210.116.153.155,94:08:bd:0b:f3:26,SNC4CWE9,ModelEYFS,Active,Yes,Low,Local,Group2,Juniper,Cisco,Contact5,Germany,Warehouse,South,GMT+5,Tag2
+458,Device388,Printer,Description of Device388,87.146.0.54,a3:36:6f:92:64:d1,SN7QPDSQ,ModelQPZC,Inactive,Yes,Low,Local,Group2,HP,Cisco,Contact2,Germany,Datacenter,North,GMT+5,Tag1
+36,Device389,Server,Description of Device389,163.69.210.168,d0:26:51:73:4e:8e,SNK7O7Q7,ModelZW71,Active,No,Medium,Global,Group4,HP,Dell,Contact5,USA,Warehouse,South,GMT-8,Tag1
+618,Device390,Printer,Description of Device390,166.57.70.215,12:ac:76:7d:e2:61,SNT64LKX,Model5RRA,Active,Yes,High,Local,Group5,Cisco,Cisco,Contact1,Germany,HQ,South,GMT-8,Tag1
+974,Device391,Printer,Description of Device391,244.162.187.129,17:ad:a5:53:99:30,SNCM2GAU,ModelHQ9Z,Active,No,Low,Local,Group2,HP,Dell,Contact4,Germany,Warehouse,West,GMT+5,Tag3
+39,Device392,Router,Description of Device392,1.252.15.1,5a:31:c4:b8:e6:89,SNSS8G3C,ModelESSI,Active,Yes,Medium,Local,Group1,HP,Dell,Contact1,Australia,Datacenter,North,GMT+1,Tag3
+858,Device393,Switch,Description of Device393,145.233.62.39,4f:92:da:c8:6a:32,SNWG89FC,Model96RJ,Active,Yes,Medium,Local,Group2,Cisco,Dell,Contact3,Canada,Branch Office,North,GMT-5,Tag1
+844,Device394,Firewall,Description of Device394,2.249.53.69,21:fd:e6:c3:fb:21,SNTWKJQL,ModelU3TY,Active,No,Medium,Local,Group1,IBM,IBM,Contact5,USA,Datacenter,West,GMT+1,Tag3
+867,Device395,Router,Description of Device395,245.131.43.186,f2:e8:1c:15:81:6c,SN3PESQH,Model54JE,Inactive,Yes,Medium,Local,Group2,Juniper,Juniper,Contact3,USA,Datacenter,West,GMT+5,Tag1
+309,Device396,Server,Description of Device396,189.206.156.95,d2:d2:be:2f:15:be,SN04ME1C,Model0LBU,Inactive,No,High,Local,Group4,Juniper,Dell,Contact4,UK,Warehouse,North,GMT-8,Tag3
+638,Device397,Firewall,Description of Device397,41.179.99.21,46:23:8b:53:be:e4,SNHS7N2V,Model7UPH,Active,No,Low,Local,Group5,HP,Cisco,Contact1,Australia,Branch Office,South,GMT+5,Tag2
+829,Device398,Router,Description of Device398,13.126.0.154,53:4a:98:08:b9:37,SNQQK4WM,ModelWWB0,Inactive,No,Low,Global,Group3,Cisco,Juniper,Contact5,Germany,Branch Office,West,GMT-5,Tag2
+297,Device399,Server,Description of Device399,234.63.2.49,0f:e4:40:c2:af:cc,SN7832GF,ModelPQ10,Inactive,Yes,High,Global,Group4,Dell,Juniper,Contact3,Australia,HQ,East,GMT-5,Tag3
+214,Device400,Printer,Description of Device400,231.252.101.254,69:94:ed:a9:7d:23,SNDQLJ19,ModelNFEP,Active,No,Medium,Local,Group3,HP,Dell,Contact2,Canada,Datacenter,North,GMT+1,Tag1
+653,Device401,Router,Description of Device401,168.71.12.118,e7:cd:32:d9:07:bd,SN5BI0TY,ModelVAYV,Active,Yes,Medium,Local,Group5,Juniper,Juniper,Contact2,Germany,Datacenter,East,GMT+5,Tag2
+253,Device402,Switch,Description of Device402,39.2.171.169,8e:bd:1d:32:c1:10,SNAFUPHR,ModelT2CM,Active,Yes,Medium,Global,Group1,HP,Juniper,Contact1,USA,Datacenter,East,GMT-5,Tag1
+589,Device403,Router,Description of Device403,117.220.58.115,17:23:ba:86:5e:88,SNKM4K96,ModelGBVK,Inactive,No,High,Global,Group4,HP,HP,Contact5,UK,HQ,West,GMT+5,Tag3
+860,Device404,Server,Description of Device404,57.217.108.60,5d:94:23:89:31:02,SN6WJGVI,ModelZ3Y1,Inactive,Yes,Medium,Local,Group3,Dell,Juniper,Contact3,Australia,Datacenter,North,GMT+1,Tag3
+751,Device405,Server,Description of Device405,35.70.198.112,bb:c2:20:4f:b3:7b,SNO07K6X,Model4IWS,Active,No,Medium,Global,Group2,HP,IBM,Contact4,Canada,Datacenter,South,GMT+5,Tag3
+469,Device406,Firewall,Description of Device406,55.219.12.234,a9:79:1a:a6:87:04,SNL4RVP8,ModelJOA1,Active,No,Medium,Local,Group4,Dell,HP,Contact1,UK,HQ,East,GMT+1,Tag3
+314,Device407,Router,Description of Device407,41.181.90.110,bf:9f:24:76:52:bb,SN26CNJ1,ModelZLKG,Inactive,No,Medium,Local,Group4,Cisco,Juniper,Contact4,Germany,HQ,East,GMT-5,Tag2
+97,Device408,Firewall,Description of Device408,106.70.90.55,3e:fd:a5:b3:fd:df,SNOR0O81,ModelU5LX,Inactive,Yes,Medium,Local,Group4,IBM,HP,Contact1,Canada,Warehouse,West,GMT-8,Tag2
+116,Device409,Router,Description of Device409,253.77.189.133,8e:bc:39:67:f1:00,SNP0S59F,ModelT9PI,Active,Yes,Low,Global,Group1,HP,Juniper,Contact1,Canada,Warehouse,East,GMT+1,Tag2
+294,Device410,Printer,Description of Device410,77.8.185.94,cc:49:18:af:8d:92,SND2U5WS,ModelJ1E8,Active,No,Low,Global,Group2,HP,HP,Contact1,UK,HQ,West,GMT-5,Tag3
+373,Device411,Switch,Description of Device411,143.207.168.87,c4:66:44:fa:8e:28,SN28KPIH,ModelGFJL,Inactive,No,Medium,Global,Group2,Dell,IBM,Contact2,Canada,Warehouse,North,GMT-8,Tag3
+792,Device412,Printer,Description of Device412,101.226.18.244,e1:7e:ff:dc:eb:0d,SNG76PVU,ModelBNPB,Inactive,No,Medium,Global,Group5,HP,HP,Contact3,Canada,HQ,West,GMT-8,Tag2
+196,Device413,Firewall,Description of Device413,102.200.188.245,2a:c8:40:47:c6:fa,SN7J7LUT,Model0430,Active,Yes,Low,Local,Group3,Dell,IBM,Contact3,Canada,HQ,West,GMT-5,Tag2
+787,Device414,Router,Description of Device414,36.199.115.235,a3:03:27:f3:e9:e0,SN6IMQO4,ModelNXJS,Inactive,Yes,Low,Global,Group2,Dell,IBM,Contact2,USA,Datacenter,North,GMT+5,Tag2
+906,Device415,Firewall,Description of Device415,208.105.212.0,52:a4:35:19:08:ed,SN5UBUSL,ModelGUPH,Inactive,No,High,Local,Group4,IBM,HP,Contact5,Germany,HQ,West,GMT-5,Tag1
+12,Device416,Switch,Description of Device416,192.48.176.137,19:f2:c2:d7:f5:29,SN3FB0WY,ModelE5H7,Active,Yes,Medium,Local,Group4,Juniper,HP,Contact5,UK,Datacenter,South,GMT+5,Tag1
+835,Device417,Server,Description of Device417,115.177.211.164,bd:ed:a9:fd:b4:e3,SNU4ZSG6,Model6UXG,Inactive,No,High,Local,Group4,HP,IBM,Contact4,Australia,HQ,West,GMT+1,Tag1
+144,Device418,Switch,Description of Device418,228.195.111.195,0e:f3:f4:08:c3:58,SNM3BWUR,ModelPFX9,Active,No,Medium,Local,Group5,Dell,Juniper,Contact1,USA,Warehouse,East,GMT-8,Tag1
+11,Device419,Server,Description of Device419,132.159.16.135,22:a4:71:69:0b:ca,SNZE08FO,ModelTRQ9,Active,No,High,Global,Group1,Dell,IBM,Contact3,UK,Datacenter,North,GMT+1,Tag2
+118,Device420,Printer,Description of Device420,37.22.50.19,f1:4f:62:d7:3d:8d,SN0QE5ZS,Model7KC4,Active,No,Low,Local,Group1,Dell,IBM,Contact3,Australia,Datacenter,North,GMT-5,Tag1
+640,Device421,Switch,Description of Device421,42.222.251.215,bd:f1:85:4d:4c:b1,SNACSVP6,ModelZPYV,Active,No,Medium,Local,Group5,Cisco,Cisco,Contact3,USA,Datacenter,South,GMT-8,Tag1
+864,Device422,Firewall,Description of Device422,218.114.233.175,c9:20:65:75:3d:15,SNVPODIA,ModelLC5V,Active,Yes,Medium,Global,Group3,Dell,Juniper,Contact2,UK,HQ,North,GMT-5,Tag1
+713,Device423,Firewall,Description of Device423,174.119.78.80,dd:ea:88:83:75:f5,SNGXUXOZ,ModelXQJO,Active,Yes,Low,Local,Group5,Juniper,HP,Contact3,Australia,Warehouse,East,GMT-5,Tag2
+536,Device424,Router,Description of Device424,227.228.241.235,35:a3:bc:e2:2e:f1,SN6W5ERB,ModelCQF5,Active,No,High,Global,Group2,Cisco,HP,Contact3,UK,Datacenter,East,GMT+1,Tag2
+756,Device425,Firewall,Description of Device425,133.164.164.16,ba:43:9d:11:f5:32,SNUAJX3I,ModelF185,Active,No,High,Global,Group1,Cisco,Dell,Contact1,Canada,HQ,South,GMT+5,Tag2
+121,Device426,Printer,Description of Device426,186.49.121.176,77:6d:8d:36:9c:21,SNESUU60,ModelNODT,Active,No,Low,Local,Group3,IBM,IBM,Contact2,Canada,HQ,South,GMT-8,Tag2
+255,Device427,Printer,Description of Device427,184.159.28.8,c2:11:b1:2e:c5:0a,SN2DJ3KO,ModelE1HG,Active,Yes,Low,Global,Group5,HP,Cisco,Contact5,Australia,Datacenter,North,GMT-5,Tag1
+590,Device428,Router,Description of Device428,73.238.162.60,c0:77:99:ba:1a:aa,SNE5IB69,ModelWCHD,Inactive,No,Low,Local,Group5,Dell,Dell,Contact3,Canada,HQ,East,GMT-8,Tag2
+687,Device429,Server,Description of Device429,70.225.57.113,8c:ea:6e:a4:70:22,SN0DQX6N,ModelORBE,Inactive,Yes,Medium,Local,Group5,HP,Cisco,Contact1,UK,Datacenter,West,GMT+1,Tag3
+957,Device430,Firewall,Description of Device430,97.9.95.254,2e:4f:f0:0d:74:5d,SNEH87ZX,Model3EGP,Inactive,No,High,Local,Group5,Dell,IBM,Contact3,USA,HQ,North,GMT-8,Tag2
+861,Device431,Switch,Description of Device431,146.214.157.30,49:50:07:02:46:c2,SNSIIIVQ,Model1EYL,Inactive,Yes,Medium,Global,Group1,Juniper,IBM,Contact5,USA,Datacenter,West,GMT+5,Tag1
+458,Device432,Switch,Description of Device432,212.186.98.144,68:8f:1c:90:2c:3b,SNURRRL3,Model9Y1I,Inactive,No,Medium,Global,Group4,Dell,Dell,Contact4,UK,Branch Office,North,GMT-5,Tag3
+823,Device433,Switch,Description of Device433,60.168.149.149,df:1e:5c:13:70:fe,SNVR9WPG,ModelXUI8,Active,No,High,Local,Group4,Dell,IBM,Contact1,USA,Datacenter,South,GMT+5,Tag2
+912,Device434,Router,Description of Device434,213.229.98.216,21:2e:bd:77:71:5a,SN947R4U,ModelLOCP,Active,No,High,Global,Group1,IBM,IBM,Contact2,Germany,Datacenter,West,GMT+1,Tag2
+744,Device435,Router,Description of Device435,25.96.177.156,4b:4b:e4:16:5c:73,SNVJP4FS,ModelV6SI,Active,Yes,Low,Global,Group3,Cisco,HP,Contact1,USA,Warehouse,North,GMT+1,Tag2
+679,Device436,Router,Description of Device436,244.11.8.56,0d:46:0e:c0:85:62,SN4R75HF,ModelLSBD,Active,Yes,Medium,Global,Group5,HP,Cisco,Contact5,Canada,Warehouse,West,GMT-8,Tag1
+449,Device437,Firewall,Description of Device437,122.92.223.190,2c:c2:00:a9:12:90,SNZZT67U,Model4IR5,Inactive,Yes,Low,Global,Group2,Dell,Dell,Contact5,Australia,Datacenter,West,GMT-8,Tag2
+538,Device438,Firewall,Description of Device438,130.208.201.132,b7:1a:6c:ff:2a:cc,SNH0B0KB,ModelBVSW,Inactive,No,High,Local,Group1,Cisco,Cisco,Contact1,Germany,Branch Office,South,GMT-8,Tag3
+57,Device439,Router,Description of Device439,20.159.224.103,f1:7c:6a:37:ac:14,SNRP4HSO,ModelOBG1,Active,No,Low,Local,Group5,Cisco,Dell,Contact5,USA,Branch Office,West,GMT-8,Tag2
+334,Device440,Switch,Description of Device440,243.19.156.87,6e:bf:62:4a:17:de,SN5N9TS3,ModelEQ3J,Active,Yes,High,Local,Group5,IBM,Dell,Contact5,Germany,Warehouse,South,GMT-8,Tag3
+242,Device441,Router,Description of Device441,35.193.202.169,a9:e2:da:8d:6f:a3,SNST1OTC,ModelAPOI,Active,Yes,Low,Global,Group3,HP,Juniper,Contact2,Australia,Datacenter,East,GMT+5,Tag1
+779,Device442,Switch,Description of Device442,98.185.32.136,51:a0:6b:dc:52:c0,SNHKZO9B,ModelFKI6,Inactive,No,High,Local,Group4,Cisco,IBM,Contact5,USA,Datacenter,West,GMT+1,Tag1
+125,Device443,Server,Description of Device443,84.150.219.200,54:9a:6c:e1:d6:3b,SNF5FD2M,Model3Z3L,Inactive,No,Low,Local,Group5,IBM,Dell,Contact2,Germany,Branch Office,West,GMT-8,Tag1
+77,Device444,Server,Description of Device444,183.243.97.244,63:2b:81:40:fb:b1,SNNNMVUD,ModelJ9CB,Active,Yes,High,Global,Group5,Cisco,Juniper,Contact3,Germany,Warehouse,South,GMT+1,Tag1
+584,Device445,Server,Description of Device445,232.111.148.5,c8:32:4c:94:b3:aa,SNDNFWSY,ModelILCN,Inactive,Yes,Low,Global,Group1,Cisco,Dell,Contact4,Canada,Datacenter,South,GMT-8,Tag1
+459,Device446,Router,Description of Device446,253.112.74.22,95:ba:d5:97:f0:7f,SNKMOWQJ,ModelFON6,Inactive,No,Medium,Local,Group3,HP,IBM,Contact5,Australia,Warehouse,East,GMT+1,Tag3
+549,Device447,Router,Description of Device447,16.125.62.186,67:a2:61:66:8f:be,SNFIFWFA,ModelECCO,Active,Yes,High,Local,Group5,IBM,Juniper,Contact4,Canada,Branch Office,East,GMT-5,Tag3
+334,Device448,Server,Description of Device448,65.75.201.9,6e:99:72:48:f6:16,SNOYF3PN,Model211J,Active,No,Medium,Global,Group1,Dell,HP,Contact4,Canada,HQ,West,GMT-8,Tag1
+442,Device449,Router,Description of Device449,47.73.253.104,71:81:71:2b:9d:53,SNKNXFF4,Model3L7J,Inactive,Yes,Medium,Local,Group4,IBM,IBM,Contact4,UK,Branch Office,East,GMT-5,Tag2
+175,Device450,Firewall,Description of Device450,92.57.161.14,35:b3:0a:ea:aa:30,SNEMT3V9,ModelPUQS,Inactive,No,Low,Local,Group3,HP,Juniper,Contact5,UK,Branch Office,North,GMT+1,Tag2
+388,Device451,Server,Description of Device451,154.155.130.94,39:cc:16:22:bf:f4,SNY61NNM,ModelR6DF,Active,No,Medium,Global,Group1,Cisco,IBM,Contact1,Germany,Datacenter,South,GMT-5,Tag1
+534,Device452,Firewall,Description of Device452,214.199.167.38,b1:65:96:5f:c6:e7,SNB4AUOW,ModelDE1S,Inactive,No,Medium,Global,Group2,Dell,HP,Contact5,USA,HQ,East,GMT+1,Tag1
+847,Device453,Router,Description of Device453,59.51.240.206,c0:13:33:d8:f2:85,SNMHKZUO,ModelMFAP,Inactive,Yes,Low,Local,Group4,Dell,HP,Contact1,Germany,Branch Office,South,GMT-8,Tag3
+865,Device454,Router,Description of Device454,154.180.226.110,92:f0:7d:1e:9b:d8,SNLDFA6A,ModelFQBI,Inactive,Yes,Medium,Global,Group4,Juniper,IBM,Contact4,USA,Branch Office,South,GMT+5,Tag2
+271,Device455,Printer,Description of Device455,177.3.165.25,ef:51:4f:83:a5:4c,SNHM9SZZ,Model9GXA,Inactive,Yes,Low,Global,Group3,HP,Juniper,Contact2,UK,HQ,West,GMT+1,Tag2
+956,Device456,Firewall,Description of Device456,144.73.198.21,d6:0e:a1:e8:e1:f0,SNCSV4Z3,ModelSPWE,Inactive,Yes,Medium,Local,Group1,Cisco,Dell,Contact3,Germany,HQ,East,GMT+1,Tag1
+524,Device457,Switch,Description of Device457,100.182.149.96,07:89:c1:5f:17:8d,SNXES918,Model8AWO,Active,Yes,Medium,Global,Group5,IBM,IBM,Contact4,UK,Datacenter,West,GMT-8,Tag3
+33,Device458,Printer,Description of Device458,253.24.197.171,33:88:26:1d:0e:cc,SNKZAF7W,Model6YJ2,Active,Yes,Low,Global,Group2,Cisco,Dell,Contact1,USA,HQ,East,GMT-8,Tag2
+137,Device459,Printer,Description of Device459,132.6.33.251,9f:c5:95:ae:f4:35,SNC7TPS0,ModelN0H2,Active,No,High,Global,Group3,HP,Cisco,Contact2,Canada,Warehouse,South,GMT+5,Tag1
+388,Device460,Router,Description of Device460,192.29.15.96,9c:fa:f4:67:55:38,SN0XLOTV,ModelE1EL,Inactive,Yes,Medium,Local,Group5,Juniper,IBM,Contact4,UK,HQ,South,GMT-5,Tag1
+541,Device461,Firewall,Description of Device461,211.20.97.14,d2:da:21:19:cc:73,SNHW3ISW,Model5OV7,Active,No,Low,Local,Group2,Cisco,HP,Contact1,Germany,HQ,North,GMT+5,Tag1
+472,Device462,Server,Description of Device462,74.23.195.88,98:5f:91:64:f5:45,SN3K3AIA,ModelJ8KY,Inactive,No,High,Local,Group4,IBM,Dell,Contact4,UK,HQ,West,GMT-5,Tag2
+137,Device463,Server,Description of Device463,157.153.212.16,af:9a:3a:ee:94:61,SNWY17D2,Model24TE,Inactive,Yes,Low,Local,Group5,IBM,Cisco,Contact2,USA,Branch Office,West,GMT-8,Tag1
+521,Device464,Router,Description of Device464,152.104.17.117,00:2c:32:9a:b1:a1,SNK4KRP5,Model9LGO,Active,No,Medium,Global,Group1,Cisco,IBM,Contact5,Australia,Datacenter,West,GMT-5,Tag2
+963,Device465,Switch,Description of Device465,35.97.223.168,bc:a8:ea:ac:e6:62,SN4UVKS6,ModelI7KW,Inactive,Yes,Medium,Local,Group5,Cisco,Dell,Contact3,Canada,HQ,South,GMT+5,Tag2
+891,Device466,Router,Description of Device466,39.88.228.181,77:24:81:2c:13:22,SN8N5KKH,Model877N,Inactive,Yes,High,Global,Group2,IBM,Juniper,Contact1,Australia,Warehouse,West,GMT+1,Tag3
+329,Device467,Printer,Description of Device467,19.87.121.107,b6:9d:ec:2f:77:2a,SN7Q2OSS,ModelC2FV,Inactive,No,High,Global,Group2,IBM,IBM,Contact5,Canada,HQ,East,GMT+1,Tag1
+200,Device468,Firewall,Description of Device468,171.6.91.216,b9:58:64:a0:88:98,SN2847SD,ModelUH00,Inactive,No,Medium,Global,Group1,Dell,HP,Contact1,Canada,Branch Office,North,GMT-5,Tag2
+167,Device469,Printer,Description of Device469,202.60.132.240,52:7c:ad:71:50:08,SN1JAXXW,Model1Z9H,Active,Yes,Medium,Local,Group3,Cisco,Juniper,Contact1,Germany,Warehouse,South,GMT+5,Tag1
+651,Device470,Server,Description of Device470,16.189.96.233,5d:4c:0e:46:6e:70,SNVVJV5Q,ModelLXLT,Active,No,High,Local,Group2,Dell,Juniper,Contact1,Australia,Warehouse,South,GMT-8,Tag3
+646,Device471,Router,Description of Device471,8.121.3.19,b4:9a:3e:f7:48:d7,SNXC38VK,ModelEONN,Inactive,No,Medium,Local,Group3,IBM,Dell,Contact3,Germany,HQ,North,GMT+5,Tag3
+685,Device472,Router,Description of Device472,196.170.195.133,18:d8:67:de:1d:3e,SNONWFPF,Model9XX9,Inactive,No,High,Local,Group2,HP,Cisco,Contact3,USA,Warehouse,East,GMT+5,Tag1
+344,Device473,Server,Description of Device473,91.91.43.53,58:a6:51:fe:12:76,SN8XU5TS,ModelTPAY,Active,No,Medium,Local,Group1,Dell,Cisco,Contact4,USA,Datacenter,North,GMT-8,Tag1
+939,Device474,Switch,Description of Device474,134.230.224.247,1a:b8:5e:72:1e:dc,SNDKLSDZ,ModelMDTA,Active,No,Medium,Global,Group5,IBM,HP,Contact2,UK,Warehouse,East,GMT-8,Tag2
+796,Device475,Router,Description of Device475,162.216.208.218,c4:3f:30:c9:48:26,SNSEO0EI,ModelE05M,Active,No,Medium,Global,Group5,Cisco,Dell,Contact1,UK,Datacenter,South,GMT-5,Tag3
+107,Device476,Printer,Description of Device476,129.103.95.37,6b:b7:f7:12:e5:f2,SNKZQBZQ,ModelDQNQ,Inactive,No,Medium,Global,Group4,Dell,IBM,Contact1,UK,HQ,South,GMT+1,Tag1
+296,Device477,Printer,Description of Device477,192.190.201.113,22:c5:b4:d7:a0:bd,SN6ROADT,Model9NPJ,Inactive,Yes,Medium,Local,Group1,Juniper,Juniper,Contact3,Germany,Datacenter,West,GMT-5,Tag1
+766,Device478,Server,Description of Device478,5.201.154.236,7d:05:bc:0f:25:75,SNQMZYGR,ModelVU09,Active,No,High,Global,Group1,Juniper,HP,Contact2,Australia,HQ,East,GMT-8,Tag1
+3,Device479,Router,Description of Device479,56.40.20.171,45:cf:21:86:e9:00,SN782V9Z,ModelLW72,Active,Yes,Medium,Global,Group4,IBM,Juniper,Contact2,UK,Warehouse,West,GMT+5,Tag3
+543,Device480,Printer,Description of Device480,163.61.54.234,9d:57:d2:a8:6b:bd,SNKSD3MY,ModelA8L5,Inactive,Yes,Medium,Global,Group2,Cisco,HP,Contact1,UK,Warehouse,North,GMT-8,Tag1
+62,Device481,Firewall,Description of Device481,58.33.134.96,f6:08:2b:b8:d2:2a,SNCZRDJ7,ModelXPQW,Inactive,Yes,Medium,Global,Group5,Cisco,HP,Contact3,UK,Branch Office,East,GMT-8,Tag2
+498,Device482,Printer,Description of Device482,120.132.69.184,60:cb:65:7e:50:ef,SN8EBEP5,Model9SE6,Active,No,Medium,Local,Group3,HP,Dell,Contact1,Canada,Warehouse,East,GMT-5,Tag2
+691,Device483,Printer,Description of Device483,168.172.243.113,72:8f:a7:02:8e:fc,SNNV435A,ModelCHAC,Inactive,No,High,Local,Group4,Dell,IBM,Contact1,UK,HQ,West,GMT+1,Tag3
+962,Device484,Router,Description of Device484,23.151.249.133,08:57:1e:51:85:d4,SNRZ3Y0G,ModelYU3S,Inactive,Yes,Medium,Global,Group4,Dell,Juniper,Contact2,UK,Branch Office,West,GMT-8,Tag1
+645,Device485,Printer,Description of Device485,182.54.208.53,c6:b4:3d:29:49:49,SN2I9MZY,ModelBTDE,Inactive,No,Low,Local,Group2,Cisco,Dell,Contact2,Canada,Branch Office,East,GMT-5,Tag2
+209,Device486,Router,Description of Device486,157.204.149.46,3e:3a:f3:44:e4:6d,SNU30UDE,Model6KRA,Inactive,No,Low,Global,Group3,IBM,HP,Contact3,Germany,Warehouse,North,GMT-8,Tag2
+348,Device487,Switch,Description of Device487,161.186.186.161,fb:76:98:03:52:6b,SN4JEBES,Model7BGM,Inactive,No,Low,Global,Group5,HP,Dell,Contact1,Australia,Warehouse,East,GMT-5,Tag3
+153,Device488,Switch,Description of Device488,193.224.243.139,d0:3e:45:e8:b7:a3,SNKS4N63,ModelED2E,Inactive,Yes,High,Global,Group2,HP,IBM,Contact1,UK,Branch Office,East,GMT+1,Tag3
+33,Device489,Switch,Description of Device489,251.109.109.78,f9:7f:3c:0a:c5:4a,SNUFLGCY,ModelEHJM,Active,Yes,High,Local,Group2,Dell,IBM,Contact4,Germany,HQ,North,GMT-8,Tag3
+312,Device490,Switch,Description of Device490,113.72.102.9,29:40:3c:72:87:16,SNTMTCUN,Model0R16,Active,No,High,Local,Group2,Cisco,Dell,Contact2,Canada,Branch Office,East,GMT-5,Tag1
+432,Device491,Server,Description of Device491,74.254.93.132,ea:b9:62:66:1a:4f,SNPMHC92,ModelXEXK,Active,No,Low,Local,Group1,Juniper,HP,Contact5,Australia,Datacenter,South,GMT-5,Tag3
+857,Device492,Router,Description of Device492,212.18.169.46,fe:1b:69:0e:64:eb,SN71A52X,ModelJIQ2,Active,No,Medium,Global,Group2,HP,Juniper,Contact2,USA,Branch Office,North,GMT-8,Tag2
+302,Device493,Router,Description of Device493,59.165.22.246,2c:da:d6:ad:2f:e9,SNKZRR07,ModelIORP,Inactive,No,Low,Global,Group1,Juniper,Dell,Contact5,USA,Datacenter,East,GMT+5,Tag3
+571,Device494,Firewall,Description of Device494,203.34.121.244,b6:48:20:39:cc:92,SNNOD1TI,ModelS1MR,Inactive,No,Medium,Global,Group1,IBM,Cisco,Contact5,USA,Branch Office,West,GMT-8,Tag2
+667,Device495,Switch,Description of Device495,152.97.110.220,7c:22:32:f6:4f:43,SN9QPT3H,Model0S4X,Active,No,Low,Global,Group3,HP,Juniper,Contact1,Australia,Branch Office,South,GMT-8,Tag3
+946,Device496,Server,Description of Device496,188.137.42.207,f2:dd:d2:05:fe:c4,SNX7CRSX,Model1KEI,Active,Yes,Medium,Local,Group5,Cisco,Cisco,Contact1,USA,Branch Office,West,GMT-5,Tag1
+621,Device497,Firewall,Description of Device497,188.204.255.226,18:1b:44:95:de:44,SNJEMWYX,ModelU6LD,Inactive,No,High,Global,Group3,Cisco,HP,Contact4,Canada,Branch Office,South,GMT+5,Tag3
+966,Device498,Printer,Description of Device498,25.237.23.218,04:5a:e0:04:7c:0b,SN59OEJV,ModelZO6W,Inactive,No,High,Local,Group4,Juniper,Juniper,Contact3,Canada,Datacenter,West,GMT+1,Tag2
+995,Device499,Switch,Description of Device499,88.119.86.14,18:43:73:0e:fe:d0,SN1HIZJB,ModelNWLK,Inactive,Yes,Low,Global,Group2,IBM,Juniper,Contact1,Canada,Warehouse,North,GMT+5,Tag1
+921,Device500,Server,Description of Device500,133.209.218.74,03:6b:71:39:73:45,SNERVU4C,ModelOI25,Active,Yes,Medium,Local,Group5,Cisco,Cisco,Contact4,Germany,Warehouse,West,GMT+5,Tag1
+643,Device501,Firewall,Description of Device501,30.204.206.121,8d:a9:23:11:81:75,SN7G5RS4,ModelYYQW,Active,Yes,Medium,Local,Group5,Juniper,HP,Contact5,Canada,HQ,South,GMT-5,Tag3
+156,Device502,Firewall,Description of Device502,253.6.124.69,1a:76:d0:05:89:92,SNOLE8Z9,ModelXEQL,Active,Yes,Medium,Global,Group1,HP,Juniper,Contact2,UK,Branch Office,East,GMT-5,Tag1
+718,Device503,Printer,Description of Device503,222.12.104.115,77:b1:b0:f9:b2:d7,SN2UKNJQ,ModelZWQI,Inactive,Yes,Medium,Global,Group2,IBM,Juniper,Contact2,Canada,Datacenter,South,GMT+1,Tag1
+413,Device504,Printer,Description of Device504,14.29.192.12,ec:d0:4c:6e:5d:2e,SNTJ325G,ModelNXE2,Inactive,Yes,Low,Local,Group1,Dell,IBM,Contact2,Australia,Datacenter,North,GMT+5,Tag3
+696,Device505,Switch,Description of Device505,15.213.163.251,c2:d9:c7:fd:39:d0,SNYHXW06,ModelJKVN,Inactive,No,High,Global,Group1,Cisco,Cisco,Contact5,USA,Branch Office,South,GMT+1,Tag3
+871,Device506,Switch,Description of Device506,249.16.216.192,3d:c7:97:1a:6e:56,SNU68UIN,ModelWW5Q,Inactive,No,High,Global,Group5,IBM,Cisco,Contact2,Australia,Warehouse,West,GMT+5,Tag1
+281,Device507,Router,Description of Device507,248.168.57.52,7a:62:e3:52:2e:42,SNP2YD90,ModelWWRC,Active,Yes,High,Global,Group2,IBM,HP,Contact3,Canada,Branch Office,East,GMT+5,Tag2
+150,Device508,Printer,Description of Device508,35.68.84.35,ae:22:77:8f:9a:e2,SNTF4QTG,Model6LKO,Inactive,No,High,Local,Group2,Cisco,Cisco,Contact4,USA,Warehouse,South,GMT+1,Tag3
+428,Device509,Server,Description of Device509,159.61.173.153,5c:f4:ff:12:d4:56,SNNDZ15S,ModelG9FG,Inactive,Yes,High,Global,Group5,Dell,Cisco,Contact1,Australia,HQ,East,GMT+5,Tag2
+11,Device510,Router,Description of Device510,54.223.0.117,23:ac:98:dc:0f:a9,SNYTXNTG,ModelFIR9,Inactive,No,High,Local,Group2,Cisco,Cisco,Contact1,Australia,Warehouse,North,GMT-8,Tag2
+100,Device511,Firewall,Description of Device511,157.119.26.247,7c:d8:4b:45:08:24,SN40OEQQ,Model48SG,Active,Yes,Medium,Global,Group4,Juniper,Dell,Contact4,UK,Branch Office,East,GMT-5,Tag3
+825,Device512,Server,Description of Device512,213.18.164.71,19:92:a7:b5:8f:be,SN6UZ4J9,ModelRESR,Active,No,Low,Local,Group2,Cisco,Dell,Contact3,USA,Datacenter,South,GMT-5,Tag1
+146,Device513,Printer,Description of Device513,232.110.187.84,77:99:e9:2b:79:66,SNR8M3ZS,ModelXZR0,Inactive,Yes,High,Global,Group3,Juniper,IBM,Contact1,UK,Datacenter,South,GMT-5,Tag3
+271,Device514,Router,Description of Device514,77.180.35.102,74:d5:d8:7a:03:2d,SNQECI82,ModelZTDE,Inactive,No,High,Local,Group1,HP,Cisco,Contact1,Canada,Datacenter,South,GMT+1,Tag2
+736,Device515,Server,Description of Device515,85.189.185.101,77:a2:fb:2a:ee:08,SNTH3XJ4,ModelD71E,Inactive,No,Medium,Local,Group5,Cisco,HP,Contact3,Australia,Warehouse,North,GMT+1,Tag1
+407,Device516,Switch,Description of Device516,165.33.171.218,f0:e2:47:9e:d3:01,SN4PGRZ7,ModelRUEG,Active,Yes,High,Global,Group1,HP,Juniper,Contact3,Australia,Warehouse,North,GMT-8,Tag3
+210,Device517,Switch,Description of Device517,113.156.185.96,e4:54:b9:f8:8a:e8,SNVB15JI,ModelPAL5,Active,Yes,High,Local,Group4,Dell,IBM,Contact5,UK,Datacenter,South,GMT-8,Tag1
+371,Device518,Switch,Description of Device518,81.88.196.20,dd:f6:1f:39:ae:ed,SNPSSRNE,ModelUKL9,Active,Yes,High,Global,Group2,Juniper,HP,Contact2,Germany,Branch Office,South,GMT-8,Tag2
+811,Device519,Server,Description of Device519,76.37.51.190,06:10:8f:ec:08:f0,SNQGQ4O4,ModelGAUN,Inactive,Yes,Medium,Local,Group4,Dell,Juniper,Contact2,UK,Warehouse,South,GMT+5,Tag1
+247,Device520,Firewall,Description of Device520,171.49.227.195,d8:d1:36:d8:e4:95,SNWRM26G,ModelGC4N,Active,No,Low,Local,Group1,Dell,IBM,Contact5,Australia,Warehouse,North,GMT-8,Tag2
+721,Device521,Firewall,Description of Device521,165.252.233.150,fb:ea:71:86:09:4b,SNCJUCZO,Model500B,Active,No,Medium,Global,Group5,HP,IBM,Contact5,Germany,HQ,West,GMT+5,Tag3
+459,Device522,Firewall,Description of Device522,129.90.188.100,c9:83:36:0b:a3:f1,SNYMAKLV,ModelQ7LL,Inactive,No,High,Global,Group3,HP,HP,Contact3,UK,HQ,West,GMT+1,Tag2
+472,Device523,Firewall,Description of Device523,203.11.122.140,5f:94:bb:be:ef:2c,SNKYFCP6,ModelF3DG,Active,No,Low,Global,Group5,Dell,Cisco,Contact2,UK,Datacenter,East,GMT-5,Tag1
+819,Device524,Switch,Description of Device524,227.49.52.199,bd:50:24:68:3d:ed,SN0ZTRZM,ModelLK99,Active,Yes,Low,Global,Group4,Dell,Cisco,Contact4,USA,HQ,East,GMT+5,Tag1
+285,Device525,Router,Description of Device525,92.17.198.116,aa:84:38:ae:0b:4a,SNYOXIN5,Model3GX6,Active,No,Medium,Global,Group1,Cisco,IBM,Contact2,UK,HQ,South,GMT-5,Tag1
+743,Device526,Printer,Description of Device526,128.54.0.131,be:57:be:65:fe:86,SNFORM3X,Model1L6W,Inactive,Yes,Low,Global,Group4,IBM,Dell,Contact3,Australia,Datacenter,South,GMT-5,Tag3
+383,Device527,Router,Description of Device527,144.224.114.3,25:e2:e0:8c:60:23,SNYX7U13,Model4N2B,Active,Yes,Medium,Global,Group1,Cisco,Dell,Contact1,Australia,HQ,South,GMT+1,Tag2
+200,Device528,Switch,Description of Device528,192.1.128.70,19:5b:28:80:c0:41,SNNGPZCN,ModelJ4BH,Active,Yes,Medium,Local,Group5,Cisco,Juniper,Contact4,USA,Warehouse,West,GMT+5,Tag2
+414,Device529,Router,Description of Device529,233.81.152.203,b7:4c:0a:40:17:ad,SN9UJYOD,ModelC1MB,Active,Yes,Low,Global,Group5,Dell,Juniper,Contact5,Germany,Warehouse,North,GMT+5,Tag2
+835,Device530,Switch,Description of Device530,254.126.201.13,5b:a0:a0:52:cc:25,SNQB5N6R,ModelJHN3,Active,Yes,Low,Local,Group4,Dell,Cisco,Contact4,Germany,Warehouse,East,GMT+5,Tag2
+452,Device531,Firewall,Description of Device531,146.110.157.31,2c:a5:0c:64:09:18,SNYNTJM5,Model7G27,Inactive,No,Medium,Global,Group5,Juniper,Dell,Contact2,UK,Warehouse,East,GMT-8,Tag2
+808,Device532,Firewall,Description of Device532,61.93.199.205,05:cc:39:f2:0c:ab,SN06PHXL,ModelWR46,Active,No,Low,Local,Group4,Juniper,IBM,Contact2,Australia,Warehouse,North,GMT+5,Tag3
+638,Device533,Server,Description of Device533,56.52.86.7,cb:9e:26:f7:46:b1,SNL7BHR1,Model1OZG,Inactive,Yes,High,Local,Group4,Dell,Dell,Contact1,Australia,Warehouse,North,GMT+1,Tag3
+575,Device534,Server,Description of Device534,85.69.139.210,95:5f:93:38:d1:29,SNWVLQIB,Model1NCO,Active,Yes,Low,Local,Group2,Juniper,Cisco,Contact4,Germany,HQ,East,GMT-5,Tag2
+321,Device535,Firewall,Description of Device535,28.123.193.81,3c:58:b6:8e:5b:55,SNU1UJ7B,ModelFPJ7,Inactive,No,Medium,Global,Group5,Cisco,Juniper,Contact2,Germany,Warehouse,West,GMT+5,Tag3
+774,Device536,Router,Description of Device536,38.229.13.9,8f:57:93:d8:a2:67,SNX7FH6B,Model82HC,Active,No,High,Local,Group5,Dell,Juniper,Contact3,USA,Branch Office,East,GMT-8,Tag1
+235,Device537,Switch,Description of Device537,242.130.26.93,e2:30:7f:cf:f6:be,SNF5M77C,ModelW279,Active,Yes,Medium,Local,Group3,Cisco,Dell,Contact2,USA,Datacenter,West,GMT+5,Tag3
+865,Device538,Switch,Description of Device538,129.196.165.220,02:8e:25:ea:4f:77,SN8VMF4X,ModelI0QT,Inactive,No,High,Global,Group5,Juniper,Dell,Contact3,UK,Datacenter,South,GMT+1,Tag1
+138,Device539,Firewall,Description of Device539,71.199.180.86,86:fa:ec:80:10:0b,SNLXU7BO,ModelF5HA,Inactive,Yes,Medium,Local,Group2,Juniper,IBM,Contact5,Germany,Branch Office,North,GMT+1,Tag2
+727,Device540,Printer,Description of Device540,3.57.28.209,e4:ba:60:c8:4a:8c,SNSIYEAO,ModelYMNC,Inactive,Yes,Medium,Global,Group1,IBM,Dell,Contact2,Germany,Warehouse,North,GMT+1,Tag3
+807,Device541,Printer,Description of Device541,37.82.115.255,00:63:e5:1e:02:ca,SNYEEB4B,ModelEF1O,Active,Yes,Medium,Local,Group4,Juniper,Juniper,Contact4,UK,Datacenter,South,GMT+1,Tag2
+376,Device542,Router,Description of Device542,122.21.7.108,7b:91:ed:f5:a2:c6,SN1I1QBA,Model7S3F,Inactive,Yes,Low,Global,Group5,Cisco,Juniper,Contact3,UK,HQ,South,GMT+5,Tag1
+449,Device543,Printer,Description of Device543,95.232.174.29,d6:96:7d:fb:3a:04,SNPURKU0,ModelMIRA,Inactive,Yes,Medium,Global,Group1,Dell,Cisco,Contact2,USA,Warehouse,East,GMT+1,Tag3
+30,Device544,Firewall,Description of Device544,31.82.37.38,62:a6:20:c8:b8:af,SNOSZQUG,Model53B8,Inactive,No,Low,Local,Group3,IBM,Juniper,Contact3,USA,Warehouse,North,GMT-8,Tag1
+756,Device545,Router,Description of Device545,210.84.129.197,41:2d:94:33:0c:7d,SNTKXES3,ModelZNAG,Active,No,High,Local,Group4,Dell,HP,Contact3,Germany,HQ,South,GMT+5,Tag1
+456,Device546,Switch,Description of Device546,132.49.121.162,a3:ac:20:7b:b4:f1,SNI0BS7D,ModelNH2V,Active,Yes,High,Global,Group1,Cisco,Dell,Contact3,Canada,HQ,North,GMT-8,Tag3
+131,Device547,Router,Description of Device547,64.14.216.207,ee:d9:74:87:0f:2f,SNBN92V1,ModelGKZH,Active,Yes,Medium,Local,Group1,Dell,Dell,Contact3,Canada,Branch Office,South,GMT-5,Tag1
+138,Device548,Switch,Description of Device548,138.75.175.78,4d:e9:9d:1a:e7:e1,SND6YFH4,ModelCNZC,Active,No,Medium,Global,Group2,Cisco,IBM,Contact3,UK,Branch Office,North,GMT-5,Tag3
+671,Device549,Switch,Description of Device549,139.140.208.237,6e:42:2d:22:9a:12,SNW5Q9L7,Model1T8O,Active,No,Low,Local,Group1,Dell,Juniper,Contact3,USA,Branch Office,West,GMT-8,Tag2
+858,Device550,Firewall,Description of Device550,133.196.164.197,ca:26:34:9e:a0:b0,SN0E2L4I,ModelFRTD,Active,Yes,Low,Global,Group3,HP,IBM,Contact5,Canada,Warehouse,East,GMT+1,Tag1
+402,Device551,Firewall,Description of Device551,99.54.74.165,e2:bc:56:e4:48:19,SNQE4IKB,Model0FLC,Active,No,Low,Global,Group3,HP,HP,Contact1,Germany,Datacenter,South,GMT-5,Tag3
+401,Device552,Server,Description of Device552,203.50.255.57,2e:86:5f:49:90:85,SN1PKE63,Model9WG4,Active,No,Medium,Local,Group3,Cisco,HP,Contact5,UK,Branch Office,South,GMT-8,Tag3
+260,Device553,Firewall,Description of Device553,39.172.178.202,9b:93:1b:47:ac:b9,SNIYX50X,ModelVZ7V,Active,No,Low,Global,Group3,IBM,Cisco,Contact1,Australia,Warehouse,North,GMT-5,Tag3
+206,Device554,Router,Description of Device554,39.48.197.231,27:e3:da:bb:ad:9a,SN5QTYTU,ModelG6MC,Active,Yes,Medium,Local,Group2,IBM,Cisco,Contact2,USA,HQ,East,GMT-5,Tag2
+857,Device555,Firewall,Description of Device555,148.60.143.175,75:51:80:64:56:84,SN9MWYNB,ModelBQX7,Active,No,Medium,Global,Group1,Juniper,Juniper,Contact1,Canada,HQ,West,GMT-5,Tag2
+757,Device556,Router,Description of Device556,22.245.17.130,80:a1:00:aa:26:70,SN8QB8FT,ModelQ1EN,Active,Yes,High,Local,Group1,IBM,Dell,Contact1,UK,Warehouse,North,GMT+1,Tag1
+213,Device557,Switch,Description of Device557,69.38.72.245,e6:5d:57:2a:b6:6d,SNEJWF08,ModelFLDO,Inactive,Yes,Medium,Global,Group4,IBM,HP,Contact3,Australia,Branch Office,South,GMT+5,Tag3
+979,Device558,Switch,Description of Device558,40.86.207.12,0d:46:a4:7b:05:d9,SN2HCTFL,Model0XPY,Active,No,Medium,Local,Group4,Juniper,Dell,Contact4,Germany,Warehouse,South,GMT-5,Tag1
+659,Device559,Server,Description of Device559,61.144.250.215,0b:ce:11:8a:7b:9a,SND1Q750,ModelS2LR,Active,No,Medium,Local,Group5,HP,IBM,Contact3,Canada,Datacenter,West,GMT+5,Tag1
+935,Device560,Router,Description of Device560,254.99.155.14,b4:0f:51:b6:83:be,SNPCQDHC,ModelTPDL,Inactive,Yes,Low,Local,Group4,HP,Dell,Contact3,Australia,Warehouse,South,GMT-8,Tag1
+254,Device561,Firewall,Description of Device561,81.78.51.108,ba:e5:23:52:af:e9,SN1YCIMB,ModelNPAX,Inactive,Yes,Medium,Global,Group1,Cisco,HP,Contact2,Canada,Branch Office,West,GMT+1,Tag2
+466,Device562,Printer,Description of Device562,253.146.200.107,53:b6:6d:7d:ab:dd,SNEDWXNZ,Model4ZCW,Inactive,No,Low,Global,Group2,IBM,HP,Contact2,Australia,Branch Office,East,GMT-8,Tag2
+697,Device563,Router,Description of Device563,74.158.236.127,b9:80:f5:01:b7:09,SNF7HXR1,ModelNL8X,Active,Yes,High,Local,Group4,Juniper,Juniper,Contact3,USA,HQ,East,GMT+5,Tag2
+271,Device564,Firewall,Description of Device564,235.145.60.18,0d:b1:80:c2:c4:ff,SNYJ72R2,ModelRBVF,Inactive,Yes,High,Local,Group5,Dell,Dell,Contact5,USA,Branch Office,South,GMT+1,Tag2
+304,Device565,Firewall,Description of Device565,78.143.149.208,69:07:8a:6d:fb:be,SNROFAPY,ModelLWRU,Inactive,Yes,Low,Global,Group2,IBM,Cisco,Contact4,USA,HQ,West,GMT-5,Tag3
+85,Device566,Switch,Description of Device566,154.99.78.18,10:9c:48:cf:9d:ae,SN6J2WU3,Model3MEB,Active,No,Medium,Global,Group5,HP,IBM,Contact1,Canada,Datacenter,West,GMT+1,Tag3
+121,Device567,Firewall,Description of Device567,11.104.248.222,96:05:1f:16:18:06,SNUR9PL4,ModelU28K,Active,No,Medium,Local,Group5,HP,Cisco,Contact1,USA,HQ,East,GMT-8,Tag3
+809,Device568,Firewall,Description of Device568,94.51.78.238,31:44:04:d5:2c:e8,SN17LZDQ,ModelXMPT,Active,No,Low,Global,Group4,IBM,Cisco,Contact1,USA,Warehouse,South,GMT+1,Tag3
+224,Device569,Printer,Description of Device569,41.52.33.187,e4:ba:a7:65:f4:23,SNSH52FZ,ModelMRE9,Active,No,Low,Global,Group2,Dell,IBM,Contact1,Australia,Branch Office,South,GMT+1,Tag2
+317,Device570,Router,Description of Device570,232.225.4.44,38:9e:1d:1a:77:70,SNGH3Y44,ModelW979,Active,No,Low,Global,Group3,Dell,Dell,Contact4,Germany,HQ,West,GMT-8,Tag3
+145,Device571,Firewall,Description of Device571,121.134.47.145,fc:18:eb:bf:93:a8,SNJKT88O,ModelK6H9,Inactive,No,Medium,Global,Group4,IBM,IBM,Contact4,UK,Warehouse,North,GMT-5,Tag2
+479,Device572,Firewall,Description of Device572,97.127.94.160,fa:52:40:e3:b0:84,SNV0DF2T,ModelRR9H,Inactive,Yes,Medium,Global,Group3,IBM,IBM,Contact3,Germany,Datacenter,South,GMT+1,Tag2
+278,Device573,Firewall,Description of Device573,230.55.152.68,21:04:13:d8:d6:53,SNDRJY4N,ModelAK75,Inactive,Yes,Low,Local,Group3,HP,Juniper,Contact4,UK,Warehouse,North,GMT+1,Tag1
+659,Device574,Server,Description of Device574,245.28.142.133,0b:1b:8d:b2:76:3d,SN295ZZ9,ModelJH2C,Active,No,High,Global,Group1,Cisco,HP,Contact2,USA,Datacenter,West,GMT-5,Tag3
+914,Device575,Router,Description of Device575,76.54.18.239,5d:1e:46:02:b1:04,SNT423IB,ModelU3PZ,Active,No,High,Global,Group4,IBM,HP,Contact5,Australia,Warehouse,East,GMT-8,Tag1
+207,Device576,Switch,Description of Device576,39.199.236.104,f0:d2:4f:98:1a:d5,SNNT47OM,ModelXA0D,Inactive,Yes,High,Global,Group3,HP,Cisco,Contact5,UK,Warehouse,North,GMT-8,Tag1
+571,Device577,Router,Description of Device577,198.153.100.112,88:48:c9:09:b0:f8,SN99YAXD,Model5V2Q,Active,No,High,Local,Group5,IBM,Dell,Contact1,USA,HQ,East,GMT-5,Tag1
+343,Device578,Firewall,Description of Device578,136.90.53.159,23:f3:bd:ba:a3:d0,SNRNOFVF,ModelXXT4,Active,Yes,High,Global,Group4,HP,HP,Contact4,UK,HQ,North,GMT-5,Tag3
+518,Device579,Firewall,Description of Device579,64.63.162.209,13:78:ff:2a:da:49,SNCO222U,ModelGBWQ,Inactive,Yes,Low,Global,Group2,HP,HP,Contact1,Australia,Datacenter,East,GMT-5,Tag2
+882,Device580,Switch,Description of Device580,129.141.238.42,8a:3a:87:35:0e:55,SNGHAT9Z,ModelUR2E,Active,Yes,Medium,Local,Group4,Cisco,Cisco,Contact1,Australia,Branch Office,South,GMT+5,Tag3
+586,Device581,Printer,Description of Device581,237.152.131.30,3c:92:37:db:6b:27,SNN5GCT0,ModelBDW0,Inactive,Yes,High,Local,Group3,IBM,IBM,Contact1,Germany,HQ,North,GMT-8,Tag1
+533,Device582,Server,Description of Device582,160.30.182.199,3d:d9:c0:d3:37:91,SN4A3PA4,ModelOO9A,Inactive,No,Medium,Global,Group3,IBM,IBM,Contact4,Canada,Warehouse,East,GMT+1,Tag3
+599,Device583,Router,Description of Device583,57.140.205.146,4d:1a:ba:ce:0f:28,SNBMIQ3J,ModelLV9Q,Inactive,No,Low,Local,Group2,HP,Cisco,Contact2,USA,HQ,East,GMT-8,Tag1
+296,Device584,Firewall,Description of Device584,15.115.149.167,56:b9:4c:9d:03:3e,SNK7PKR9,ModelS626,Inactive,No,Medium,Global,Group1,HP,HP,Contact2,USA,HQ,South,GMT-5,Tag1
+575,Device585,Printer,Description of Device585,141.79.110.251,8a:18:2a:c3:38:60,SNFPJYT4,ModelWML6,Active,No,High,Global,Group1,Cisco,Cisco,Contact5,USA,Branch Office,South,GMT+1,Tag3
+577,Device586,Printer,Description of Device586,52.88.237.86,8b:d9:b6:36:54:a9,SNGSPM6U,ModelI6V6,Inactive,Yes,Low,Local,Group3,Juniper,HP,Contact4,Australia,Branch Office,South,GMT-5,Tag1
+24,Device587,Switch,Description of Device587,47.135.144.221,d5:a7:4c:d6:93:f2,SNTPNVBE,Model3B9G,Active,Yes,High,Global,Group2,HP,HP,Contact1,UK,Warehouse,South,GMT+1,Tag3
+461,Device588,Server,Description of Device588,255.52.9.185,9a:4d:31:bf:7a:dc,SNF7UQCB,ModelKOFK,Inactive,Yes,Low,Local,Group1,HP,HP,Contact4,Germany,HQ,South,GMT-5,Tag2
+337,Device589,Printer,Description of Device589,37.140.81.194,6d:7b:b8:7a:9f:6a,SNPR81PU,ModelYXQ6,Active,Yes,Low,Global,Group3,Cisco,Juniper,Contact2,USA,HQ,North,GMT-5,Tag2
+685,Device590,Router,Description of Device590,211.106.140.110,28:04:f3:85:79:e2,SNSC6U9L,Model6H9F,Inactive,Yes,Low,Local,Group2,IBM,Dell,Contact4,Germany,HQ,East,GMT+1,Tag3
+345,Device591,Server,Description of Device591,236.183.50.154,d2:8d:39:d5:39:18,SNYRRVNJ,ModelD8GC,Inactive,No,High,Global,Group1,Juniper,Cisco,Contact3,USA,Datacenter,North,GMT-8,Tag3
+456,Device592,Switch,Description of Device592,243.71.25.143,a5:aa:de:f0:75:d5,SN29GHB6,ModelDQQN,Inactive,Yes,Medium,Local,Group5,Cisco,Cisco,Contact5,Germany,Branch Office,West,GMT-5,Tag2
+678,Device593,Switch,Description of Device593,50.183.99.19,87:a4:6f:88:2b:9b,SNTQTS3Q,ModelJ4VY,Inactive,Yes,Low,Global,Group5,Dell,Cisco,Contact2,UK,Warehouse,North,GMT-5,Tag2
+738,Device594,Printer,Description of Device594,217.177.97.244,e3:95:26:21:45:2b,SNB8Z5UY,ModelWGYP,Active,No,Medium,Global,Group2,HP,Cisco,Contact2,UK,HQ,East,GMT+1,Tag1
+866,Device595,Server,Description of Device595,80.55.56.162,d8:43:a8:11:62:58,SN7CSPB7,ModelRS0U,Active,No,High,Local,Group5,Juniper,HP,Contact1,Australia,Warehouse,East,GMT+5,Tag2
+631,Device596,Switch,Description of Device596,19.234.133.42,ea:ae:f8:98:fb:af,SN43SP2F,ModelMMMY,Active,Yes,Low,Local,Group4,HP,HP,Contact3,Canada,Datacenter,East,GMT+1,Tag3
+549,Device597,Switch,Description of Device597,138.94.177.139,46:77:25:6d:0b:ef,SNFFMQF0,ModelSL4E,Active,Yes,High,Global,Group2,Juniper,Dell,Contact3,UK,HQ,West,GMT+5,Tag2
+744,Device598,Switch,Description of Device598,49.30.51.177,3d:5f:80:44:7a:02,SNU0TD8R,Model5IGX,Active,Yes,Low,Local,Group5,IBM,Juniper,Contact1,USA,Branch Office,North,GMT-8,Tag1
+491,Device599,Printer,Description of Device599,62.133.163.17,52:e0:b2:73:f3:3d,SNEJALF2,Model9185,Inactive,Yes,Low,Global,Group2,Juniper,Juniper,Contact4,USA,Datacenter,North,GMT-8,Tag1
+611,Device600,Server,Description of Device600,215.89.215.96,aa:3b:de:d4:6f:15,SNZLGA0E,ModelGN0S,Inactive,Yes,High,Local,Group5,Juniper,Juniper,Contact5,UK,HQ,South,GMT-8,Tag1
+227,Device601,Firewall,Description of Device601,97.175.223.96,fc:a9:06:51:bb:3e,SN7A2B07,ModelOCM3,Active,No,Low,Local,Group5,HP,IBM,Contact5,UK,Branch Office,West,GMT+1,Tag2
+980,Device602,Server,Description of Device602,194.92.90.29,65:18:b3:06:f0:e3,SNJP5227,ModelKOCW,Inactive,No,Low,Global,Group1,Dell,Juniper,Contact1,USA,Datacenter,East,GMT+1,Tag3
+970,Device603,Switch,Description of Device603,90.14.3.123,ef:9f:75:11:33:ae,SNGI01J8,ModelSRK9,Inactive,Yes,Low,Global,Group5,HP,Cisco,Contact5,Germany,Warehouse,South,GMT+1,Tag1
+363,Device604,Server,Description of Device604,128.9.126.184,99:87:ed:b7:69:d8,SNPLZDB1,ModelA4PT,Active,Yes,Medium,Global,Group4,HP,IBM,Contact1,Australia,HQ,East,GMT+1,Tag2
+967,Device605,Server,Description of Device605,116.41.146.111,c6:ad:16:b8:af:43,SNK06VRD,Model4G9Q,Active,No,Low,Global,Group2,Juniper,IBM,Contact3,Germany,Branch Office,North,GMT+1,Tag3
+104,Device606,Router,Description of Device606,198.22.62.156,29:c7:e8:92:91:82,SN026XKL,ModelK541,Inactive,No,Medium,Global,Group2,IBM,Dell,Contact1,Australia,Branch Office,North,GMT+5,Tag2
+750,Device607,Server,Description of Device607,20.3.64.181,8e:1b:fc:52:2c:81,SN8I7NE8,Model32QF,Active,Yes,Low,Global,Group5,Cisco,IBM,Contact5,Germany,Branch Office,North,GMT+5,Tag2
+552,Device608,Firewall,Description of Device608,141.178.214.189,8a:e7:96:c7:ab:89,SN9UCGYB,ModelS5EU,Active,No,Low,Local,Group5,HP,Juniper,Contact3,Australia,Branch Office,West,GMT+1,Tag3
+700,Device609,Printer,Description of Device609,224.38.91.105,59:83:81:8e:e4:b8,SNMMCCVL,ModelJ0L5,Active,No,Low,Local,Group4,HP,HP,Contact4,Canada,Branch Office,South,GMT-5,Tag2
+967,Device610,Server,Description of Device610,191.163.245.41,45:35:6b:b8:14:fc,SNCBBDIA,ModelTRE2,Active,No,High,Global,Group4,Juniper,IBM,Contact5,Canada,HQ,South,GMT+5,Tag1
+125,Device611,Switch,Description of Device611,178.122.40.66,31:19:ed:1d:eb:14,SNCNQHTM,ModelKTRF,Inactive,No,Medium,Local,Group2,HP,Juniper,Contact4,USA,HQ,North,GMT+1,Tag2
+1,Device612,Firewall,Description of Device612,120.180.123.251,46:a0:69:34:8d:14,SNIMKFXE,ModelLZDB,Inactive,Yes,Medium,Global,Group4,Cisco,Dell,Contact5,UK,Branch Office,North,GMT+5,Tag3
+407,Device613,Server,Description of Device613,204.94.22.226,50:64:59:7a:83:c0,SNZCKYXW,ModelRGAI,Active,Yes,Low,Local,Group1,Juniper,Cisco,Contact1,USA,HQ,North,GMT+5,Tag1
+802,Device614,Server,Description of Device614,123.245.144.27,3a:15:d2:7a:f6:dc,SNFZTQYU,ModelRHDM,Inactive,No,Medium,Global,Group3,Dell,HP,Contact5,UK,HQ,East,GMT-8,Tag3
+823,Device615,Server,Description of Device615,96.142.155.215,13:45:35:ee:73:93,SNVZ23ZD,ModelHFJZ,Inactive,No,High,Local,Group5,Cisco,Dell,Contact4,USA,Branch Office,East,GMT+5,Tag2
+977,Device616,Printer,Description of Device616,209.169.146.40,87:3e:78:aa:08:7d,SNXSHCC9,ModelNW4G,Active,No,Medium,Global,Group2,Dell,Juniper,Contact2,UK,HQ,West,GMT+5,Tag3
+949,Device617,Router,Description of Device617,125.166.57.91,0f:9b:08:7e:eb:a4,SNJNBZG4,ModelZQAM,Active,No,High,Local,Group4,Cisco,IBM,Contact4,Australia,Branch Office,South,GMT-5,Tag1
+737,Device618,Firewall,Description of Device618,61.247.27.242,80:7b:d6:8b:22:d4,SN0V572P,ModelATDQ,Inactive,No,Medium,Local,Group3,Juniper,Dell,Contact3,Australia,Datacenter,South,GMT+5,Tag1
+288,Device619,Printer,Description of Device619,121.118.83.76,0a:80:2c:99:92:56,SN90D3IY,ModelX7NN,Inactive,Yes,Low,Local,Group4,Dell,Dell,Contact3,Australia,Datacenter,North,GMT+1,Tag3
+755,Device620,Printer,Description of Device620,199.157.30.122,57:c7:da:d9:2c:71,SNPSNBQ3,ModelGW1D,Inactive,Yes,Medium,Local,Group5,Juniper,HP,Contact1,Australia,Warehouse,North,GMT+1,Tag2
+591,Device621,Firewall,Description of Device621,244.58.97.33,b1:a9:10:8f:4f:df,SN9LUHV2,Model4QA0,Inactive,No,High,Global,Group4,Cisco,Cisco,Contact3,UK,Warehouse,North,GMT+5,Tag2
+776,Device622,Server,Description of Device622,201.100.80.2,f8:16:2b:27:7e:40,SNYMHHTM,ModelCO38,Active,No,High,Global,Group4,Dell,Juniper,Contact5,Canada,Datacenter,South,GMT-5,Tag2
+9,Device623,Firewall,Description of Device623,107.110.52.199,9a:59:7b:b1:53:ec,SNJYUD9V,ModelDEV3,Active,No,Medium,Global,Group5,Cisco,Dell,Contact1,Germany,Datacenter,South,GMT+5,Tag3
+238,Device624,Firewall,Description of Device624,173.73.247.193,68:e0:fa:0c:98:8d,SNRNLMZP,ModelG1OD,Inactive,Yes,Medium,Local,Group5,HP,HP,Contact2,UK,Warehouse,North,GMT+5,Tag1
+188,Device625,Router,Description of Device625,239.45.9.151,90:7c:53:69:89:4b,SN2KGLVB,ModelQMA3,Active,No,Low,Local,Group3,Cisco,Cisco,Contact2,UK,HQ,East,GMT-8,Tag1
+575,Device626,Firewall,Description of Device626,212.246.163.225,bd:de:5c:79:d4:dc,SNPMEGPI,ModelOJTH,Inactive,No,Low,Global,Group5,Juniper,IBM,Contact2,USA,HQ,East,GMT-5,Tag2
+361,Device627,Server,Description of Device627,247.34.19.152,b9:67:a0:33:4d:eb,SN7NVISI,Model7BK1,Inactive,Yes,Low,Local,Group2,IBM,HP,Contact2,Canada,Warehouse,East,GMT-8,Tag1
+632,Device628,Printer,Description of Device628,84.48.77.126,92:b7:d3:ad:da:a4,SNVO7QW6,ModelEWN6,Inactive,Yes,Medium,Global,Group3,IBM,Juniper,Contact4,USA,Datacenter,South,GMT+5,Tag3
+489,Device629,Router,Description of Device629,2.249.101.8,ee:d6:3a:50:f2:37,SNRQXOA9,ModelU2VR,Active,Yes,Medium,Local,Group5,Dell,HP,Contact2,Australia,HQ,South,GMT+5,Tag1
+323,Device630,Printer,Description of Device630,143.188.121.116,7f:86:c9:5b:4c:ae,SNN6Z08X,Model7KJE,Inactive,Yes,Medium,Local,Group2,Cisco,HP,Contact4,UK,HQ,South,GMT+5,Tag3
+624,Device631,Firewall,Description of Device631,126.160.206.101,df:32:f4:bc:1d:4d,SNJXW63M,ModelKRZF,Active,Yes,Low,Local,Group3,Juniper,Juniper,Contact3,Canada,Datacenter,South,GMT+5,Tag1
+657,Device632,Printer,Description of Device632,206.171.167.43,39:cc:29:c9:94:0a,SN6EUWZG,ModelH2OC,Active,Yes,Low,Local,Group1,Cisco,HP,Contact3,USA,Datacenter,East,GMT+5,Tag1
+73,Device633,Router,Description of Device633,91.101.37.219,94:e7:1b:30:ae:07,SNM60OT0,ModelFHUT,Active,No,Low,Local,Group4,IBM,Dell,Contact2,USA,Warehouse,North,GMT-5,Tag2
+109,Device634,Firewall,Description of Device634,175.7.90.186,91:52:96:da:f3:44,SNBWVWGL,ModelLLO1,Active,No,Medium,Local,Group3,HP,Juniper,Contact5,UK,Branch Office,East,GMT-8,Tag3
+697,Device635,Switch,Description of Device635,238.150.226.249,38:3a:cb:65:c5:ee,SNT18XM9,ModelXOQQ,Inactive,No,Medium,Local,Group3,Juniper,Dell,Contact2,UK,Datacenter,North,GMT-8,Tag1
+981,Device636,Server,Description of Device636,9.83.18.226,c1:7d:a3:e5:ae:ab,SNHRACM6,Model9JK7,Inactive,Yes,Medium,Local,Group2,Dell,Dell,Contact3,Australia,Warehouse,West,GMT+5,Tag2
+522,Device637,Switch,Description of Device637,100.113.9.197,fa:35:5f:a4:8d:0e,SNY8T6B6,ModelSROF,Active,No,Medium,Global,Group4,IBM,Juniper,Contact5,Germany,Branch Office,East,GMT-5,Tag2
+249,Device638,Printer,Description of Device638,200.129.60.180,52:8d:50:57:d9:3f,SNJL5HPZ,Model2ILB,Active,No,High,Local,Group1,Cisco,IBM,Contact3,Germany,Branch Office,South,GMT-8,Tag1
+940,Device639,Firewall,Description of Device639,18.149.139.64,53:2c:02:1d:39:5f,SNNIM7QN,Model3DES,Inactive,No,High,Global,Group2,Juniper,Juniper,Contact5,UK,Datacenter,North,GMT-8,Tag1
+922,Device640,Printer,Description of Device640,127.208.141.148,d8:c2:4f:dd:2b:e2,SNA9XQPR,ModelN66O,Active,No,High,Global,Group4,HP,Cisco,Contact1,USA,Warehouse,East,GMT-5,Tag2
+121,Device641,Server,Description of Device641,8.38.231.126,1e:94:b8:6f:f5:78,SNB12N3R,ModelLSCH,Active,No,Low,Local,Group3,Juniper,Cisco,Contact4,USA,HQ,South,GMT-5,Tag2
+407,Device642,Router,Description of Device642,90.234.117.16,22:c0:9f:ff:0a:16,SN27E5BC,Model0PN3,Inactive,No,High,Global,Group1,Cisco,HP,Contact1,UK,Warehouse,North,GMT-5,Tag1
+366,Device643,Router,Description of Device643,4.243.209.129,03:83:9e:83:8d:42,SN9BX5S8,ModelHRCG,Inactive,No,Low,Local,Group1,Juniper,HP,Contact3,UK,Datacenter,North,GMT+5,Tag2
+902,Device644,Server,Description of Device644,207.218.101.91,ae:b1:b5:c8:7f:95,SN8OZV9A,ModelIKBY,Active,No,Medium,Global,Group3,Cisco,IBM,Contact1,Australia,HQ,East,GMT+5,Tag1
+754,Device645,Switch,Description of Device645,233.44.255.72,a1:43:77:5f:5c:4a,SNTU29SH,ModelGTLK,Inactive,No,Medium,Local,Group3,Dell,Cisco,Contact2,Australia,Warehouse,West,GMT+5,Tag1
+398,Device646,Printer,Description of Device646,77.203.147.84,94:51:6e:dd:a1:28,SNTWF6U9,ModelGQ07,Inactive,No,High,Global,Group3,HP,HP,Contact3,UK,Datacenter,South,GMT-8,Tag3
+922,Device647,Router,Description of Device647,3.83.95.186,87:e6:93:be:d2:40,SNH7XEDI,ModelCE9J,Inactive,Yes,Low,Global,Group5,Juniper,IBM,Contact5,Canada,Branch Office,West,GMT-5,Tag3
+389,Device648,Router,Description of Device648,255.162.107.248,37:d2:2d:89:9f:24,SNYQZSRW,ModelYBJT,Inactive,Yes,High,Global,Group1,IBM,Cisco,Contact4,Canada,HQ,East,GMT+1,Tag1
+657,Device649,Router,Description of Device649,111.241.196.154,84:a3:fc:bf:4d:51,SNTZ1CSP,ModelDEJW,Inactive,No,Low,Local,Group5,Juniper,Dell,Contact4,UK,Warehouse,South,GMT+5,Tag2
+248,Device650,Firewall,Description of Device650,41.168.179.48,d5:72:21:68:f0:e9,SNS23KYS,ModelBAKF,Inactive,No,High,Global,Group4,Dell,Cisco,Contact5,Australia,Warehouse,South,GMT+5,Tag1
+1,Device651,Firewall,Description of Device651,207.190.223.120,e8:59:33:ca:13:a6,SNB1RFSZ,ModelMIIU,Inactive,No,Medium,Local,Group1,HP,Cisco,Contact1,UK,HQ,West,GMT+1,Tag1
+243,Device652,Router,Description of Device652,5.96.12.206,9a:17:a4:2f:a3:5b,SNAQUYTC,ModelEM3L,Inactive,No,Medium,Local,Group5,HP,IBM,Contact2,Germany,Branch Office,East,GMT+1,Tag1
+204,Device653,Router,Description of Device653,77.56.60.72,b4:cf:c1:d5:9d:2a,SN2LRAIO,ModelAUGQ,Active,Yes,High,Local,Group1,IBM,Cisco,Contact2,USA,HQ,East,GMT-8,Tag1
+255,Device654,Switch,Description of Device654,205.186.193.110,12:7a:1e:51:bc:4a,SN8ZW8ZP,Model0VMX,Inactive,No,High,Global,Group5,Cisco,Dell,Contact1,UK,Branch Office,East,GMT-8,Tag2
+435,Device655,Firewall,Description of Device655,3.160.83.6,fc:a6:95:52:ad:80,SNMM64NC,ModelATPO,Active,Yes,Medium,Global,Group3,Juniper,Cisco,Contact2,UK,Branch Office,North,GMT+5,Tag1
+82,Device656,Router,Description of Device656,199.222.15.34,e3:a3:d2:18:4f:f6,SNW8GB7N,ModelWLNQ,Active,Yes,High,Global,Group4,HP,Dell,Contact2,Canada,Datacenter,West,GMT+5,Tag2
+843,Device657,Printer,Description of Device657,66.172.130.65,85:63:79:2a:ed:25,SNZ91UFR,ModelASIU,Active,Yes,Low,Local,Group2,HP,Juniper,Contact5,Canada,HQ,South,GMT+1,Tag1
+9,Device658,Server,Description of Device658,246.86.74.6,57:20:59:ef:81:58,SNMDG7LZ,ModelFMGG,Inactive,Yes,Medium,Local,Group5,HP,Juniper,Contact4,Australia,HQ,North,GMT+5,Tag3
+181,Device659,Server,Description of Device659,226.48.15.73,bd:02:2a:62:fc:47,SN3WBFNO,ModelJTYC,Active,No,Medium,Global,Group3,HP,Cisco,Contact4,Canada,HQ,West,GMT+1,Tag3
+436,Device660,Switch,Description of Device660,187.86.83.134,b6:90:81:50:da:b3,SNDW2JN4,ModelO2DS,Inactive,Yes,Medium,Global,Group1,IBM,IBM,Contact4,Canada,Branch Office,West,GMT-5,Tag3
+913,Device661,Printer,Description of Device661,120.173.217.185,24:1e:67:f6:f7:65,SNLY2W62,ModelX8YJ,Active,Yes,Low,Global,Group5,Dell,Dell,Contact3,Australia,HQ,West,GMT+1,Tag2
+686,Device662,Server,Description of Device662,220.51.34.133,1a:66:c4:af:65:07,SNDGPOE8,Model7TB9,Inactive,No,High,Local,Group1,HP,IBM,Contact4,UK,HQ,North,GMT-5,Tag3
+371,Device663,Firewall,Description of Device663,203.59.50.207,33:82:9f:37:0d:9e,SNCDBMT3,ModelOI31,Active,Yes,High,Local,Group1,Dell,IBM,Contact4,UK,Branch Office,East,GMT-5,Tag1
+991,Device664,Printer,Description of Device664,80.239.32.118,ba:7b:cb:93:74:fe,SN0OAEFM,ModelOQLP,Active,No,Medium,Global,Group4,Juniper,HP,Contact1,Germany,Branch Office,West,GMT-8,Tag3
+524,Device665,Switch,Description of Device665,73.113.151.177,91:60:99:54:72:0d,SNRTKS8G,ModelDVNF,Active,Yes,Low,Global,Group4,Juniper,HP,Contact3,Germany,Branch Office,North,GMT+1,Tag2
+490,Device666,Server,Description of Device666,64.69.120.150,23:29:35:0a:d7:b2,SNHC83QZ,ModelOOHJ,Inactive,No,Low,Global,Group4,Cisco,Cisco,Contact3,Canada,HQ,North,GMT+5,Tag2
+96,Device667,Server,Description of Device667,4.139.253.225,30:1b:83:d6:2a:15,SNACSFAF,ModelXEAW,Active,Yes,Medium,Global,Group2,Dell,Juniper,Contact4,Germany,Branch Office,North,GMT-8,Tag3
+247,Device668,Server,Description of Device668,112.59.63.16,a9:80:5d:6b:ad:76,SNT5AWP6,ModelF582,Inactive,Yes,Medium,Local,Group1,HP,IBM,Contact5,Canada,Branch Office,South,GMT-5,Tag2
+516,Device669,Router,Description of Device669,198.240.207.216,a8:1f:b5:81:10:b5,SNDTMEAQ,ModelNGVX,Active,No,Medium,Local,Group2,HP,Dell,Contact5,USA,HQ,East,GMT+5,Tag2
+986,Device670,Server,Description of Device670,63.113.88.160,76:8e:a8:78:89:c4,SNMU7WZU,ModelF5PC,Inactive,Yes,Low,Local,Group5,IBM,Dell,Contact4,Germany,Branch Office,South,GMT-5,Tag1
+187,Device671,Switch,Description of Device671,189.254.125.82,65:ce:74:06:b8:9c,SNC2BJQU,Model57O9,Active,Yes,Medium,Global,Group4,Juniper,Juniper,Contact1,Australia,Warehouse,South,GMT+5,Tag3
+976,Device672,Firewall,Description of Device672,14.253.82.78,90:bc:c8:53:0b:28,SNDFZU2J,ModelKPB3,Inactive,Yes,High,Local,Group3,Cisco,Dell,Contact1,Germany,Warehouse,East,GMT+5,Tag2
+81,Device673,Firewall,Description of Device673,4.72.198.93,9a:82:0a:36:c8:43,SNEGKKIO,Model32LZ,Inactive,No,Medium,Global,Group4,Juniper,Cisco,Contact1,UK,HQ,West,GMT-5,Tag3
+479,Device674,Router,Description of Device674,5.245.31.194,af:1a:47:03:4a:92,SNDC493T,ModelFP03,Active,Yes,Low,Local,Group5,IBM,Juniper,Contact2,USA,Branch Office,East,GMT-8,Tag3
+257,Device675,Router,Description of Device675,84.230.254.225,36:6f:79:af:11:97,SNTC07HW,ModelX9H9,Active,Yes,Medium,Local,Group5,HP,HP,Contact4,UK,Branch Office,South,GMT-5,Tag3
+156,Device676,Switch,Description of Device676,240.34.90.251,b1:6a:29:d6:af:38,SNQ1H7KZ,ModelFC6V,Active,Yes,High,Local,Group5,Juniper,Dell,Contact3,Germany,Datacenter,West,GMT+1,Tag1
+955,Device677,Server,Description of Device677,40.93.130.10,5e:44:e2:97:40:46,SNJYSXUK,Model12YM,Inactive,Yes,High,Local,Group2,HP,IBM,Contact3,Australia,Branch Office,East,GMT-5,Tag3
+627,Device678,Server,Description of Device678,105.58.33.195,e7:6c:d6:c0:10:20,SNX0TWMX,Model25TG,Inactive,No,Medium,Local,Group2,HP,Dell,Contact4,UK,HQ,South,GMT+5,Tag1
+127,Device679,Server,Description of Device679,141.18.253.70,aa:b3:9c:07:3b:2e,SNC2LIIF,ModelV1JA,Active,Yes,High,Global,Group1,HP,Juniper,Contact2,Canada,HQ,East,GMT-8,Tag1
+587,Device680,Firewall,Description of Device680,213.247.209.209,68:b6:c6:c1:a0:79,SNDFDWKH,Model41V6,Active,Yes,Medium,Global,Group2,IBM,Juniper,Contact1,UK,HQ,South,GMT+1,Tag1
+561,Device681,Firewall,Description of Device681,35.198.29.193,c6:de:71:11:3d:cb,SNSUU2M9,ModelWIAR,Active,No,Low,Local,Group4,Juniper,Juniper,Contact2,Germany,Datacenter,South,GMT-8,Tag3
+965,Device682,Firewall,Description of Device682,174.234.211.31,1d:93:91:ad:1a:e3,SNRFC09J,Model3TRG,Inactive,No,High,Global,Group1,HP,IBM,Contact5,UK,Warehouse,North,GMT+5,Tag2
+5,Device683,Server,Description of Device683,150.65.176.103,33:fa:50:6d:59:83,SNPVTK9R,ModelCPTN,Inactive,Yes,High,Local,Group1,Dell,Juniper,Contact5,Australia,Warehouse,South,GMT+5,Tag1
+548,Device684,Router,Description of Device684,164.89.101.183,f7:af:b9:ae:c8:6a,SN1WZJDU,ModelT7N3,Active,Yes,Medium,Local,Group2,Dell,Dell,Contact5,Germany,Datacenter,West,GMT-8,Tag2
+176,Device685,Router,Description of Device685,90.75.43.32,1b:0f:ee:51:73:bf,SNPH5RRC,Model0OVE,Active,Yes,High,Local,Group3,Dell,Juniper,Contact3,Canada,Branch Office,South,GMT+1,Tag1
+758,Device686,Server,Description of Device686,216.164.110.46,cf:c5:73:7b:eb:6a,SN5LM95M,ModelE9AP,Inactive,Yes,High,Local,Group3,Juniper,IBM,Contact5,Germany,Branch Office,South,GMT+1,Tag2
+192,Device687,Router,Description of Device687,95.210.113.134,a1:98:70:68:61:bc,SNJ6GTNX,ModelFLB2,Inactive,Yes,High,Global,Group2,Cisco,IBM,Contact2,UK,Branch Office,West,GMT+1,Tag1
+651,Device688,Server,Description of Device688,205.206.229.60,5f:1f:79:14:5a:cd,SNH6P994,Model5AH6,Inactive,No,High,Global,Group2,Cisco,Cisco,Contact5,UK,Datacenter,West,GMT-8,Tag2
+859,Device689,Server,Description of Device689,252.60.240.247,26:a3:7f:2b:2e:34,SN6Y0M1V,ModelKUQH,Active,Yes,High,Local,Group3,IBM,IBM,Contact1,Germany,Datacenter,West,GMT-5,Tag2
+883,Device690,Server,Description of Device690,67.152.113.140,98:b1:60:f0:ba:38,SN1RH8TJ,ModelKTWR,Active,No,Medium,Local,Group2,Dell,IBM,Contact3,USA,HQ,South,GMT+1,Tag2
+368,Device691,Server,Description of Device691,103.253.84.174,f8:a3:85:0c:a7:3f,SNB95SVO,ModelBU1Q,Active,Yes,Low,Local,Group3,IBM,IBM,Contact1,Germany,Datacenter,South,GMT-5,Tag1
+23,Device692,Switch,Description of Device692,39.120.216.185,e3:ee:9d:20:d3:f7,SN7WJZL1,ModelX83B,Inactive,No,High,Global,Group3,Cisco,Cisco,Contact4,Australia,Datacenter,East,GMT+5,Tag1
+523,Device693,Switch,Description of Device693,45.156.58.85,8d:5e:18:05:58:4d,SNRCBZNC,Model5J04,Inactive,Yes,Medium,Global,Group3,IBM,Juniper,Contact3,Australia,Datacenter,East,GMT-5,Tag1
+24,Device694,Server,Description of Device694,130.164.214.250,aa:94:5f:da:f4:00,SN9Y4TCM,Model27DE,Active,Yes,Low,Global,Group4,HP,HP,Contact4,Canada,HQ,South,GMT+5,Tag3
+949,Device695,Server,Description of Device695,93.90.205.211,a8:ed:69:13:fe:d7,SNYFG07B,Model7HWH,Active,No,Low,Local,Group1,HP,Juniper,Contact1,USA,HQ,South,GMT-8,Tag3
+904,Device696,Firewall,Description of Device696,30.215.192.37,cf:44:f6:d5:a3:d1,SNMYCPTL,ModelBTPU,Active,No,Low,Global,Group2,Cisco,Juniper,Contact3,Canada,Branch Office,North,GMT-5,Tag2
+910,Device697,Router,Description of Device697,134.27.98.127,38:b8:09:a1:50:0f,SNGGVKVF,ModelC64Y,Active,No,Medium,Global,Group1,Juniper,Cisco,Contact1,Australia,Datacenter,West,GMT-5,Tag2
+435,Device698,Server,Description of Device698,27.235.190.24,c7:cd:41:09:42:ef,SN9IEE3P,ModelRUCI,Active,Yes,Medium,Global,Group4,Dell,Juniper,Contact3,Australia,Datacenter,South,GMT+5,Tag1
+672,Device699,Switch,Description of Device699,29.63.138.113,ed:47:03:79:8d:3b,SNSDEITQ,ModelG0ZY,Active,Yes,Medium,Global,Group2,IBM,IBM,Contact4,UK,Branch Office,East,GMT-5,Tag3
+847,Device700,Firewall,Description of Device700,211.231.60.68,7e:df:14:11:9a:c4,SN96U7JC,ModelL1EQ,Active,Yes,Low,Local,Group4,HP,HP,Contact1,Australia,Branch Office,South,GMT+5,Tag1
+992,Device701,Server,Description of Device701,69.34.216.107,c5:c6:54:98:8a:96,SNGAA6EP,Model4C5K,Inactive,Yes,High,Local,Group3,HP,HP,Contact2,Australia,Datacenter,East,GMT+5,Tag2
+656,Device702,Router,Description of Device702,176.248.203.217,08:e2:73:ee:aa:00,SN6NWQ0U,ModelK4B6,Active,No,High,Local,Group2,IBM,Dell,Contact3,USA,Warehouse,South,GMT-8,Tag1
+172,Device703,Server,Description of Device703,86.43.119.31,ef:51:80:bf:4d:90,SN0OPDKA,ModelK2DT,Active,No,High,Global,Group5,Cisco,Dell,Contact3,Germany,Datacenter,East,GMT-8,Tag1
+2,Device704,Printer,Description of Device704,211.217.100.113,3a:a3:d5:6a:49:f2,SNJQOWLJ,ModelXCMO,Inactive,Yes,Medium,Global,Group2,Dell,Dell,Contact5,Germany,Branch Office,South,GMT+5,Tag2
+975,Device705,Switch,Description of Device705,188.197.102.250,85:44:a0:81:1a:ec,SN8CRZDV,Model2YA7,Inactive,Yes,High,Global,Group4,IBM,HP,Contact2,UK,Branch Office,West,GMT+1,Tag1
+242,Device706,Router,Description of Device706,190.233.110.163,d5:e6:e4:8b:d8:dd,SNQJJ774,Model1QXV,Inactive,No,Low,Local,Group2,HP,Dell,Contact1,Australia,Warehouse,East,GMT-8,Tag2
+641,Device707,Router,Description of Device707,126.16.193.84,15:a4:57:38:17:08,SN4LQF4N,ModelMC6C,Inactive,Yes,High,Local,Group2,IBM,Juniper,Contact4,Germany,HQ,South,GMT+1,Tag1
+869,Device708,Printer,Description of Device708,195.162.243.157,a2:53:dd:0b:8f:4a,SNAD3IR8,ModelV7UM,Active,No,Low,Global,Group4,Dell,Cisco,Contact4,Australia,HQ,North,GMT+1,Tag2
+696,Device709,Firewall,Description of Device709,207.204.202.54,85:13:52:4d:35:2b,SNJXUG37,Model327G,Active,Yes,Medium,Local,Group3,Juniper,Dell,Contact4,UK,Warehouse,West,GMT+1,Tag1
+550,Device710,Router,Description of Device710,207.83.207.47,22:87:4f:7c:40:6a,SNADA9DU,ModelUCGI,Active,No,Low,Local,Group4,Dell,Juniper,Contact5,Canada,Warehouse,East,GMT+1,Tag1
+552,Device711,Router,Description of Device711,15.55.51.21,06:53:2f:f5:6e:34,SNXYRZI8,ModelXCTE,Inactive,Yes,Low,Local,Group5,Dell,Cisco,Contact2,UK,Branch Office,West,GMT+5,Tag2
+35,Device712,Printer,Description of Device712,49.102.26.38,ca:a2:38:d5:6b:e9,SNIF8T98,ModelXBYN,Active,No,High,Global,Group4,HP,IBM,Contact5,Canada,HQ,South,GMT-8,Tag1
+983,Device713,Printer,Description of Device713,64.98.196.2,c9:15:a2:e0:5f:9f,SNPGUNNJ,ModelCAZE,Inactive,No,Low,Local,Group4,Juniper,IBM,Contact5,UK,HQ,South,GMT+5,Tag1
+623,Device714,Router,Description of Device714,227.147.124.251,93:7b:13:3f:c2:64,SN21WDUE,ModelCIO0,Inactive,Yes,High,Local,Group4,HP,Juniper,Contact2,Germany,Warehouse,West,GMT+5,Tag1
+179,Device715,Switch,Description of Device715,94.102.144.162,67:dd:8d:4a:c8:17,SNRKU7VJ,ModelL5K8,Active,No,Medium,Local,Group5,IBM,IBM,Contact1,USA,HQ,East,GMT+5,Tag2
+34,Device716,Printer,Description of Device716,191.98.115.8,c8:47:b4:df:11:ef,SN8O9RMU,ModelKW97,Inactive,No,High,Local,Group5,IBM,Dell,Contact5,Germany,Datacenter,North,GMT-5,Tag3
+691,Device717,Printer,Description of Device717,11.4.46.214,cd:47:46:95:8e:ad,SNFQFGR5,Model3EG1,Active,Yes,Low,Global,Group3,IBM,Dell,Contact1,Germany,HQ,North,GMT+1,Tag1
+862,Device718,Switch,Description of Device718,152.224.81.125,1e:ba:99:52:8b:c3,SNWE9GMN,Model32X6,Inactive,Yes,Medium,Local,Group4,IBM,Dell,Contact3,UK,Datacenter,South,GMT+5,Tag3
+369,Device719,Switch,Description of Device719,16.104.147.135,f6:c7:d7:b4:a4:d2,SNJZC5Z3,ModelZ3L7,Active,Yes,High,Local,Group4,Dell,Juniper,Contact1,UK,Datacenter,South,GMT-5,Tag1
+90,Device720,Printer,Description of Device720,32.202.160.142,13:4d:80:8d:75:85,SN86OK57,ModelNP6V,Active,Yes,High,Global,Group5,Juniper,Dell,Contact5,USA,Datacenter,East,GMT+1,Tag1
+1000,Device721,Router,Description of Device721,45.172.131.22,e5:40:44:23:3a:ba,SNFL9V58,ModelQJPJ,Active,No,High,Global,Group1,Juniper,IBM,Contact2,Canada,Datacenter,South,GMT+1,Tag2
+322,Device722,Printer,Description of Device722,195.39.139.186,4a:bd:29:14:0b:d4,SN9JUXM5,ModelFUKF,Active,Yes,Medium,Global,Group1,HP,Dell,Contact3,Australia,Branch Office,West,GMT+1,Tag2
+950,Device723,Firewall,Description of Device723,34.210.89.145,03:bc:58:2b:16:14,SNFUTG61,Model7P5C,Active,Yes,Medium,Local,Group1,IBM,Cisco,Contact2,Australia,HQ,West,GMT+1,Tag3
+395,Device724,Switch,Description of Device724,161.230.156.163,0c:e9:36:5f:fa:e3,SN8AH672,ModelDSBP,Inactive,No,Low,Global,Group1,HP,IBM,Contact1,USA,HQ,West,GMT-8,Tag1
+660,Device725,Printer,Description of Device725,189.12.157.149,a5:77:6c:cb:cb:b4,SN9NM7BT,Model3KR4,Inactive,No,Medium,Global,Group5,Cisco,Juniper,Contact1,USA,HQ,South,GMT+1,Tag3
+951,Device726,Firewall,Description of Device726,178.98.43.222,7d:00:05:72:96:e3,SN877ZFE,ModelVZR5,Inactive,Yes,High,Local,Group1,IBM,Juniper,Contact2,USA,HQ,West,GMT-5,Tag2
+799,Device727,Server,Description of Device727,39.194.25.140,d2:6a:52:f1:d1:6d,SN0H4BFT,ModelDPE2,Active,Yes,Low,Global,Group1,HP,HP,Contact2,Germany,Datacenter,South,GMT+1,Tag3
+8,Device728,Printer,Description of Device728,56.244.202.57,e1:a0:9b:85:63:54,SNWP0URV,ModelJTIC,Active,Yes,Medium,Global,Group5,Juniper,Dell,Contact1,UK,HQ,North,GMT-8,Tag2
+783,Device729,Router,Description of Device729,74.204.162.81,ac:08:c9:b8:77:5a,SNDO2NB7,ModelWHBC,Inactive,No,Medium,Local,Group1,Juniper,Juniper,Contact5,Germany,Branch Office,West,GMT+5,Tag2
+669,Device730,Firewall,Description of Device730,51.218.190.176,32:66:97:a7:99:ee,SNNQ5DHQ,Model9BDE,Active,No,High,Local,Group4,IBM,IBM,Contact3,Germany,Datacenter,North,GMT+1,Tag2
+209,Device731,Server,Description of Device731,17.249.107.58,4d:13:fb:d7:03:a2,SN1E70XW,Model8K0B,Inactive,Yes,High,Local,Group3,IBM,Cisco,Contact4,Germany,Warehouse,North,GMT+1,Tag2
+371,Device732,Printer,Description of Device732,252.198.123.140,27:e1:9c:f6:84:2e,SNWEIMVY,ModelVQZ4,Active,Yes,Medium,Global,Group3,Dell,HP,Contact3,USA,Datacenter,North,GMT-5,Tag2
+650,Device733,Server,Description of Device733,123.32.219.207,05:04:19:8a:2c:fa,SNUHT8UB,ModelR434,Inactive,No,Medium,Local,Group2,IBM,IBM,Contact2,USA,Branch Office,South,GMT+5,Tag2
+602,Device734,Firewall,Description of Device734,175.87.83.30,20:64:0e:5e:bd:04,SNGIQSPQ,ModelGN61,Inactive,No,Low,Local,Group1,IBM,HP,Contact3,Germany,Warehouse,East,GMT+1,Tag2
+820,Device735,Router,Description of Device735,35.62.37.60,11:98:ec:d5:f5:3f,SN5C81PD,ModelOLOS,Active,No,Medium,Local,Group4,Dell,Juniper,Contact4,Canada,Datacenter,East,GMT-8,Tag3
+183,Device736,Printer,Description of Device736,110.84.174.88,a8:c2:dc:c0:09:00,SNN824B9,ModelIBOK,Active,No,Low,Global,Group4,HP,Juniper,Contact2,Australia,HQ,West,GMT-8,Tag2
+700,Device737,Server,Description of Device737,29.205.133.168,ad:ec:63:f4:92:db,SNNQ1I6V,ModelYA3K,Inactive,Yes,Low,Local,Group1,IBM,Juniper,Contact5,Canada,Warehouse,West,GMT+1,Tag1
+286,Device738,Router,Description of Device738,145.8.58.74,36:0e:f3:12:ba:e1,SNEBBISX,ModelEBLB,Active,Yes,Low,Local,Group2,Cisco,Cisco,Contact5,Australia,Warehouse,North,GMT-8,Tag1
+751,Device739,Firewall,Description of Device739,45.174.165.225,4b:b7:d2:19:b6:9a,SNS5OD5E,ModelSJJ8,Inactive,Yes,Medium,Local,Group1,HP,HP,Contact4,Australia,Datacenter,West,GMT+5,Tag3
+541,Device740,Server,Description of Device740,26.182.210.3,22:94:a3:1c:b6:b1,SN1TX2ZH,ModelNTU8,Inactive,Yes,High,Local,Group4,Dell,Dell,Contact2,Australia,Branch Office,West,GMT-5,Tag3
+938,Device741,Router,Description of Device741,153.246.111.62,8c:1c:10:a7:23:f2,SN3C1WSE,Model8R2A,Active,No,Medium,Local,Group5,Cisco,Juniper,Contact3,Canada,Branch Office,North,GMT-5,Tag3
+106,Device742,Firewall,Description of Device742,83.33.242.107,ad:9e:85:61:02:11,SNY77FUA,ModelQDKR,Active,Yes,Low,Local,Group5,Cisco,Dell,Contact2,Australia,Warehouse,North,GMT+5,Tag1
+917,Device743,Printer,Description of Device743,207.195.140.95,1d:4c:5e:24:2d:ab,SNV7VRNJ,ModelXDKM,Active,No,Medium,Local,Group1,HP,Cisco,Contact4,Germany,Warehouse,East,GMT+1,Tag1
+991,Device744,Firewall,Description of Device744,71.194.251.135,d2:d6:30:c1:a0:06,SNX0RGFQ,ModelZYU1,Inactive,No,Low,Local,Group1,HP,Cisco,Contact4,Canada,Branch Office,West,GMT+1,Tag3
+585,Device745,Switch,Description of Device745,49.121.111.251,b6:0d:41:9b:41:0c,SN87QA8M,ModelEKBV,Active,Yes,High,Global,Group5,Cisco,Cisco,Contact1,UK,HQ,North,GMT-5,Tag3
+498,Device746,Printer,Description of Device746,220.3.54.213,0f:3a:02:0d:aa:9c,SNANE7IU,Model4DWI,Inactive,No,Low,Local,Group4,IBM,Juniper,Contact3,USA,Branch Office,South,GMT-8,Tag3
+131,Device747,Printer,Description of Device747,227.143.158.0,61:b7:e5:b6:19:b6,SNFPCL2I,ModelI4GY,Active,No,High,Global,Group4,Dell,HP,Contact2,USA,Datacenter,East,GMT-5,Tag3
+562,Device748,Printer,Description of Device748,114.86.186.3,64:91:af:ca:8d:97,SNB5D1AL,ModelCUMZ,Inactive,Yes,High,Global,Group3,HP,Dell,Contact2,Canada,Warehouse,South,GMT-8,Tag1
+114,Device749,Router,Description of Device749,169.79.31.181,0f:2c:db:a8:d5:0d,SNJPM10K,ModelSMFU,Inactive,Yes,Low,Local,Group2,Dell,HP,Contact3,USA,Warehouse,North,GMT+5,Tag3
+584,Device750,Router,Description of Device750,203.233.142.226,84:75:cf:f3:f1:ba,SN963JLP,ModelFPA5,Active,Yes,High,Local,Group4,Juniper,HP,Contact3,Germany,Datacenter,North,GMT-8,Tag3
+884,Device751,Switch,Description of Device751,253.166.182.127,67:41:54:b6:27:1b,SND1W1L9,ModelEWKL,Active,Yes,High,Global,Group2,HP,HP,Contact3,UK,HQ,West,GMT-8,Tag2
+178,Device752,Server,Description of Device752,255.11.191.184,2e:67:78:f8:3a:b0,SN61GWJP,Model1BO8,Active,Yes,Low,Local,Group5,IBM,Dell,Contact1,Canada,Datacenter,East,GMT-8,Tag2
+640,Device753,Router,Description of Device753,238.40.205.30,7f:26:0e:f7:71:a2,SNQICCGV,Model4M4J,Active,No,Medium,Global,Group1,Cisco,Dell,Contact5,USA,Branch Office,West,GMT+1,Tag3
+19,Device754,Router,Description of Device754,15.89.178.235,95:fe:59:c0:19:12,SNRPWRGB,Model8H9M,Inactive,No,Low,Local,Group1,IBM,Juniper,Contact4,Germany,HQ,East,GMT-8,Tag2
+14,Device755,Server,Description of Device755,114.71.130.254,b1:22:4d:2d:8b:60,SNWB1SJ8,ModelLGZS,Active,Yes,High,Global,Group3,Dell,HP,Contact3,UK,Datacenter,West,GMT-5,Tag2
+813,Device756,Switch,Description of Device756,24.202.64.251,df:f0:14:6c:57:c8,SN98HWER,ModelQO2X,Inactive,Yes,High,Local,Group5,Dell,Juniper,Contact1,UK,Warehouse,North,GMT-8,Tag2
+526,Device757,Switch,Description of Device757,100.212.155.187,d8:3c:72:bf:53:76,SNLYXV71,Model5NT3,Inactive,Yes,Low,Global,Group2,HP,Juniper,Contact1,Australia,Datacenter,West,GMT-8,Tag2
+755,Device758,Switch,Description of Device758,13.24.210.240,05:7c:c4:a5:68:57,SNGV3UHQ,ModelCS08,Inactive,No,High,Local,Group4,IBM,Dell,Contact4,USA,Warehouse,South,GMT+5,Tag1
+189,Device759,Printer,Description of Device759,186.50.32.192,34:4e:a2:bd:2d:c0,SNAD1732,Model7JCO,Active,Yes,Low,Global,Group5,HP,Juniper,Contact2,USA,HQ,West,GMT+1,Tag1
+380,Device760,Router,Description of Device760,241.218.241.70,05:38:62:49:4d:93,SNMIY5TA,ModelKVDA,Inactive,Yes,Low,Global,Group3,Cisco,Dell,Contact2,Germany,Datacenter,North,GMT-5,Tag1
+615,Device761,Printer,Description of Device761,231.97.34.76,76:23:49:d6:61:ac,SNPTFJO7,ModelOQHH,Inactive,Yes,Medium,Global,Group3,HP,Juniper,Contact4,Australia,HQ,East,GMT-5,Tag2
+712,Device762,Printer,Description of Device762,156.234.228.26,75:a3:88:fb:b9:82,SNFAF3YW,ModelDEOS,Inactive,No,High,Global,Group4,HP,HP,Contact2,Canada,Datacenter,North,GMT+1,Tag2
+402,Device763,Router,Description of Device763,28.206.163.102,6e:2d:e3:10:c4:92,SNFPK53O,ModelTQOQ,Inactive,Yes,High,Local,Group4,Juniper,Dell,Contact2,USA,HQ,East,GMT+1,Tag3
+891,Device764,Router,Description of Device764,65.85.151.99,5e:eb:6f:d0:2e:30,SN0SDWIO,Model7CCE,Inactive,Yes,High,Local,Group3,Juniper,HP,Contact1,UK,Branch Office,South,GMT-8,Tag2
+627,Device765,Firewall,Description of Device765,37.201.166.58,98:7c:c3:9f:61:91,SNH5KCG1,ModelOKPO,Active,No,Medium,Local,Group2,Juniper,Cisco,Contact1,Canada,Branch Office,North,GMT+1,Tag1
+414,Device766,Server,Description of Device766,15.173.78.92,a2:8f:d2:c8:4f:e9,SNW43NDY,ModelS2OB,Inactive,No,Low,Global,Group4,Juniper,IBM,Contact5,UK,Warehouse,West,GMT+5,Tag1
+698,Device767,Server,Description of Device767,72.11.45.222,3c:6c:74:0a:03:90,SNAQERWG,ModelQMF1,Active,Yes,High,Global,Group5,Juniper,Dell,Contact4,Australia,HQ,South,GMT+5,Tag3
+800,Device768,Server,Description of Device768,220.65.170.103,16:61:6d:0a:19:a1,SNVAK2FF,ModelSCXO,Active,No,Low,Local,Group4,Juniper,IBM,Contact5,Canada,Datacenter,East,GMT+5,Tag2
+216,Device769,Firewall,Description of Device769,68.176.188.243,e9:d3:fd:5a:88:95,SNY4SPCD,ModelFU9U,Inactive,No,Medium,Global,Group5,IBM,Juniper,Contact3,UK,HQ,East,GMT+1,Tag2
+319,Device770,Firewall,Description of Device770,114.6.191.75,cd:e8:da:17:37:70,SN8VUW52,ModelIOWU,Inactive,Yes,High,Local,Group4,HP,HP,Contact3,USA,Datacenter,East,GMT-5,Tag2
+904,Device771,Firewall,Description of Device771,156.249.142.190,cc:cf:21:ad:4f:eb,SNCJWTDG,ModelEFDQ,Active,No,Medium,Local,Group3,Dell,Cisco,Contact3,Australia,HQ,East,GMT-5,Tag3
+320,Device772,Firewall,Description of Device772,29.66.48.185,54:f0:a8:78:fc:20,SN010YIT,ModelX4T3,Active,No,Medium,Local,Group2,HP,IBM,Contact3,USA,Warehouse,East,GMT-5,Tag1
+767,Device773,Switch,Description of Device773,88.61.35.119,b7:6c:18:74:e4:fb,SNGA7O1M,Model3GEJ,Inactive,Yes,High,Local,Group3,HP,Juniper,Contact1,Australia,Warehouse,West,GMT+5,Tag3
+681,Device774,Printer,Description of Device774,21.66.72.129,0d:01:dd:dc:12:74,SNYGBX97,ModelBH9F,Active,No,High,Local,Group1,Cisco,Dell,Contact2,Canada,Branch Office,North,GMT+1,Tag1
+73,Device775,Router,Description of Device775,39.212.243.187,55:3c:27:4a:59:a9,SNIPPR4N,Model0Z4U,Active,No,Low,Global,Group4,Dell,Juniper,Contact5,Germany,Datacenter,East,GMT-8,Tag3
+634,Device776,Switch,Description of Device776,27.221.159.232,9a:b4:99:62:e6:e1,SNTP2O9K,ModelBUMP,Active,Yes,Medium,Local,Group2,IBM,Juniper,Contact2,Australia,Warehouse,North,GMT-5,Tag3
+220,Device777,Firewall,Description of Device777,242.68.96.252,f9:83:43:98:ce:ff,SN7SWI3O,ModelQ53H,Inactive,No,High,Global,Group2,Juniper,Cisco,Contact5,UK,Branch Office,South,GMT-5,Tag2
+209,Device778,Router,Description of Device778,203.82.222.110,62:f7:fa:73:3f:cb,SN7QUSTK,ModelIISH,Active,No,High,Local,Group4,Juniper,Dell,Contact1,UK,Branch Office,North,GMT-5,Tag3
+107,Device779,Firewall,Description of Device779,239.157.106.56,69:61:43:53:46:bc,SN7FKOCU,ModelDS3M,Inactive,Yes,High,Global,Group3,IBM,Juniper,Contact1,Canada,Branch Office,South,GMT-5,Tag3
+420,Device780,Printer,Description of Device780,59.28.173.251,91:6e:5b:f4:73:7a,SN9QFPFZ,ModelAD2G,Active,Yes,High,Global,Group5,HP,Juniper,Contact4,Canada,HQ,North,GMT+1,Tag3
+491,Device781,Printer,Description of Device781,69.46.75.10,da:b4:2d:90:f5:8d,SNTA2EC7,ModelLEC6,Active,No,High,Local,Group1,Juniper,HP,Contact4,Australia,Datacenter,South,GMT+1,Tag1
+817,Device782,Server,Description of Device782,23.201.149.110,89:42:68:64:ab:d5,SNXOFAT9,ModelPVYV,Inactive,No,Low,Local,Group5,HP,HP,Contact1,Australia,HQ,South,GMT+5,Tag1
+322,Device783,Printer,Description of Device783,234.93.221.102,50:b6:05:a4:02:f5,SN1NAR6I,ModelSOT3,Active,No,Low,Global,Group2,IBM,Dell,Contact5,Germany,HQ,South,GMT-8,Tag2
+90,Device784,Firewall,Description of Device784,86.133.40.203,09:22:c6:b8:7b:4e,SNOKY1X9,ModelFHAA,Inactive,Yes,Medium,Global,Group4,Juniper,Dell,Contact3,UK,HQ,West,GMT-8,Tag1
+78,Device785,Server,Description of Device785,51.121.175.196,ea:19:e9:c7:a3:00,SN5OJ9XZ,Model6XJK,Inactive,Yes,Low,Local,Group1,HP,HP,Contact2,USA,Warehouse,West,GMT+5,Tag2
+742,Device786,Router,Description of Device786,198.213.104.245,fc:3f:d9:05:6a:40,SNVBHF73,ModelQ5B9,Active,No,High,Global,Group5,Dell,HP,Contact2,Canada,Branch Office,South,GMT-8,Tag2
+472,Device787,Firewall,Description of Device787,61.115.92.34,d3:19:a5:84:c5:64,SNVO1NS8,ModelBN5K,Active,No,Low,Global,Group4,Cisco,Juniper,Contact5,USA,Datacenter,West,GMT+5,Tag3
+728,Device788,Server,Description of Device788,82.59.36.232,dc:eb:40:60:d0:01,SN6A9Q6J,ModelYV9I,Active,No,Low,Global,Group3,IBM,Cisco,Contact4,USA,Branch Office,South,GMT+1,Tag1
+70,Device789,Printer,Description of Device789,89.119.64.254,5e:d6:3c:f6:da:27,SNGBYQJW,ModelI31I,Inactive,No,High,Global,Group4,IBM,HP,Contact1,Germany,Warehouse,North,GMT+5,Tag1
+846,Device790,Firewall,Description of Device790,17.185.160.167,98:5e:c9:56:67:96,SNXG19RC,ModelGF2Q,Active,Yes,Low,Local,Group2,Juniper,IBM,Contact1,UK,Branch Office,West,GMT-8,Tag3
+925,Device791,Firewall,Description of Device791,97.40.208.29,52:e9:ef:c1:a7:b2,SNI197F4,ModelJWXO,Inactive,No,Low,Global,Group4,Cisco,HP,Contact1,Germany,Warehouse,North,GMT-8,Tag3
+578,Device792,Server,Description of Device792,183.209.46.216,29:bd:7d:4e:20:d3,SNDU57GP,ModelLAZ3,Inactive,No,Low,Global,Group4,Cisco,IBM,Contact5,USA,Datacenter,East,GMT-8,Tag1
+417,Device793,Switch,Description of Device793,160.181.52.22,2d:bc:bb:8e:75:56,SNDFKFQD,Model0K6C,Active,No,Low,Local,Group4,Dell,Cisco,Contact3,Australia,HQ,West,GMT+5,Tag3
+762,Device794,Firewall,Description of Device794,220.63.3.70,d5:68:08:c6:a0:31,SNOWIVDZ,ModelC9E9,Inactive,Yes,High,Local,Group2,Dell,Juniper,Contact1,Australia,HQ,East,GMT+5,Tag1
+643,Device795,Server,Description of Device795,89.118.75.100,8f:1b:59:3c:e7:09,SNZQ7PZ0,ModelZGWC,Active,Yes,High,Local,Group4,Juniper,Cisco,Contact3,Germany,Datacenter,North,GMT-8,Tag3
+788,Device796,Printer,Description of Device796,171.210.26.73,90:f4:3a:b9:4b:01,SNCGOFEL,Model5ZC7,Active,Yes,High,Local,Group1,Dell,Cisco,Contact5,Australia,Warehouse,South,GMT+1,Tag3
+694,Device797,Router,Description of Device797,182.33.10.199,4d:d2:c5:ce:6b:66,SN1UIWC6,Model01BC,Inactive,Yes,Low,Global,Group5,HP,Cisco,Contact3,Germany,Branch Office,North,GMT-8,Tag1
+668,Device798,Server,Description of Device798,252.31.199.190,50:72:a6:0a:c6:07,SN33FUTK,ModelL6D4,Active,Yes,Medium,Local,Group2,Dell,IBM,Contact5,Canada,HQ,South,GMT-8,Tag1
+433,Device799,Server,Description of Device799,107.56.172.99,8c:81:44:54:df:10,SN9FDT1K,ModelHP87,Active,Yes,High,Global,Group4,Dell,Juniper,Contact1,USA,Datacenter,West,GMT-5,Tag1
+216,Device800,Printer,Description of Device800,197.240.83.235,05:33:af:a0:af:2e,SN5OPPWP,Model2A0C,Inactive,Yes,Medium,Global,Group2,Cisco,Cisco,Contact5,Germany,Datacenter,West,GMT-8,Tag3
+925,Device801,Router,Description of Device801,69.194.78.92,2e:c5:10:2c:0b:24,SNEFDFQC,ModelAQ70,Active,Yes,High,Local,Group1,HP,Juniper,Contact4,UK,Warehouse,North,GMT-5,Tag2
+165,Device802,Server,Description of Device802,144.48.157.188,e5:4e:47:ed:56:98,SN26TVEG,ModelBO0A,Inactive,No,Low,Local,Group2,IBM,Juniper,Contact4,Canada,Datacenter,North,GMT+5,Tag3
+478,Device803,Router,Description of Device803,111.34.91.183,63:aa:e4:a6:8b:d0,SNC0ZWWX,Model2K4F,Inactive,No,Low,Local,Group3,IBM,HP,Contact1,Australia,Branch Office,North,GMT-8,Tag3
+920,Device804,Server,Description of Device804,246.103.127.212,87:9f:c7:42:0d:0d,SNE8T60J,Model70FI,Inactive,No,High,Global,Group5,Dell,Dell,Contact2,UK,HQ,South,GMT+5,Tag1
+613,Device805,Switch,Description of Device805,148.158.18.100,dc:b4:3f:da:08:60,SN96KOFG,ModelBOIZ,Active,No,Medium,Global,Group1,Cisco,Juniper,Contact1,USA,Datacenter,South,GMT-5,Tag1
+846,Device806,Firewall,Description of Device806,166.127.81.165,fc:6d:81:23:86:a0,SND6BBGH,ModelKPDL,Active,Yes,Medium,Global,Group4,Dell,Dell,Contact1,Australia,Datacenter,South,GMT-8,Tag3
+801,Device807,Printer,Description of Device807,67.55.174.195,45:3b:4a:11:15:5d,SN7SF4JV,ModelVXKZ,Active,Yes,Low,Local,Group2,IBM,Cisco,Contact3,Germany,HQ,West,GMT+5,Tag3
+807,Device808,Printer,Description of Device808,62.150.109.123,22:5e:70:90:d1:5c,SNASNDFI,ModelZ2QB,Inactive,Yes,High,Global,Group2,IBM,Juniper,Contact4,Australia,Warehouse,South,GMT+1,Tag2
+454,Device809,Printer,Description of Device809,34.82.103.131,5d:3a:20:a6:77:8a,SNFIN4UP,ModelOL3A,Inactive,No,High,Global,Group1,Dell,HP,Contact2,Germany,Datacenter,East,GMT-5,Tag3
+419,Device810,Printer,Description of Device810,95.6.106.102,78:2f:b5:2d:ee:a9,SN6PU5PL,ModelUD0H,Active,Yes,High,Global,Group4,Dell,IBM,Contact4,UK,Branch Office,East,GMT-8,Tag3
+83,Device811,Printer,Description of Device811,242.106.92.83,b5:bf:f1:98:16:3b,SNIOJZZR,Model6PH0,Active,No,High,Local,Group2,HP,Juniper,Contact2,Canada,HQ,South,GMT+1,Tag2
+800,Device812,Printer,Description of Device812,43.10.39.107,1d:08:9c:b2:36:78,SNDJ508X,ModelMK94,Active,No,High,Global,Group4,Cisco,Dell,Contact4,USA,HQ,East,GMT+1,Tag2
+696,Device813,Firewall,Description of Device813,104.102.40.193,fc:fb:f9:67:51:7d,SN42U4YR,ModelQUAY,Active,No,High,Global,Group3,IBM,Dell,Contact1,UK,Datacenter,South,GMT-5,Tag2
+729,Device814,Server,Description of Device814,31.41.24.227,74:04:5a:0b:19:85,SNTFGDXN,ModelBLZU,Inactive,Yes,Low,Global,Group2,Juniper,Dell,Contact2,Canada,Datacenter,West,GMT+1,Tag2
+714,Device815,Server,Description of Device815,68.46.211.245,de:96:03:a5:0c:4c,SN0NJIIW,ModelX2XX,Inactive,No,Medium,Global,Group1,IBM,HP,Contact2,Australia,HQ,North,GMT-5,Tag2
+312,Device816,Router,Description of Device816,182.47.199.248,60:77:4d:ce:94:c6,SNP29C6Y,ModelNGFN,Active,Yes,Low,Local,Group3,Dell,Cisco,Contact4,Canada,Datacenter,East,GMT+1,Tag1
+121,Device817,Server,Description of Device817,198.247.158.161,5c:64:37:e9:90:a6,SNAW31XE,Model744B,Inactive,Yes,High,Global,Group3,IBM,Dell,Contact4,Australia,HQ,North,GMT+5,Tag3
+1000,Device818,Server,Description of Device818,235.67.184.78,02:b8:38:fa:c9:8d,SN4E00CB,Model7K2K,Active,No,Medium,Global,Group2,Juniper,Dell,Contact4,Canada,Warehouse,West,GMT+1,Tag1
+12,Device819,Printer,Description of Device819,204.168.203.4,ba:b3:bd:5e:c7:a0,SN4317SD,ModelOGJL,Inactive,Yes,High,Global,Group5,Cisco,Cisco,Contact5,Australia,HQ,East,GMT-8,Tag1
+723,Device820,Server,Description of Device820,98.180.12.93,3e:51:79:ef:10:c0,SNPA8LWI,Model1SYD,Inactive,No,Low,Local,Group1,HP,IBM,Contact1,UK,Branch Office,West,GMT-5,Tag1
+23,Device821,Printer,Description of Device821,72.3.93.249,6f:32:b1:68:35:a2,SNMUA96A,ModelOVOK,Inactive,Yes,High,Local,Group3,Juniper,Dell,Contact4,USA,Warehouse,South,GMT-8,Tag3
+647,Device822,Router,Description of Device822,101.111.184.79,36:99:f6:2a:c1:26,SNZ5TXCZ,ModelY9NA,Inactive,Yes,Medium,Global,Group5,HP,Dell,Contact3,Germany,Datacenter,South,GMT+5,Tag1
+346,Device823,Server,Description of Device823,177.130.204.240,09:b5:04:3f:8c:8d,SN0I6X1K,ModelGPLH,Active,Yes,Medium,Global,Group3,Dell,HP,Contact4,USA,HQ,East,GMT+1,Tag3
+265,Device824,Router,Description of Device824,136.69.220.20,f4:48:e4:c7:c7:63,SNLIJQH5,ModelRZSJ,Active,No,High,Global,Group4,IBM,Cisco,Contact1,Canada,Branch Office,East,GMT+1,Tag2
+880,Device825,Server,Description of Device825,222.255.152.166,85:de:0d:b2:32:3d,SNVVH6T7,ModelYPMD,Inactive,No,Medium,Local,Group5,HP,IBM,Contact4,Australia,HQ,North,GMT+1,Tag1
+56,Device826,Server,Description of Device826,155.51.56.171,ad:bb:f6:7c:d6:36,SN2DS8XI,Model4UM7,Inactive,Yes,Low,Global,Group3,HP,Juniper,Contact1,Germany,Warehouse,South,GMT-8,Tag2
+741,Device827,Switch,Description of Device827,1.239.180.37,49:99:33:15:ab:ec,SNOB9XYQ,ModelLE10,Inactive,No,High,Local,Group4,Dell,IBM,Contact1,USA,HQ,West,GMT+1,Tag2
+409,Device828,Firewall,Description of Device828,19.180.210.74,39:98:a7:cc:45:52,SNPH1CT8,ModelQHIB,Inactive,Yes,Low,Global,Group1,Cisco,HP,Contact4,USA,Datacenter,West,GMT+1,Tag1
+674,Device829,Router,Description of Device829,255.136.198.211,77:63:be:3d:b1:44,SNTJK8JI,ModelI4QH,Active,No,Low,Global,Group2,Dell,Dell,Contact2,UK,Warehouse,North,GMT-8,Tag2
+287,Device830,Server,Description of Device830,9.167.76.147,b1:21:1b:a7:5d:92,SNEEWNA3,ModelSHLY,Inactive,Yes,Medium,Local,Group3,Juniper,HP,Contact3,USA,Warehouse,North,GMT+5,Tag1
+3,Device831,Switch,Description of Device831,45.37.76.80,61:d0:4e:b9:c4:8b,SNLI9ZI1,ModelNBHY,Active,No,Low,Local,Group4,IBM,Dell,Contact5,Canada,Datacenter,West,GMT+5,Tag2
+233,Device832,Switch,Description of Device832,73.221.62.207,c9:39:22:e1:86:37,SNGXDE4L,ModelXY53,Inactive,Yes,Medium,Local,Group1,IBM,Cisco,Contact4,UK,Datacenter,North,GMT+5,Tag3
+680,Device833,Printer,Description of Device833,149.189.220.193,47:39:d3:ef:ea:a2,SN8EEDZQ,ModelXVJZ,Inactive,No,High,Local,Group5,Cisco,HP,Contact5,USA,HQ,South,GMT-5,Tag2
+384,Device834,Server,Description of Device834,87.46.76.253,f9:ab:38:c9:87:24,SN9UDVRS,Model1D31,Active,No,Low,Global,Group2,IBM,Cisco,Contact5,UK,Warehouse,South,GMT-8,Tag1
+312,Device835,Printer,Description of Device835,26.28.21.72,cd:7c:57:3c:04:1a,SNY0IHF7,ModelXA3I,Active,Yes,High,Local,Group5,Juniper,Cisco,Contact2,USA,HQ,West,GMT-5,Tag1
+907,Device836,Switch,Description of Device836,116.129.148.61,4b:2e:3c:cc:e1:9d,SNHVA23H,Model7P7H,Active,Yes,High,Global,Group4,IBM,IBM,Contact4,Canada,HQ,East,GMT-8,Tag1
+8,Device837,Printer,Description of Device837,79.189.41.84,3d:5a:fe:a2:32:a0,SNGB5SA5,ModelD39V,Active,No,Low,Local,Group4,Dell,Cisco,Contact3,UK,Branch Office,North,GMT+5,Tag1
+642,Device838,Printer,Description of Device838,204.152.173.68,b1:c2:af:2c:63:d9,SNS58QF6,Model1N7A,Inactive,No,Low,Global,Group4,IBM,Cisco,Contact5,Canada,Branch Office,West,GMT-5,Tag3
+128,Device839,Firewall,Description of Device839,78.183.255.217,7f:31:b1:00:c6:62,SN4557X1,ModelTGOD,Active,Yes,Low,Global,Group5,Dell,Juniper,Contact5,UK,HQ,South,GMT+1,Tag1
+40,Device840,Router,Description of Device840,150.79.253.146,a5:05:1c:fe:84:e0,SNQ82QEF,Model3FXE,Active,Yes,High,Global,Group3,HP,IBM,Contact5,Canada,Datacenter,West,GMT-5,Tag2
+736,Device841,Printer,Description of Device841,225.48.47.111,6d:7f:b6:47:40:b3,SN3538OM,ModelS00Q,Active,Yes,Low,Global,Group1,Dell,Juniper,Contact3,Germany,Datacenter,South,GMT-8,Tag3
+888,Device842,Firewall,Description of Device842,206.235.92.75,0e:cc:ef:4b:9f:45,SNESBFLS,Model6HS1,Inactive,Yes,Low,Local,Group4,Cisco,HP,Contact1,Australia,Datacenter,East,GMT-5,Tag2
+565,Device843,Server,Description of Device843,104.217.124.55,07:07:30:98:cd:c3,SN3XOUH6,ModelQG1V,Active,No,High,Global,Group3,Cisco,Dell,Contact5,Canada,Warehouse,East,GMT+5,Tag3
+720,Device844,Firewall,Description of Device844,21.79.57.128,e4:23:df:28:eb:bb,SN441TRM,ModelK6YN,Inactive,No,Low,Local,Group5,IBM,Juniper,Contact3,Canada,Datacenter,South,GMT+5,Tag3
+775,Device845,Printer,Description of Device845,50.132.254.133,1d:50:89:25:0d:88,SN14YPL6,ModelZ34I,Inactive,Yes,Low,Global,Group1,HP,HP,Contact2,Canada,Branch Office,West,GMT-8,Tag3
+206,Device846,Firewall,Description of Device846,39.132.223.172,a7:e7:da:6e:e4:f0,SN0192NG,Model9PI8,Inactive,No,Medium,Local,Group5,Juniper,IBM,Contact5,Australia,Branch Office,West,GMT+5,Tag2
+109,Device847,Server,Description of Device847,47.40.143.230,de:ca:72:92:eb:c7,SN8ED6WH,ModelW6LM,Active,Yes,Medium,Local,Group4,Cisco,HP,Contact5,USA,Branch Office,South,GMT-5,Tag1
+476,Device848,Firewall,Description of Device848,102.105.213.198,22:bc:35:a1:b7:80,SNQV1BRA,ModelLCNS,Active,Yes,Low,Global,Group5,Juniper,Cisco,Contact3,Germany,Branch Office,South,GMT-8,Tag2
+332,Device849,Server,Description of Device849,58.121.84.247,68:9e:a6:33:87:bc,SN02QBD3,ModelYU86,Active,Yes,Medium,Local,Group5,HP,Cisco,Contact5,UK,HQ,West,GMT+5,Tag3
+797,Device850,Switch,Description of Device850,30.94.71.158,14:e7:9b:2a:d9:b5,SNZ3AY8V,ModelUSI1,Inactive,No,High,Local,Group1,Dell,Dell,Contact1,UK,Warehouse,North,GMT+1,Tag3
+21,Device851,Router,Description of Device851,58.190.110.197,82:9c:ec:a1:ae:ea,SNBY4LOM,ModelBGGS,Inactive,No,Low,Local,Group3,Juniper,Juniper,Contact3,Canada,Datacenter,North,GMT-8,Tag2
+364,Device852,Switch,Description of Device852,243.18.1.91,b9:6a:b1:f2:d5:77,SNJ0IDMZ,Model231S,Active,No,Low,Local,Group5,HP,Cisco,Contact4,Canada,Branch Office,West,GMT+5,Tag2
+495,Device853,Router,Description of Device853,46.216.119.139,86:8d:3b:af:8e:91,SNOC6N3F,ModelCO1N,Inactive,No,High,Local,Group1,Cisco,IBM,Contact4,Australia,HQ,North,GMT-5,Tag2
+991,Device854,Server,Description of Device854,147.248.214.8,76:55:fc:51:47:a3,SNMT2MPF,ModelTL19,Active,Yes,Low,Local,Group3,Dell,HP,Contact5,Australia,HQ,East,GMT+5,Tag2
+368,Device855,Printer,Description of Device855,16.225.10.252,11:79:65:01:4f:b6,SN02D1T1,Model2HBZ,Active,No,High,Local,Group3,Juniper,Juniper,Contact5,UK,Datacenter,West,GMT-8,Tag3
+360,Device856,Router,Description of Device856,24.146.38.174,95:30:a0:bf:7d:a7,SNF1EJD5,Model77LS,Inactive,Yes,Low,Local,Group3,Juniper,Cisco,Contact2,Australia,Datacenter,North,GMT-5,Tag1
+37,Device857,Switch,Description of Device857,249.227.189.162,14:85:3c:a8:10:4f,SN8RBA4G,ModelYAJX,Active,No,High,Local,Group2,Juniper,HP,Contact1,USA,HQ,East,GMT-8,Tag1
+875,Device858,Firewall,Description of Device858,147.252.11.215,25:49:a6:09:3e:8c,SNS0390L,ModelYAJY,Active,No,Medium,Local,Group3,Juniper,HP,Contact5,Germany,HQ,East,GMT-5,Tag1
+840,Device859,Switch,Description of Device859,177.152.78.87,f3:9d:f4:9c:f1:5c,SNMEEEB2,Model7W5V,Inactive,Yes,Low,Local,Group4,IBM,Juniper,Contact4,UK,HQ,West,GMT-5,Tag2
+619,Device860,Router,Description of Device860,60.55.7.139,83:db:7f:cc:0f:ae,SNUMUFTR,ModelX3ZS,Inactive,No,High,Global,Group5,Juniper,Dell,Contact2,UK,HQ,North,GMT+1,Tag1
+451,Device861,Router,Description of Device861,179.30.175.141,29:97:fb:fc:0b:a5,SNNJUD28,Model254Q,Active,No,Medium,Global,Group5,IBM,HP,Contact5,Canada,Datacenter,South,GMT-5,Tag3
+541,Device862,Router,Description of Device862,180.250.188.108,44:ac:c1:c5:07:25,SNKHZ4V7,ModelY14U,Inactive,No,Low,Global,Group5,IBM,HP,Contact5,USA,Warehouse,East,GMT-5,Tag3
+792,Device863,Server,Description of Device863,106.79.100.229,a3:94:50:7d:41:9d,SNELGPOC,ModelIS3P,Active,Yes,High,Local,Group3,IBM,IBM,Contact1,Australia,HQ,South,GMT-8,Tag2
+393,Device864,Printer,Description of Device864,212.196.201.8,1f:1d:5a:a8:51:de,SNQE1U7E,Model0RSR,Active,No,High,Local,Group4,Cisco,Juniper,Contact3,Canada,Branch Office,West,GMT+1,Tag1
+212,Device865,Firewall,Description of Device865,212.15.19.118,a6:0f:df:ef:85:3f,SN1EE2J3,ModelG2DX,Active,Yes,Low,Global,Group4,Cisco,Juniper,Contact2,Germany,Warehouse,North,GMT-5,Tag1
+728,Device866,Printer,Description of Device866,3.117.200.64,67:db:20:e6:01:40,SN3U4ZJV,Model0S46,Inactive,No,High,Local,Group3,Cisco,Dell,Contact5,USA,Datacenter,East,GMT+5,Tag3
+613,Device867,Printer,Description of Device867,69.109.120.213,aa:1b:8b:e4:89:93,SNPMO4G8,ModelJ1CX,Inactive,No,High,Local,Group3,Dell,Dell,Contact4,USA,Warehouse,North,GMT-5,Tag2
+585,Device868,Switch,Description of Device868,174.88.35.6,27:23:e3:92:1e:ba,SNEFUWHC,Model1GV7,Inactive,Yes,Medium,Global,Group4,Cisco,IBM,Contact1,USA,HQ,North,GMT+1,Tag2
+524,Device869,Router,Description of Device869,145.115.221.252,77:a7:fc:55:af:b0,SNLO9TPN,Model05B5,Inactive,Yes,Low,Global,Group1,Juniper,Dell,Contact5,Germany,Warehouse,East,GMT+1,Tag2
+470,Device870,Firewall,Description of Device870,155.74.202.181,42:f5:6c:67:5d:ba,SN1ISNLM,Model1LT9,Active,No,Medium,Local,Group2,Cisco,Juniper,Contact1,Germany,Warehouse,West,GMT-5,Tag1
+635,Device871,Switch,Description of Device871,139.148.20.178,12:ce:d7:d9:19:dd,SNHOTTXZ,Model1DFV,Active,No,High,Local,Group2,Juniper,IBM,Contact2,Canada,HQ,West,GMT-8,Tag1
+976,Device872,Router,Description of Device872,117.140.27.153,2a:0a:e7:0d:21:f1,SNR4PRUD,ModelAMA9,Inactive,No,Medium,Global,Group3,Dell,Dell,Contact3,Germany,Branch Office,West,GMT+1,Tag2
+880,Device873,Switch,Description of Device873,182.166.80.177,49:0c:ce:8b:dd:cf,SNG8TR8Z,ModelEWN7,Inactive,No,Low,Global,Group1,Juniper,IBM,Contact2,Germany,Branch Office,East,GMT+1,Tag2
+137,Device874,Router,Description of Device874,0.93.37.219,bc:8f:42:20:d7:ac,SNJEFPGD,ModelD82P,Active,No,High,Global,Group1,Cisco,Juniper,Contact1,USA,HQ,East,GMT-5,Tag2
+885,Device875,Printer,Description of Device875,150.10.18.250,b1:91:ec:bc:46:16,SNSK2KQF,Model5SP1,Inactive,Yes,High,Global,Group1,Juniper,HP,Contact1,USA,Warehouse,East,GMT+5,Tag1
+54,Device876,Server,Description of Device876,136.53.177.207,e4:cb:2c:ac:63:d7,SNNNPHFW,ModelWLVA,Inactive,Yes,Low,Global,Group1,IBM,HP,Contact1,USA,Branch Office,West,GMT-5,Tag1
+470,Device877,Switch,Description of Device877,99.159.207.24,01:5a:3e:6a:39:31,SNHCXT1D,Model02OE,Inactive,Yes,Low,Local,Group5,HP,IBM,Contact2,UK,Datacenter,West,GMT+1,Tag3
+735,Device878,Firewall,Description of Device878,22.210.94.254,62:a6:82:eb:f7:16,SNB3KFY3,ModelQU94,Inactive,Yes,High,Local,Group5,IBM,HP,Contact4,Germany,Branch Office,East,GMT-8,Tag2
+783,Device879,Router,Description of Device879,48.118.24.34,59:23:e0:71:19:00,SNXI0KR0,ModelLIOE,Active,Yes,Low,Global,Group2,Dell,HP,Contact3,Australia,Warehouse,North,GMT+1,Tag3
+728,Device880,Printer,Description of Device880,18.254.151.134,c4:fb:91:3f:bb:e3,SN6ANW51,ModelAWVV,Active,Yes,Low,Local,Group2,Dell,Dell,Contact3,Australia,Branch Office,South,GMT-8,Tag1
+518,Device881,Firewall,Description of Device881,176.167.245.229,36:c2:ca:86:d1:49,SNILQF9K,ModelF8CT,Inactive,Yes,Low,Global,Group4,Dell,Dell,Contact4,Australia,Warehouse,West,GMT-8,Tag2
+432,Device882,Printer,Description of Device882,232.220.247.187,a0:79:ec:33:7d:4d,SNSMEMRE,ModelRD3X,Inactive,Yes,Low,Local,Group1,Cisco,IBM,Contact1,Germany,Datacenter,North,GMT+1,Tag2
+697,Device883,Server,Description of Device883,89.174.237.147,7b:e3:f5:05:34:23,SNMWG2WQ,ModelCAKC,Active,Yes,Low,Global,Group1,Cisco,IBM,Contact5,Germany,Warehouse,North,GMT-5,Tag2
+468,Device884,Firewall,Description of Device884,220.144.61.86,1b:b0:99:ac:d9:fe,SN52GT8M,ModelO9KX,Inactive,Yes,Low,Global,Group5,HP,IBM,Contact2,USA,Warehouse,South,GMT-5,Tag3
+537,Device885,Router,Description of Device885,242.63.250.64,16:fe:4c:f7:8d:9b,SN5T4E64,Model4IQO,Active,No,High,Global,Group1,HP,Juniper,Contact4,UK,Datacenter,North,GMT-5,Tag1
+23,Device886,Server,Description of Device886,29.92.92.242,2d:09:83:6e:c1:8d,SNFSBVQZ,ModelT3X1,Active,No,High,Local,Group5,Juniper,Dell,Contact1,UK,Warehouse,West,GMT+1,Tag1
+536,Device887,Firewall,Description of Device887,213.107.22.51,81:b4:1f:29:a5:a5,SN1AGJRR,Model46D4,Inactive,Yes,High,Global,Group1,IBM,HP,Contact4,USA,HQ,North,GMT-5,Tag2
+270,Device888,Router,Description of Device888,167.8.244.165,07:2c:2d:e0:b7:e4,SNRZYNCS,ModelLI5Q,Active,No,Medium,Global,Group4,Juniper,IBM,Contact5,Canada,Datacenter,West,GMT-8,Tag3
+570,Device889,Firewall,Description of Device889,148.145.35.108,8d:63:81:ac:12:e5,SN5NF185,ModelL2RX,Active,No,Medium,Local,Group3,IBM,IBM,Contact5,UK,Warehouse,South,GMT-5,Tag1
+385,Device890,Server,Description of Device890,201.253.86.16,0c:1b:c0:03:91:f3,SNZL4RSH,ModelOYFW,Inactive,No,Medium,Local,Group3,IBM,Juniper,Contact1,UK,HQ,East,GMT-8,Tag3
+398,Device891,Server,Description of Device891,248.45.15.251,d5:f0:87:fe:07:71,SN7ZW9JV,Model875U,Inactive,No,Low,Local,Group5,Cisco,IBM,Contact3,Australia,HQ,West,GMT-8,Tag1
+481,Device892,Printer,Description of Device892,63.77.246.41,1c:a6:6e:d9:c3:29,SNYDAC79,Model3B41,Active,Yes,Low,Local,Group3,HP,Juniper,Contact4,Australia,Datacenter,South,GMT+5,Tag1
+363,Device893,Firewall,Description of Device893,24.229.202.44,3e:63:c7:5e:34:4c,SN8LGLP9,Model7Z6Y,Active,No,Low,Global,Group3,Dell,HP,Contact4,Germany,HQ,North,GMT-5,Tag3
+24,Device894,Switch,Description of Device894,238.205.3.228,ab:84:86:b9:18:bf,SNB7F3A3,ModelICRX,Active,No,Low,Local,Group5,HP,Cisco,Contact1,Germany,Warehouse,West,GMT+5,Tag2
+88,Device895,Firewall,Description of Device895,62.237.223.86,19:2f:e1:61:2a:aa,SNFPLYKY,ModelT1LE,Inactive,No,Low,Local,Group4,Cisco,Cisco,Contact2,UK,Warehouse,South,GMT-8,Tag3
+347,Device896,Router,Description of Device896,215.117.222.145,77:08:d4:4e:f9:4a,SN3NHTU9,ModelC3MP,Inactive,Yes,Low,Local,Group3,IBM,HP,Contact4,UK,Branch Office,North,GMT+5,Tag1
+825,Device897,Switch,Description of Device897,243.186.157.100,78:27:0f:6c:b3:12,SN2ROF6O,Model6Z1J,Active,No,High,Global,Group4,Cisco,Cisco,Contact1,Canada,HQ,North,GMT-8,Tag3
+1,Device898,Firewall,Description of Device898,162.106.46.213,4c:01:63:92:b9:db,SN9FE3OX,ModelTZGZ,Inactive,No,Low,Local,Group2,Dell,Juniper,Contact4,Canada,Datacenter,East,GMT-5,Tag3
+248,Device899,Switch,Description of Device899,126.105.34.17,b5:50:04:f0:80:46,SNSQSQ53,ModelIWCN,Inactive,Yes,High,Local,Group2,Cisco,HP,Contact5,Australia,HQ,West,GMT+1,Tag1
+508,Device900,Printer,Description of Device900,181.121.66.141,93:49:37:e4:c2:2e,SN9EL3N4,ModelTJRJ,Active,No,Low,Local,Group2,Cisco,Dell,Contact3,Australia,HQ,West,GMT-5,Tag2
+604,Device901,Firewall,Description of Device901,239.252.22.154,30:a3:c1:99:bb:55,SNDSZ2WH,ModelRN5J,Active,No,Low,Global,Group3,Cisco,Juniper,Contact4,Australia,Datacenter,South,GMT+1,Tag2
+42,Device902,Firewall,Description of Device902,75.27.38.171,a2:00:67:f1:84:12,SNY4XK7O,ModelWY37,Inactive,No,Medium,Local,Group2,Juniper,HP,Contact3,USA,Branch Office,West,GMT-8,Tag1
+717,Device903,Firewall,Description of Device903,239.155.188.20,43:c3:86:4a:e3:e7,SNRZ6YJS,Model6LFO,Inactive,Yes,Low,Local,Group5,Juniper,Cisco,Contact3,Australia,Datacenter,West,GMT-8,Tag1
+613,Device904,Firewall,Description of Device904,78.3.38.118,5c:ff:04:ba:9b:ef,SNH4I9DK,ModelV1XT,Active,No,Low,Global,Group3,IBM,HP,Contact2,UK,Datacenter,East,GMT-8,Tag2
+490,Device905,Server,Description of Device905,212.34.85.191,eb:07:55:04:8c:b4,SNQTA6VL,ModelD68N,Inactive,No,Low,Local,Group3,Juniper,Cisco,Contact5,Canada,Branch Office,South,GMT+1,Tag2
+49,Device906,Router,Description of Device906,86.104.33.165,ec:11:00:1f:b7:d3,SN4HCHW6,ModelPKAF,Active,No,Medium,Local,Group5,Dell,Dell,Contact5,Germany,Branch Office,South,GMT+5,Tag2
+245,Device907,Router,Description of Device907,31.60.216.24,b5:40:3c:81:09:3f,SNWY3T6N,ModelLVA0,Active,Yes,Low,Global,Group4,IBM,Juniper,Contact2,UK,HQ,South,GMT+5,Tag3
+395,Device908,Router,Description of Device908,172.142.234.118,5e:23:19:91:30:67,SNY86MTG,ModelN6W7,Inactive,No,Low,Global,Group1,Cisco,Cisco,Contact3,Canada,HQ,West,GMT+1,Tag2
+487,Device909,Firewall,Description of Device909,70.232.199.233,e3:11:ec:74:b7:44,SNIP597Z,Model0IR1,Active,No,Low,Global,Group5,Dell,Dell,Contact2,USA,Datacenter,South,GMT-5,Tag3
+828,Device910,Switch,Description of Device910,168.244.111.255,48:01:17:e3:e3:5b,SNNQ2TYZ,ModelJ9M2,Active,No,Medium,Local,Group4,IBM,Dell,Contact4,Germany,Warehouse,West,GMT-5,Tag1
+803,Device911,Router,Description of Device911,248.241.128.51,f2:c4:8a:88:2c:6a,SNINC0T5,ModelCY8A,Inactive,Yes,Medium,Local,Group1,IBM,Dell,Contact3,UK,Datacenter,North,GMT-5,Tag3
+522,Device912,Firewall,Description of Device912,86.155.12.149,70:aa:8c:21:07:59,SNMK8Y1M,ModelOZJ7,Inactive,No,Medium,Global,Group4,Dell,IBM,Contact3,USA,HQ,West,GMT-8,Tag3
+957,Device913,Printer,Description of Device913,229.177.205.168,5e:90:6a:0b:b7:af,SN38H1LI,ModelX8LC,Inactive,Yes,Low,Local,Group4,IBM,HP,Contact2,UK,Datacenter,North,GMT+5,Tag3
+545,Device914,Router,Description of Device914,84.148.36.162,7b:86:29:ae:44:64,SN0U0IIG,Model6SPU,Active,Yes,Low,Local,Group5,HP,Cisco,Contact1,Canada,HQ,West,GMT+1,Tag1
+678,Device915,Firewall,Description of Device915,141.30.39.205,9f:2b:08:df:7c:40,SN444VZH,ModelXO73,Inactive,No,Low,Global,Group3,Juniper,IBM,Contact4,Germany,Warehouse,South,GMT-5,Tag2
+372,Device916,Printer,Description of Device916,250.158.174.34,57:2b:b4:ad:c3:80,SN6I2EK4,ModelR3O6,Inactive,Yes,High,Global,Group3,Cisco,HP,Contact1,Australia,Branch Office,South,GMT-8,Tag3
+893,Device917,Firewall,Description of Device917,251.103.79.144,5b:f6:7a:88:15:dd,SNPTEAQ0,ModelSAVT,Inactive,Yes,High,Global,Group2,Juniper,HP,Contact5,UK,HQ,West,GMT+1,Tag2
+28,Device918,Printer,Description of Device918,138.150.208.32,d0:5d:12:e0:aa:b5,SNE7TTTA,ModelX1A6,Active,Yes,High,Global,Group4,HP,IBM,Contact3,USA,Datacenter,South,GMT-8,Tag1
+237,Device919,Printer,Description of Device919,78.102.180.23,d7:8b:63:07:58:1b,SNRFYYQD,ModelEWVM,Inactive,No,Medium,Local,Group1,HP,Juniper,Contact1,UK,HQ,West,GMT-8,Tag2
+494,Device920,Firewall,Description of Device920,150.68.71.9,06:7f:98:12:6c:19,SNPHSHQG,ModelSFPS,Inactive,Yes,Medium,Global,Group4,Dell,Dell,Contact1,Germany,Branch Office,South,GMT-5,Tag1
+932,Device921,Router,Description of Device921,86.177.103.130,3d:df:b8:b1:90:41,SNUCSBEJ,ModelP7KY,Active,No,High,Local,Group1,Cisco,IBM,Contact1,USA,Branch Office,South,GMT-5,Tag2
+319,Device922,Server,Description of Device922,225.156.188.227,b4:df:4b:3b:db:00,SNS38MWN,Model0PO9,Active,No,Medium,Global,Group1,Cisco,Cisco,Contact4,Australia,Warehouse,East,GMT-8,Tag1
+224,Device923,Firewall,Description of Device923,37.166.140.52,a8:34:0a:e8:46:37,SNHNMYC9,ModelQFKN,Inactive,No,Low,Global,Group2,Dell,Juniper,Contact1,Australia,Branch Office,North,GMT+5,Tag1
+74,Device924,Firewall,Description of Device924,111.65.250.241,a6:e6:1a:66:f5:84,SN0FRVMO,ModelJIHB,Inactive,No,Medium,Local,Group5,HP,IBM,Contact2,Australia,Warehouse,East,GMT-8,Tag2
+356,Device925,Printer,Description of Device925,96.66.236.6,68:5c:88:fe:e2:ca,SNEICFRP,ModelIADY,Inactive,Yes,Low,Global,Group3,Juniper,Cisco,Contact2,Germany,Datacenter,West,GMT+1,Tag2
+809,Device926,Switch,Description of Device926,5.90.105.131,5e:3a:2f:ac:1b:08,SNHTSECW,Model23KZ,Inactive,Yes,High,Global,Group4,Cisco,HP,Contact3,Germany,Datacenter,East,GMT+1,Tag2
+84,Device927,Switch,Description of Device927,75.6.76.115,9d:c6:e7:0f:f8:4d,SN984B6F,ModelW3TJ,Inactive,No,High,Local,Group1,Juniper,IBM,Contact4,Canada,Branch Office,East,GMT+1,Tag2
+689,Device928,Switch,Description of Device928,122.108.72.208,7b:5b:4c:a4:bb:0c,SNNN0SNL,ModelHMV1,Inactive,Yes,High,Local,Group4,Juniper,Cisco,Contact4,Australia,Warehouse,East,GMT-8,Tag3
+223,Device929,Router,Description of Device929,190.54.48.168,29:19:bc:9a:d6:c4,SN30C9UX,Model98FI,Inactive,Yes,Medium,Local,Group5,Juniper,Dell,Contact2,Australia,Branch Office,North,GMT-5,Tag3
+129,Device930,Firewall,Description of Device930,131.215.164.4,46:e1:5b:1f:36:16,SN8OSB38,ModelETDH,Inactive,No,Medium,Local,Group2,Dell,IBM,Contact2,Canada,Warehouse,East,GMT+5,Tag2
+679,Device931,Firewall,Description of Device931,53.155.58.130,41:a7:30:a5:55:f3,SNX8P6ML,ModelF026,Active,No,Low,Local,Group4,Dell,Dell,Contact4,Canada,HQ,East,GMT+1,Tag1
+653,Device932,Switch,Description of Device932,116.183.166.76,bc:19:ca:f1:28:d6,SNTI7CSE,ModelT0DV,Active,Yes,Low,Global,Group2,Dell,Juniper,Contact2,Germany,HQ,West,GMT-5,Tag2
+231,Device933,Printer,Description of Device933,44.73.157.131,02:6f:be:8e:be:6e,SN4QVTD2,ModelM2G6,Active,Yes,Medium,Global,Group2,Juniper,IBM,Contact5,Canada,Branch Office,East,GMT+1,Tag1
+165,Device934,Router,Description of Device934,130.100.27.155,41:b4:24:ec:6f:c8,SN9ISPQC,ModelERIO,Active,Yes,Low,Global,Group5,IBM,IBM,Contact4,UK,Warehouse,South,GMT-5,Tag2
+449,Device935,Printer,Description of Device935,107.0.37.208,6b:a2:73:66:3c:e0,SNCNCOIZ,ModelO5U3,Active,No,Low,Global,Group5,Juniper,Juniper,Contact2,Australia,Datacenter,South,GMT-8,Tag1
+160,Device936,Firewall,Description of Device936,176.199.42.151,d0:0a:3f:36:b8:73,SNW2NCN7,ModelECFS,Active,Yes,Low,Local,Group2,Dell,Juniper,Contact3,USA,Branch Office,South,GMT+1,Tag1
+753,Device937,Firewall,Description of Device937,176.247.234.33,06:23:ff:e3:8c:58,SN1DHHFL,ModelFTRV,Active,No,Medium,Global,Group2,Dell,Cisco,Contact5,Canada,Datacenter,North,GMT+5,Tag2
+310,Device938,Switch,Description of Device938,166.123.113.1,c3:98:3a:ee:53:66,SNODZN9X,ModelZKXU,Inactive,Yes,High,Local,Group3,HP,Cisco,Contact5,USA,Warehouse,South,GMT-8,Tag3
+435,Device939,Switch,Description of Device939,198.14.228.250,41:ab:26:a3:5a:47,SN6LXAHI,ModelYZE2,Inactive,Yes,Medium,Global,Group5,IBM,IBM,Contact1,Australia,Datacenter,South,GMT+5,Tag2
+894,Device940,Router,Description of Device940,160.215.93.192,8d:5f:84:d0:b5:25,SNPWT4FG,Model4VS9,Inactive,No,High,Global,Group3,Cisco,Dell,Contact3,Australia,HQ,North,GMT-8,Tag1
+532,Device941,Printer,Description of Device941,170.127.186.236,5a:81:3b:24:d3:79,SNUFKB7T,ModelQRHD,Inactive,No,Low,Local,Group3,Dell,Cisco,Contact5,USA,Branch Office,West,GMT-5,Tag3
+37,Device942,Switch,Description of Device942,10.104.113.229,30:41:7d:24:89:75,SNDT7J2O,ModelOALD,Inactive,Yes,Medium,Global,Group5,Dell,IBM,Contact5,Canada,Datacenter,South,GMT+1,Tag3
+353,Device943,Firewall,Description of Device943,141.34.244.98,fd:e1:24:bb:9c:8b,SNCKVC7F,ModelMJS5,Inactive,No,High,Local,Group3,IBM,Cisco,Contact2,Germany,Warehouse,West,GMT-8,Tag2
+343,Device944,Router,Description of Device944,111.227.182.33,5a:39:ea:eb:9d:57,SN35U87J,Model46M9,Active,No,Low,Local,Group4,IBM,IBM,Contact2,Germany,Warehouse,North,GMT-8,Tag1
+875,Device945,Firewall,Description of Device945,167.185.46.234,9d:c2:f1:e6:0e:24,SN86AN18,ModelE8MC,Active,Yes,Medium,Local,Group5,Juniper,Cisco,Contact5,Australia,Warehouse,South,GMT-5,Tag2
+671,Device946,Firewall,Description of Device946,141.45.9.43,75:d3:d4:a2:90:74,SNWQ9XQJ,Model1ER5,Active,No,Low,Global,Group5,Juniper,HP,Contact1,Canada,Branch Office,West,GMT-5,Tag2
+862,Device947,Server,Description of Device947,49.208.111.150,fd:79:4f:bc:8a:36,SNGJ0X6J,ModelTCBY,Inactive,Yes,High,Local,Group5,Dell,HP,Contact5,Germany,Warehouse,East,GMT+5,Tag2
+141,Device948,Switch,Description of Device948,85.153.46.27,48:91:54:23:c7:55,SN60JMPV,ModelRI39,Active,No,Medium,Local,Group3,Dell,Dell,Contact4,USA,Warehouse,South,GMT-5,Tag2
+579,Device949,Printer,Description of Device949,84.251.42.53,9c:b0:85:ce:a6:44,SNB1X686,ModelNU5H,Inactive,Yes,High,Global,Group1,Dell,Dell,Contact5,USA,Warehouse,South,GMT-8,Tag2
+179,Device950,Router,Description of Device950,49.209.41.173,0a:98:00:d1:09:64,SNHZ3N8H,Model3ZWG,Active,No,Medium,Global,Group3,Dell,Juniper,Contact1,Germany,Warehouse,West,GMT-8,Tag1
+46,Device951,Server,Description of Device951,101.171.83.78,3f:dd:42:41:32:a8,SNQK22NZ,ModelQP1V,Inactive,Yes,Low,Global,Group4,Juniper,HP,Contact5,Germany,Datacenter,North,GMT-5,Tag3
+95,Device952,Router,Description of Device952,131.208.29.196,c2:dd:78:a9:22:15,SN8WRUOZ,Model80LN,Inactive,No,High,Local,Group1,HP,IBM,Contact4,Canada,Branch Office,East,GMT+5,Tag3
+445,Device953,Printer,Description of Device953,225.30.165.24,56:c1:8d:8b:8d:31,SNCZPF6R,Model8B56,Active,Yes,Medium,Local,Group4,Dell,Cisco,Contact2,Australia,Datacenter,West,GMT-5,Tag3
+370,Device954,Switch,Description of Device954,200.46.59.98,fd:f2:59:32:47:10,SNVB48JA,Model2UQ3,Active,Yes,High,Local,Group5,IBM,HP,Contact5,Germany,HQ,South,GMT+5,Tag2
+414,Device955,Switch,Description of Device955,208.81.88.251,29:9d:28:ad:4e:a6,SN67WF8V,Model1JRM,Inactive,Yes,High,Global,Group2,IBM,Juniper,Contact5,UK,Branch Office,North,GMT-5,Tag3
+28,Device956,Server,Description of Device956,26.211.20.40,01:79:0a:96:26:05,SNSYYJYI,Model3CT7,Inactive,Yes,High,Global,Group4,IBM,Cisco,Contact2,USA,Warehouse,South,GMT-5,Tag1
+714,Device957,Printer,Description of Device957,75.244.194.46,92:ab:45:60:3c:14,SNTCREBN,ModelCRU2,Inactive,No,Medium,Local,Group2,HP,Cisco,Contact4,Germany,Branch Office,North,GMT-5,Tag2
+701,Device958,Router,Description of Device958,203.236.80.241,b3:15:5f:6c:01:07,SNODEL7B,Model2ZRA,Active,Yes,Low,Local,Group1,IBM,HP,Contact5,Germany,HQ,North,GMT-5,Tag1
+896,Device959,Router,Description of Device959,112.213.115.136,ea:05:a8:16:ef:3c,SN393AEG,ModelN1ZY,Active,No,Low,Local,Group4,IBM,HP,Contact4,Germany,Branch Office,East,GMT-5,Tag1
+561,Device960,Switch,Description of Device960,98.232.107.17,a6:bb:4b:11:d9:0c,SNO3BYV7,ModelMILL,Inactive,No,Medium,Local,Group2,Cisco,Cisco,Contact3,Canada,Warehouse,West,GMT+5,Tag3
+430,Device961,Printer,Description of Device961,221.250.177.220,2e:38:8a:a9:6c:c1,SNFJ1S67,Model61LT,Inactive,Yes,High,Local,Group2,HP,HP,Contact4,USA,Branch Office,North,GMT+5,Tag3
+956,Device962,Router,Description of Device962,120.30.67.87,f9:da:a5:5e:67:11,SNHWJXJA,ModelNC9U,Active,No,Medium,Global,Group2,HP,Cisco,Contact2,USA,Datacenter,South,GMT-8,Tag2
+738,Device963,Switch,Description of Device963,38.241.75.30,82:e9:34:ef:35:b9,SN35P0U6,Model9V75,Active,Yes,Medium,Local,Group3,Dell,Juniper,Contact5,Germany,Warehouse,West,GMT-5,Tag3
+586,Device964,Printer,Description of Device964,9.79.129.61,eb:1c:60:2e:08:fa,SNHW7OWR,ModelOYEN,Inactive,Yes,High,Global,Group2,Cisco,Cisco,Contact5,Germany,HQ,North,GMT-8,Tag2
+52,Device965,Printer,Description of Device965,132.65.19.245,53:a4:b1:35:b6:ce,SNEOPCDB,ModelK6UI,Inactive,No,High,Global,Group4,Juniper,Juniper,Contact2,Germany,Branch Office,South,GMT-5,Tag2
+956,Device966,Switch,Description of Device966,244.189.162.166,da:eb:d6:2a:eb:88,SNYZCGEF,ModelE2DT,Active,No,High,Global,Group2,Cisco,Juniper,Contact2,UK,Datacenter,North,GMT+5,Tag3
+416,Device967,Router,Description of Device967,247.29.176.163,4d:83:cc:78:48:b9,SN1D6BSD,ModelB0J3,Inactive,No,High,Global,Group4,HP,Dell,Contact1,UK,Branch Office,South,GMT+5,Tag3
+338,Device968,Printer,Description of Device968,7.3.177.215,49:2e:10:89:61:e0,SNZHSEBI,Model254N,Inactive,No,Medium,Local,Group1,Juniper,Cisco,Contact5,UK,HQ,South,GMT+5,Tag1
+327,Device969,Printer,Description of Device969,203.107.235.201,1a:10:e6:0e:8e:c8,SNCBNXR9,ModelZAA9,Inactive,No,Medium,Local,Group1,Dell,Dell,Contact2,Australia,HQ,East,GMT-8,Tag2
+116,Device970,Switch,Description of Device970,222.63.79.4,20:ef:6e:c5:2d:49,SNYFJVNK,Model349Z,Inactive,Yes,Low,Global,Group4,Dell,IBM,Contact1,Australia,Branch Office,North,GMT+1,Tag1
+4,Device971,Server,Description of Device971,48.185.158.85,e2:ee:39:4e:db:73,SNYBYTQT,ModelMGWO,Active,Yes,Medium,Local,Group3,Dell,Cisco,Contact2,Australia,Branch Office,South,GMT+5,Tag2
+122,Device972,Router,Description of Device972,103.136.205.71,eb:96:8c:b2:13:6a,SNVTUD7V,Model9Z21,Active,Yes,Low,Local,Group1,IBM,Dell,Contact4,Canada,HQ,South,GMT-5,Tag1
+741,Device973,Switch,Description of Device973,4.170.93.100,a1:d3:fa:25:95:d9,SNMZHLRJ,ModelR8NA,Active,Yes,Low,Global,Group4,IBM,IBM,Contact1,USA,Datacenter,South,GMT-8,Tag1
+696,Device974,Server,Description of Device974,240.81.114.247,d0:1d:d3:2c:bf:6f,SNMEQPE2,ModelMD2O,Inactive,No,Medium,Local,Group3,Juniper,Cisco,Contact4,Germany,Branch Office,West,GMT+5,Tag1
+510,Device975,Printer,Description of Device975,111.210.220.97,8b:6f:b6:b1:8c:1c,SNHWJ8UV,Model9RAK,Inactive,Yes,Low,Local,Group3,Juniper,Cisco,Contact3,Australia,Datacenter,North,GMT+5,Tag3
+269,Device976,Switch,Description of Device976,222.97.126.228,2e:d1:71:d5:0a:79,SNW7JZ5Z,ModelDYM1,Inactive,Yes,Medium,Global,Group5,Dell,Juniper,Contact1,UK,Branch Office,North,GMT-5,Tag2
+978,Device977,Router,Description of Device977,193.35.86.207,85:12:79:56:30:c8,SNDB77ZU,ModelLAP9,Inactive,Yes,High,Local,Group2,HP,Cisco,Contact1,Germany,Datacenter,South,GMT-5,Tag1
+344,Device978,Switch,Description of Device978,106.106.34.118,a7:55:f4:56:da:91,SNAL5WIP,ModelGKMJ,Inactive,Yes,Low,Local,Group1,IBM,HP,Contact4,Germany,Branch Office,East,GMT-5,Tag1
+167,Device979,Printer,Description of Device979,136.135.243.95,d4:09:20:14:b4:c5,SNS4W2XT,Model3R1C,Inactive,No,Medium,Local,Group5,Dell,Juniper,Contact1,Canada,Branch Office,West,GMT+5,Tag2
+796,Device980,Router,Description of Device980,153.246.210.15,85:70:c1:09:4a:82,SNBSAJID,ModelDTHP,Inactive,Yes,High,Local,Group3,Dell,Cisco,Contact3,UK,HQ,West,GMT+1,Tag1
+257,Device981,Server,Description of Device981,192.75.64.39,48:98:2e:19:fd:8d,SN2GZVNO,ModelARJO,Active,Yes,Medium,Global,Group3,IBM,HP,Contact2,Germany,Branch Office,West,GMT-8,Tag1
+239,Device982,Printer,Description of Device982,83.15.214.95,43:3b:08:1a:5f:6e,SNKLLHTH,ModelW16H,Active,No,Medium,Local,Group1,Juniper,IBM,Contact2,USA,Warehouse,West,GMT-8,Tag2
+594,Device983,Printer,Description of Device983,152.244.213.71,2f:eb:05:b5:6c:bd,SN49TN41,ModelTEAJ,Active,No,High,Local,Group2,Juniper,HP,Contact2,UK,Branch Office,West,GMT+5,Tag1
+512,Device984,Printer,Description of Device984,18.70.183.5,ec:e0:41:e7:3b:6a,SN16KIT5,Model769X,Active,No,High,Local,Group2,IBM,HP,Contact4,UK,Datacenter,South,GMT+1,Tag2
+645,Device985,Switch,Description of Device985,211.2.38.26,63:a0:52:ec:5c:44,SNWVLPJJ,Model2D3G,Inactive,Yes,High,Global,Group3,IBM,Dell,Contact2,Germany,Branch Office,South,GMT-5,Tag2
+1,Device986,Printer,Description of Device986,197.96.108.151,91:da:f1:64:eb:55,SNZIOG4U,ModelVK60,Active,No,Low,Local,Group4,HP,IBM,Contact1,USA,Warehouse,South,GMT+5,Tag1
+20,Device987,Switch,Description of Device987,51.221.117.201,d7:c9:6a:95:27:32,SNDL5GHL,ModelXC6N,Inactive,No,Medium,Global,Group2,Dell,Cisco,Contact1,USA,HQ,West,GMT-8,Tag3
+527,Device988,Firewall,Description of Device988,228.7.65.61,af:5c:c5:a5:49:aa,SNABELKW,ModelSGET,Inactive,No,Low,Local,Group1,Juniper,HP,Contact3,UK,Warehouse,South,GMT-5,Tag3
+466,Device989,Router,Description of Device989,6.237.132.233,08:40:a6:ee:7a:60,SN7XFTTS,Model6AD1,Inactive,Yes,Low,Local,Group2,Dell,Juniper,Contact3,Australia,Datacenter,East,GMT-8,Tag2
+588,Device990,Switch,Description of Device990,72.116.106.144,8c:4c:a1:4c:91:bb,SNV7M9KK,ModelIN8Q,Inactive,Yes,Low,Local,Group2,Juniper,Cisco,Contact5,USA,Branch Office,East,GMT+5,Tag2
+541,Device991,Router,Description of Device991,253.45.129.255,98:ca:2a:9b:b2:c7,SND5K32H,ModelA0GX,Inactive,No,High,Local,Group3,Juniper,HP,Contact3,Germany,Datacenter,West,GMT+1,Tag2
+313,Device992,Server,Description of Device992,231.124.54.33,dc:33:26:42:e3:e1,SNGWSNJK,Model2QWY,Active,No,Medium,Local,Group3,IBM,IBM,Contact2,Australia,Datacenter,South,GMT+5,Tag3
+771,Device993,Switch,Description of Device993,136.205.11.175,83:86:c9:ac:1f:ac,SNWSRUG2,ModelQ19B,Active,No,Medium,Global,Group1,IBM,IBM,Contact1,Australia,HQ,West,GMT+1,Tag2
+870,Device994,Router,Description of Device994,147.186.134.114,a9:18:39:e8:bd:85,SNXM34O4,ModelXRPD,Active,Yes,Medium,Global,Group4,Juniper,HP,Contact4,Germany,HQ,North,GMT+5,Tag2
+825,Device995,Server,Description of Device995,103.106.195.56,65:9c:3f:32:1e:f0,SNHH07D0,ModelU0EJ,Active,No,Low,Local,Group5,HP,Dell,Contact1,Canada,Branch Office,West,GMT+5,Tag2
+610,Device996,Router,Description of Device996,118.122.80.2,52:65:4d:eb:d9:da,SNSQXSF2,Model89TJ,Active,Yes,Low,Local,Group1,Dell,HP,Contact3,Germany,Warehouse,West,GMT-5,Tag3
+489,Device997,Firewall,Description of Device997,134.234.237.17,a5:ec:d6:a4:36:84,SN6DM8CL,Model739G,Active,Yes,High,Local,Group1,IBM,IBM,Contact2,Australia,Datacenter,East,GMT-5,Tag2
+558,Device998,Server,Description of Device998,125.160.95.184,08:fa:74:6c:74:b1,SNRBXIBW,ModelL8OM,Active,Yes,Medium,Local,Group1,Juniper,IBM,Contact2,Germany,Datacenter,East,GMT+5,Tag3
+344,Device999,Server,Description of Device999,18.81.131.205,ae:62:de:57:e5:fa,SNKZTJMW,Model8872,Inactive,No,Medium,Global,Group1,Cisco,Juniper,Contact4,UK,HQ,South,GMT+5,Tag2
+375,Device1000,Switch,Description of Device1000,52.248.196.149,ec:4d:b2:ef:06:1e,SNKNH4AQ,ModelEFKH,Inactive,Yes,High,Global,Group5,Dell,IBM,Contact1,UK,Warehouse,East,GMT+1,Tag1
