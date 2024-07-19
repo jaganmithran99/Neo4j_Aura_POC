@@ -1,7 +1,7 @@
 import time
 import uuid
 
-from neo4j import GraphDatabase
+from neo4j import GraphDatabase, WRITE_ACCESS
 
 
 class BulkImportTopologyWithRelationsService:
@@ -29,17 +29,20 @@ class BulkImportTopologyWithRelationsService:
 
     def bulk_import(self, device_file_path, rel_file_path):
         start = time.time()
-        with self._driver.session() as session:
+        with self._driver.session(default_access_mode=WRITE_ACCESS) as session:
             self._create_constraint(session)
             n_start = time.time()
             session.execute_write(self._import_nodes, device_file_path)
+            # self._run_import_nodes(session, device_file_path)
             n_end = time.time()
             print("Time taken to bulk import nodes: " + str(n_end - n_start))
             r_start = time.time()
             session.execute_write(self._import_relationship, rel_file_path)
+            # self._run_import_relationship(session, rel_file_path)
             r_end = time.time()
             print("Time taken to bulk import relations: " + str(r_end - r_start))
-            self._driver.close()
+            session.close()
+        self._driver.close()
 
         end = time.time()
         print("BulkImportTopologyWithRelationsService Total Timing: " + str(end - start))
@@ -54,6 +57,14 @@ class BulkImportTopologyWithRelationsService:
             file=f"{file_path}", internalAssetId=str(uuid.uuid4())
         )
 
+    def _run_import_nodes(self, session, file_path):
+        session.run(
+            "LOAD CSV WITH HEADERS FROM $file AS row "
+            f"CALL {{WITH row MERGE (n:{self._node_label} {{{self._generate_field_mappings()}}}) ON CREATE SET n += "
+            f"row, n.internalAssetId = $internalAssetId}} IN TRANSACTIONS OF 10000 rows",
+            file=f"{file_path}", internalAssetId=str(uuid.uuid4())
+        )
+
     def _import_relationship(self, tx, file_path):
         tx.run(
             "LOAD CSV WITH HEADERS FROM $file AS row "
@@ -61,6 +72,20 @@ class BulkImportTopologyWithRelationsService:
             f"MATCH (target:{self._node_label} {{assetId: row.`Target Asset ID`}}) "
             "CALL apoc.create.relationship(source, row.`Relationship Type Name`, apoc.map.removeKeys(row, ['Source Asset ID', 'Target Asset ID', 'Relationship Type Name']), target) YIELD rel "
             "RETURN rel",
+            file=f"{file_path}"
+        )
+
+    def _run_import_relationship(self, session, file_path):
+        session.run(
+            "LOAD CSV WITH HEADERS FROM $file AS row "
+            "CALL {"
+            "WITH row "
+            f"MATCH (source:{self._node_label} {{assetId: row.`Source Asset ID`}}) "
+            f"MATCH (target:{self._node_label} {{assetId: row.`Target Asset ID`}}) "
+            "CALL apoc.create.relationship(source, row.`Relationship Type Name`, apoc.map.removeKeys(row, ['Source Asset ID', 'Target Asset ID', 'Relationship Type Name']), target) YIELD rel "
+            "RETURN count(rel) AS rel_count } "
+            "IN TRANSACTIONS OF 10000 rows "
+            "RETURN sum(rel_count) AS totalRelCount",
             file=f"{file_path}"
         )
 

@@ -1,7 +1,7 @@
 import time
 import traceback
 
-from neo4j import GraphDatabase
+from neo4j import GraphDatabase, READ_ACCESS
 
 logger_tag = "[RETRIEVE-NODE-RELATIONS] "
 
@@ -81,7 +81,7 @@ class RetrieveNodeAndRelations(object):
     def retrieve_relation_using_node_name(self) -> dict:
         try:
             start_time = time.time()
-            with self.driver.session() as session:
+            with self.driver.session(default_access_mode=READ_ACCESS) as session:
                 if self.relationship_types:
                     for types in self.relationship_types:
                         relationship_type = types.get("relation", "")

@@ -3,7 +3,7 @@ import uuid
 from typing import List
 
 import pandas as pd
-from neo4j import GraphDatabase
+from neo4j import GraphDatabase, WRITE_ACCESS
 
 
 class ImportTopologyWithRelationsService:
@@ -35,7 +35,7 @@ class ImportTopologyWithRelationsService:
 
     def process_input(self):
         start = time.time()
-        with self._driver.session() as session:
+        with self._driver.session(default_access_mode=WRITE_ACCESS) as session:
             self._create_indices(session)
             self._create_constraints(session)
             self._create_nodes(session)
