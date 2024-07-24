@@ -14,6 +14,7 @@ class RetrieveNodeAndRelations(object):
         self.node_name: str = node_name
         self.relationship_types: list[dict] = relationship_types
         self.direction: str = direction
+        self.node_label: str = "CI_1K"
         self.limit: int = limit
         self.relation_levels = relation_levels
         self.node_and_its_relations: list = []
@@ -38,24 +39,24 @@ class RetrieveNodeAndRelations(object):
     def _build_query(self, relationship_type, direction, relation_level):
         if direction.lower() == "incoming":
             query = (
-                f"MATCH p = (node:CI)<-[r*1..{relation_level}]-(related) "
-                f"WHERE node.name = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
+                f"MATCH p = (node:{self.node_label})<-[r*1..{relation_level}]-(related) "
+                f"WHERE node.assetName = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
                 "WITH node, relationships(p) AS rels, related "
                 f"LIMIT {self.limit} "
                 "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
             )
         elif direction.lower() == "outgoing":
             query = (
-                f"MATCH p = (node:CI)-[r*1..{relation_level}]->(related) "
-                f"WHERE node.name = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
+                f"MATCH p = (node:{self.node_label})-[r*1..{relation_level}]->(related) "
+                f"WHERE node.assetName = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
                 "WITH node, relationships(p) AS rels, related "
                 f"LIMIT {self.limit} "
                 "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
             )
         else:
             query = (
-                f"MATCH p = (node:CI)-[r*1..{relation_level}]-(related) "
-                f"WHERE node.name = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
+                f"MATCH p = (node:{self.node_label})-[r*1..{relation_level}]-(related) "
+                f"WHERE node.assetName = $assetName AND ALL(rel IN r WHERE type(rel) = '{relationship_type}') "
                 "WITH node, relationships(p) AS rels, related "
                 f"LIMIT {self.limit} "
                 "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
@@ -93,8 +94,8 @@ class RetrieveNodeAndRelations(object):
                     if self.direction.lower() == "incoming":
                         '''query to fetch incoming relations'''
                         query = (
-                            f"MATCH p = (node:CI)<-[r*1..{self.relation_levels}]-(related) "
-                            f"WHERE node.name = $assetName "
+                            f"MATCH p = (node:{self.node_label})<-[r*1..{self.relation_levels}]-(related) "
+                            f"WHERE node.assetName = $assetName "
                             "WITH node, relationships(p) AS rels, related "
                             f"LIMIT {self.limit} "
                             "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
@@ -103,8 +104,8 @@ class RetrieveNodeAndRelations(object):
                     elif self.direction.lower() == "outgoing":
                         '''query to fetch outgoing relations'''
                         query = (
-                            f"MATCH p = (node:CI)-[r*1..{self.relation_levels}]->(related) "
-                            f"WHERE node.name = $assetName "
+                            f"MATCH p = (node:{self.node_label})-[r*1..{self.relation_levels}]->(related) "
+                            f"WHERE node.assetName = $assetName "
                             "WITH node, relationships(p) AS rels, related "
                             f"LIMIT {self.limit} "
                             "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
@@ -113,8 +114,8 @@ class RetrieveNodeAndRelations(object):
                     else:
                         ''' query to fetch both incoming and outgoing relations '''
                         query = (
-                            f"MATCH p = (node:CI)-[r*1..{self.relation_levels}]-(related) "
-                            f"WHERE node.name = $assetName "
+                            f"MATCH p = (node:{self.node_label})-[r*1..{self.relation_levels}]-(related) "
+                            f"WHERE node.assetName = $assetName "
                             "WITH node, relationships(p) AS rels, related "
                             f"LIMIT {self.limit} "
                             "RETURN COLLECT({relatedNode: related.name, positionNumber: size(rels), relation: type(rels[size(rels) - 1]), relatedNodeProperties: properties(related)}) AS data"
@@ -137,7 +138,7 @@ if __name__ == "__main__":
     project_id = 60
     relationship_types = []
     direction = ""
-    relation_levels = 1
+    relation_levels = 10
     limit = 500
     obj = RetrieveNodeAndRelations(node_name, project_id, relationship_types,
                                    direction, relation_levels, limit)
