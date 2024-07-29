@@ -61,9 +61,8 @@ class BulkImportTopologyWithRelationsService:
         session.run(
             "LOAD CSV WITH HEADERS FROM $file AS row "
             f"CALL {{WITH row MERGE (n:{self._node_label} {{assetId: row.`Asset ID`}}) "
-            f"SET {self._generate_field_mappings()}, n.internalAssetId = $internalAssetId}} IN TRANSACTIONS OF 10000 rows",
-            file=f"{file_path}", internalAssetId=str(uuid.uuid4())
-        )
+            f"SET {self._generate_field_mappings()}, n.internalAssetId = apoc.create.uuid()}} IN TRANSACTIONS OF 10000 rows",
+            file=f"{file_path}")
 
     # def _import_relationship(self, tx, file_path):
     #     tx.run(
