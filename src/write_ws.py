@@ -11,8 +11,8 @@ class ImportTopologyWithRelationsService:
         self._project_id: int = int(project_id)
         self._device_details_data: List[dict] = device_details_data
         self._relationship_data: List[dict] = relationship_data
-        self._node_label = "CI"
-        self._unique_properties = ["internalAssetId", "assetId"]
+        self._node_label = "CI_10K_loop"
+        self._unique_properties = ["assetId"]
         self._node_indices = ["name"]
         self._rel_indices = ["type", "assetId"]
         self._driver = self._establish_connection()
@@ -137,10 +137,12 @@ class ImportTopologyWithRelationsService:
         start = time.time()
 
         def _create_indices_tx(tx):
-            node_index_query = f"CREATE INDEX composite_range_node_index_name IF NOT EXISTS FOR (n:{self._node_label}) ON ({', '.join(f'n.{index}' for index in self._node_indices)})"
-            rel_index_query = f"CREATE INDEX composite_range_rel_index_name1 IF NOT EXISTS FOR ()-[r:{self._node_label}]-() ON ({', '.join(f'r.{index}' for index in self._rel_indices)})"
-            tx.run(node_index_query)
-            tx.run(rel_index_query)
+            for index in self._node_indices:
+                node_index_query = f"CREATE INDEX composite_range_node_index_name IF NOT EXISTS FOR (n:{self._node_label}) ON (n.{index})"
+                tx.run(node_index_query)
+            for index in self._rel_indices:
+                rel_index_query = f"CREATE INDEX composite_range_rel_index_name1 IF NOT EXISTS FOR ()-[r:{self._node_label}]-() ON (r.{index})"
+                tx.run(rel_index_query)
 
         session.execute_write(_create_indices_tx)
         end = time.time()
@@ -152,7 +154,7 @@ class ImportTopologyWithRelationsService:
         def _create_constraints_tx(tx):
             cypher_query = (
                 f"CREATE CONSTRAINT IF NOT EXISTS FOR (label:{self._node_label}) "
-                f"REQUIRE ({', '.join(f'label.{prop}' for prop in self._unique_properties)}) IS UNIQUE"
+                f"REQUIRE ({', '.join(f'label.{prop}' for prop in self._unique_properties)}) IS NODE KEY"
             )
             tx.run(cypher_query)
 
